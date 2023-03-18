@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "JoKiv.fi",
+    "title": "JoKiv",
     "description": "",
     "home_page_url": "https://jokiv.fi",
     "feed_url": "https://jokiv.fi/feed.json",
@@ -14,7 +14,7 @@
             "url": "https://jokiv.fi/saeaetoeae-ja-saeaestoetoimia/",
             "title": "Säätöä ja säästötoimia",
             "summary": "Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa.",
-            "content_html": "<p>Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa.</p>",
+            "content_html": "<p>Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa.</p>\n<p> </p>",
             "author": {
                 "name": "JoKiv"
             },
@@ -22,7 +22,7 @@
                    "blogi"
             ],
             "date_published": "2023-03-18T11:44:09+02:00",
-            "date_modified": "2023-03-18T11:44:09+02:00"
+            "date_modified": "2023-03-18T11:51:25+02:00"
         },
         {
             "id": "https://jokiv.fi/ajatuksia-taestae-vuodesta/",

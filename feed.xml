@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>JoKiv.fi</title>
+    <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-03-18T11:44:09+02:00</updated>
+    <updated>2023-03-18T11:51:25+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://jokiv.fi/saeaetoeae-ja-saeaestoetoimia/</id>
             <category term="blogi"/>
 
-        <updated>2023-03-18T11:44:09+02:00</updated>
+        <updated>2023-03-18T11:51:25+02:00</updated>
             <summary>
                 <![CDATA[
                     Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa.
@@ -27,6 +27,7 @@
         <content type="html">
             <![CDATA[
                 <p>Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa.</p>
+<p> </p>
             ]]>
         </content>
     </entry>
