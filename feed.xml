@@ -3,12 +3,33 @@
     <title>JoKiv.fi</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-03-18T08:38:10+02:00</updated>
+    <updated>2023-03-18T11:44:09+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Säätöä ja säästötoimia</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/saeaetoeae-ja-saeaestoetoimia/"/>
+        <id>https://jokiv.fi/saeaetoeae-ja-saeaestoetoimia/</id>
+            <category term="blogi"/>
+
+        <updated>2023-03-18T11:44:09+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ajatuksia tästä vuodesta</title>
         <author>
@@ -389,49 +410,6 @@
 <!-- /wp:paragraph -->
 <!-- wp:paragraph --></p>
 <p>Muutama ensimmäinen, joka tämän selvittää, tullaan palkitsemaan vuoden lopussa.</p>
-<p>
-<!-- /wp:paragraph --></p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Kun laitteet hajoaa</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/kun-laitteet-hajoaa/"/>
-        <id>https://jokiv.fi/kun-laitteet-hajoaa/</id>
-            <category term="twitch"/>
-            <category term="mene töihin"/>
-            <category term="discord"/>
-
-        <updated>2022-11-21T18:57:33+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Näyttäisi siltä että alkaa ikävä totuus tulee vastaan tuosta vanhasta tietokoneesta, jota käytän striimaamiseen. Se on vanha, eikä se kestä ikuisesti. Kone on kaverilta aikanaan saatu ja hän on ostanut sen yli kymmenen vuotta sitten. Päivitellyt muutamia osia ja itse olen myös päivittänyt siihen siihen&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:paragraph --></p>
-<p>Näyttäisi siltä että alkaa ikävä totuus tulee vastaan tuosta vanhasta tietokoneesta, jota käytän striimaamiseen. Se on vanha, eikä se kestä ikuisesti. Kone on kaverilta aikanaan saatu ja hän on ostanut sen yli kymmenen vuotta sitten. Päivitellyt muutamia osia ja itse olen myös päivittänyt siihen siihen muistit, virtalähteen ja näytönohjaimen.</p>
-<p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph --></p>
-<p>Eilisessä striimissä alkoi äänet sekoilemaan. Sain sen nyt korjattua toisilla kuulokkeilla, mutta oletettavasti vika on enemmän USB puolella kuin kuulokkeissa. </p>
-<p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph --></p>
-<p>Täytyy nyt toivoa, että ei tulisi liikaa vikoja. Tällä hetkellä ei ole oikein varallisuutta korjata tai hommata uusia osia, että saisi toimimaan niitä vanhempia koneita mitä minulla on. </p>
-<p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph --></p>
-<p>Toki monet voivat muistaa, että minulla on tuolla vähän uudempi kone, joka on korjausta vaille valmis. Se kone oli ostettu 2014. Pakettikone johon on päivitetty muisteja ja kiintolevyt. En muista, mitä siihen tarvii, mutta ei mitään saa ilmaiseksi. Täytyy katsoa se tässä kesällä.</p>
-<p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph --></p>
-<p>Täytyy toivoa, että tämä ei liikaa vaikuta striimaamiseen ja muihin asioihin, mitä päivittäin tekee discordissa. Aika näyttää.</p>
 <p>
 <!-- /wp:paragraph --></p>
 

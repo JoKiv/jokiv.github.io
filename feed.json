@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/saeaetoeae-ja-saeaestoetoimia/",
+            "url": "https://jokiv.fi/saeaetoeae-ja-saeaestoetoimia/",
+            "title": "Säätöä ja säästötoimia",
+            "summary": "Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa.",
+            "content_html": "<p>Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "blogi"
+            ],
+            "date_published": "2023-03-18T11:44:09+02:00",
+            "date_modified": "2023-03-18T11:44:09+02:00"
+        },
+        {
             "id": "https://jokiv.fi/ajatuksia-taestae-vuodesta/",
             "url": "https://jokiv.fi/ajatuksia-taestae-vuodesta/",
             "title": "Ajatuksia tästä vuodesta",
@@ -151,23 +166,6 @@
                    "Vimeo"
             ],
             "date_published": "2022-07-08T12:00:12+03:00",
-            "date_modified": "2022-11-21T18:57:33+02:00"
-        },
-        {
-            "id": "https://jokiv.fi/kun-laitteet-hajoaa/",
-            "url": "https://jokiv.fi/kun-laitteet-hajoaa/",
-            "title": "Kun laitteet hajoaa",
-            "summary": "Näyttäisi siltä että alkaa ikävä totuus tulee vastaan tuosta vanhasta tietokoneesta, jota käytän striimaamiseen. Se on vanha, eikä se kestä ikuisesti. Kone on kaverilta aikanaan saatu ja hän on ostanut sen yli kymmenen vuotta sitten. Päivitellyt muutamia osia ja itse olen myös päivittänyt siihen siihen&hellip;",
-            "content_html": "<p><!-- wp:paragraph --></p>\n<p>Näyttäisi siltä että alkaa ikävä totuus tulee vastaan tuosta vanhasta tietokoneesta, jota käytän striimaamiseen. Se on vanha, eikä se kestä ikuisesti. Kone on kaverilta aikanaan saatu ja hän on ostanut sen yli kymmenen vuotta sitten. Päivitellyt muutamia osia ja itse olen myös päivittänyt siihen siihen muistit, virtalähteen ja näytönohjaimen.</p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Eilisessä striimissä alkoi äänet sekoilemaan. Sain sen nyt korjattua toisilla kuulokkeilla, mutta oletettavasti vika on enemmän USB puolella kuin kuulokkeissa. </p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Täytyy nyt toivoa, että ei tulisi liikaa vikoja. Tällä hetkellä ei ole oikein varallisuutta korjata tai hommata uusia osia, että saisi toimimaan niitä vanhempia koneita mitä minulla on. </p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Toki monet voivat muistaa, että minulla on tuolla vähän uudempi kone, joka on korjausta vaille valmis. Se kone oli ostettu 2014. Pakettikone johon on päivitetty muisteja ja kiintolevyt. En muista, mitä siihen tarvii, mutta ei mitään saa ilmaiseksi. Täytyy katsoa se tässä kesällä.</p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Täytyy toivoa, että tämä ei liikaa vaikuta striimaamiseen ja muihin asioihin, mitä päivittäin tekee discordissa. Aika näyttää.</p>\n<p>\n<!-- /wp:paragraph --></p>\n",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "twitch",
-                   "mene töihin",
-                   "discord"
-            ],
-            "date_published": "2022-06-02T09:00:44+03:00",
             "date_modified": "2022-11-21T18:57:33+02:00"
         }
     ]
