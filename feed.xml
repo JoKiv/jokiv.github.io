@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>JoKiv.fi</title>
-    <link href="https://jokiv.github.io/feed.xml" rel="self" />
-    <link href="https://jokiv.github.io" />
+    <link href="https://jokiv.fi/feed.xml" rel="self" />
+    <link href="https://jokiv.fi" />
     <updated>2023-03-18T08:38:10+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
-    <id>https://jokiv.github.io</id>
+    <id>https://jokiv.fi</id>
 
     <entry>
         <title>Ajatuksia tästä vuodesta</title>
         <author>
             <name>JoKiv</name>
         </author>
-        <link href="https://jokiv.github.io/ajatuksia-taestae-vuodesta/"/>
-        <id>https://jokiv.github.io/ajatuksia-taestae-vuodesta/</id>
+        <link href="https://jokiv.fi/ajatuksia-taestae-vuodesta/"/>
+        <id>https://jokiv.fi/ajatuksia-taestae-vuodesta/</id>
             <category term="twitch"/>
             <category term="linux"/>
             <category term="discord"/>
@@ -39,8 +39,8 @@
         <author>
             <name>JoKiv</name>
         </author>
-        <link href="https://jokiv.github.io/ylimaeaeraeisiae-sosiaalisia-medioita/"/>
-        <id>https://jokiv.github.io/ylimaeaeraeisiae-sosiaalisia-medioita/</id>
+        <link href="https://jokiv.fi/ylimaeaeraeisiae-sosiaalisia-medioita/"/>
+        <id>https://jokiv.fi/ylimaeaeraeisiae-sosiaalisia-medioita/</id>
             <category term="snapchat"/>
             <category term="instagram"/>
 
@@ -69,8 +69,8 @@
         <author>
             <name>JoKiv</name>
         </author>
-        <link href="https://jokiv.github.io/pelien-tekeminen-jatkuu/"/>
-        <id>https://jokiv.github.io/pelien-tekeminen-jatkuu/</id>
+        <link href="https://jokiv.fi/pelien-tekeminen-jatkuu/"/>
+        <id>https://jokiv.fi/pelien-tekeminen-jatkuu/</id>
             <category term="linux"/>
             <category term="YouTube"/>
             <category term="Steam Deck"/>
@@ -103,8 +103,8 @@
         <author>
             <name>JoKiv</name>
         </author>
-        <link href="https://jokiv.github.io/kesaeauton-haastesta/"/>
-        <id>https://jokiv.github.io/kesaeauton-haastesta/</id>
+        <link href="https://jokiv.fi/kesaeauton-haastesta/"/>
+        <id>https://jokiv.fi/kesaeauton-haastesta/</id>
             <category term="twitch"/>
             <category term="Steam Deck"/>
 
@@ -137,8 +137,8 @@
         <author>
             <name>JoKiv</name>
         </author>
-        <link href="https://jokiv.github.io/assembly-winter-2023/"/>
-        <id>https://jokiv.github.io/assembly-winter-2023/</id>
+        <link href="https://jokiv.fi/assembly-winter-2023/"/>
+        <id>https://jokiv.fi/assembly-winter-2023/</id>
 
         <updated>2022-11-21T18:57:33+02:00</updated>
             <summary>
@@ -165,8 +165,8 @@
         <author>
             <name>JoKiv</name>
         </author>
-        <link href="https://jokiv.github.io/tietosuojaseloste/"/>
-        <id>https://jokiv.github.io/tietosuojaseloste/</id>
+        <link href="https://jokiv.fi/tietosuojaseloste/"/>
+        <id>https://jokiv.fi/tietosuojaseloste/</id>
 
         <updated>2022-11-21T18:57:32+02:00</updated>
             <summary>
@@ -285,8 +285,8 @@
         <author>
             <name>JoKiv</name>
         </author>
-        <link href="https://jokiv.github.io/kesaeauton-haaste-hankaloitui/"/>
-        <id>https://jokiv.github.io/kesaeauton-haaste-hankaloitui/</id>
+        <link href="https://jokiv.fi/kesaeauton-haaste-hankaloitui/"/>
+        <id>https://jokiv.fi/kesaeauton-haaste-hankaloitui/</id>
             <category term="twitch"/>
             <category term="mene töihin"/>
             <category term="Steam Deck"/>
@@ -324,8 +324,8 @@
         <author>
             <name>JoKiv</name>
         </author>
-        <link href="https://jokiv.github.io/subathon/"/>
-        <id>https://jokiv.github.io/subathon/</id>
+        <link href="https://jokiv.fi/subathon/"/>
+        <id>https://jokiv.fi/subathon/</id>
             <category term="twitch"/>
 
         <updated>2022-11-21T18:57:33+02:00</updated>
@@ -361,8 +361,8 @@
         <author>
             <name>JoKiv</name>
         </author>
-        <link href="https://jokiv.github.io/jotain-pientae-lisaeksi/"/>
-        <id>https://jokiv.github.io/jotain-pientae-lisaeksi/</id>
+        <link href="https://jokiv.fi/jotain-pientae-lisaeksi/"/>
+        <id>https://jokiv.fi/jotain-pientae-lisaeksi/</id>
             <category term="twitch"/>
             <category term="YouTube"/>
             <category term="Vimeo"/>
@@ -400,8 +400,8 @@
         <author>
             <name>JoKiv</name>
         </author>
-        <link href="https://jokiv.github.io/kun-laitteet-hajoaa/"/>
-        <id>https://jokiv.github.io/kun-laitteet-hajoaa/</id>
+        <link href="https://jokiv.fi/kun-laitteet-hajoaa/"/>
+        <id>https://jokiv.fi/kun-laitteet-hajoaa/</id>
             <category term="twitch"/>
             <category term="mene töihin"/>
             <category term="discord"/>

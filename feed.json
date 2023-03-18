@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "JoKiv.fi",
     "description": "",
-    "home_page_url": "https://jokiv.github.io",
-    "feed_url": "https://jokiv.github.io/feed.json",
+    "home_page_url": "https://jokiv.fi",
+    "feed_url": "https://jokiv.fi/feed.json",
     "user_comment": "",
     "author": {
         "name": "JoKiv"
     },
     "items": [
         {
-            "id": "https://jokiv.github.io/ajatuksia-taestae-vuodesta/",
-            "url": "https://jokiv.github.io/ajatuksia-taestae-vuodesta/",
+            "id": "https://jokiv.fi/ajatuksia-taestae-vuodesta/",
+            "url": "https://jokiv.fi/ajatuksia-taestae-vuodesta/",
             "title": "Ajatuksia tästä vuodesta",
             "summary": "Ihmiset ovat kyselleet tulevasta. Suunnitelmista ympäri vuoden. Assembly? Striimit? Pelimaraton? Totta puhuakseni, minulla ei ole niistä tällä hetkellä yhtään aatosta. Ainoa tän hetkinen suunnitelma on osallistua yhteen tulevaan asiaan (josta ei tule tämän enempää infoa julkisesti) ja sen perusteella joutuu melkein päättämään, jatketaanko edellisiäkään suunnitelmia,&hellip;",
             "content_html": "<p>Ihmiset ovat kyselleet tulevasta. Suunnitelmista ympäri vuoden. Assembly? Striimit? Pelimaraton?</p>\n<p>Totta puhuakseni, minulla ei ole niistä tällä hetkellä yhtään aatosta. Ainoa tän hetkinen suunnitelma on osallistua yhteen tulevaan asiaan (josta ei tule tämän enempää infoa julkisesti) ja sen perusteella joutuu melkein päättämään, jatketaanko edellisiäkään suunnitelmia, vai pistetäänkö ”pillit pussiin”.<br><br>Asia lähti tuosta koneen rikkoutumisesta tai oikeastaan jo joku kk sitä ennen, kun se alkoi oireilemaan. Se, että pystyin jatkaaman asioita eteenpäin, veti suunnileen kaikki säästöt. Yleensä vuoden alku mennään pienellä budjetilla, mutta tämä vuosi alkoi aika nollasta. Vielä ei olla miinuksella, mutta suunta on alaspäin, jos tää yksi tuleva asia ei auta.<br><br>Katsellaan miten menee. Todennäköisesti tästä päästään yli, mutta asioiden mennessä miinukselle, jatkoa on odotettavissa hitaammin. Ainakin toivon, että asiat jatkuvat. Edes myöhemmin.</p>",
@@ -28,8 +28,8 @@
             "date_modified": "2023-03-18T08:38:10+02:00"
         },
         {
-            "id": "https://jokiv.github.io/ylimaeaeraeisiae-sosiaalisia-medioita/",
-            "url": "https://jokiv.github.io/ylimaeaeraeisiae-sosiaalisia-medioita/",
+            "id": "https://jokiv.fi/ylimaeaeraeisiae-sosiaalisia-medioita/",
+            "url": "https://jokiv.fi/ylimaeaeraeisiae-sosiaalisia-medioita/",
             "title": "Ylimääräisiä sosiaalisia medioita",
             "summary": "Tämä ajatus lähti aikaisemmin, kun poistin Instagramin ja Snapchatin tunnukset. Tuli huomattua, ettei niile tarvetta ole. Tullut siihen päätökseen, että jos menee kuukausia ilman käyttöä, niin voisi laskea itselle turhaksi. Toki osa tulee olemaan käytössä esimerkiksi sukulaisten vuoksi. Ne jotka tietävät puhelinnumeron, löytävät minut muutenkin&hellip;",
             "content_html": "<p><!-- wp:paragraph --></p>\n<p>Tämä ajatus lähti aikaisemmin, kun poistin Instagramin ja Snapchatin tunnukset. Tuli huomattua, ettei niile tarvetta ole. Tullut siihen päätökseen, että jos menee kuukausia ilman käyttöä, niin voisi laskea itselle turhaksi. Toki osa tulee olemaan käytössä esimerkiksi sukulaisten vuoksi.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Ne jotka tietävät puhelinnumeron, löytävät minut muutenkin whatsappissa, telegrammissa ja signalissa. Myös Threema löytyy, mutta sen muutaman euron hinta ei tunnu monia kiinnostavan.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Mutta ei kannata ihmetellä, jos vain katoan jostain palvelusta, jos kukaan ei sitä kautta pidä yhteyttä.</p>\n<p><!-- /wp:paragraph --></p>",
@@ -44,8 +44,8 @@
             "date_modified": "2022-11-21T19:14:06+02:00"
         },
         {
-            "id": "https://jokiv.github.io/pelien-tekeminen-jatkuu/",
-            "url": "https://jokiv.github.io/pelien-tekeminen-jatkuu/",
+            "id": "https://jokiv.fi/pelien-tekeminen-jatkuu/",
+            "url": "https://jokiv.fi/pelien-tekeminen-jatkuu/",
             "title": "Pelien tekeminen jatkuu",
             "summary": "On silleen turhan kauan pidetty taukoa pelien tekemiseen puolella. Ajattelin tuossa aamutuimaan, että voisi aloittaa uuden projektin, koska vanhojen projektien kans on hieman ideoiden tasolla jumissa. Jotain uutta testiin. Toista pelimoottoria tai muuta pientä projektia. Saa uutta näkökulmaa asioihin. Vaikka Unreal Enginen esimerkkiprojektin sai kivuttomasti&hellip;",
             "content_html": "<p><!-- wp:paragraph --></p>\n<p>On silleen turhan kauan pidetty taukoa pelien tekemiseen puolella.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Ajattelin tuossa aamutuimaan, että voisi aloittaa uuden projektin, koska vanhojen projektien kans on hieman ideoiden tasolla jumissa.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Jotain uutta testiin. Toista pelimoottoria tai muuta pientä projektia. Saa uutta näkökulmaa asioihin.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Vaikka Unreal Enginen esimerkkiprojektin sai kivuttomasti pyörimään Steam Deckillä, suunnitelmat ovat enemmän retrohenkisempään ja kevyempään.</p>\n<p><!-- /wp:paragraph --></p>",
@@ -61,8 +61,8 @@
             "date_modified": "2022-11-21T19:10:07+02:00"
         },
         {
-            "id": "https://jokiv.github.io/kesaeauton-haastesta/",
-            "url": "https://jokiv.github.io/kesaeauton-haastesta/",
+            "id": "https://jokiv.fi/kesaeauton-haastesta/",
+            "url": "https://jokiv.fi/kesaeauton-haastesta/",
             "title": "Kesäauton haastesta",
             "summary": "Selatessani tilastoja subaajien suhteen, kyllähän se on ihan selvää, että sataa subaajaa ei tulla saamaan kasaan. Steam Deckin kohtalo on oikeastaan jo ratkennut tätä kirjoitettaessa. Täytyy katsella muita mahdollisuuksia sitten myöhemmin. Kyllä se kesäauto striimeihin tulee jossain välissä, mutta moottorin urakka ei ala ainakaan ihan&hellip;",
             "content_html": "<p><!-- wp:paragraph --></p>\n<p>Selatessani tilastoja subaajien suhteen, kyllähän se on ihan selvää, että sataa subaajaa ei tulla saamaan kasaan. </p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Steam Deckin kohtalo on oikeastaan jo ratkennut tätä kirjoitettaessa. Täytyy katsella muita mahdollisuuksia sitten myöhemmin. Kyllä se kesäauto striimeihin tulee jossain välissä, mutta moottorin urakka ei ala ainakaan ihan heti.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Laite on lähetetty minulle ja saapuu muutaman päivän sisällä.</p>\n<p>\n<!-- /wp:paragraph --></p>\n",
@@ -77,8 +77,8 @@
             "date_modified": "2022-11-21T18:57:33+02:00"
         },
         {
-            "id": "https://jokiv.github.io/assembly-winter-2023/",
-            "url": "https://jokiv.github.io/assembly-winter-2023/",
+            "id": "https://jokiv.fi/assembly-winter-2023/",
+            "url": "https://jokiv.fi/assembly-winter-2023/",
             "title": "Assembly Winter 2023",
             "summary": "Minua on houkuteltu käymään ja kuvaamaan Assembly Winter tapahtumassa 2023. Tuo helmikuussa oleva tapahtuma on kuitenkin muiden säästämisien ja elämisen ohella hieman liian iso potti kerätä säästää lyhyessä ajassa. Laitoin uusien subien tavoitteen Twitchiin aiheesta, mutta en ole niin varma kerkeääkö se täyttyä. Sillä saisi&hellip;",
             "content_html": "<p><!-- wp:paragraph --></p>\n<p>Minua on houkuteltu käymään ja kuvaamaan Assembly Winter tapahtumassa 2023. Tuo helmikuussa oleva tapahtuma on kuitenkin muiden säästämisien ja elämisen ohella hieman liian iso potti kerätä säästää lyhyessä ajassa. </p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Laitoin uusien subien tavoitteen Twitchiin aiheesta, mutta en ole niin varma kerkeääkö se täyttyä. Sillä saisi katettua kuluja. No, katsella seuraavia, jos tähän ei pääse. </p>\n<p>\n<!-- /wp:paragraph --></p>\n",
@@ -91,8 +91,8 @@
             "date_modified": "2022-11-21T18:57:33+02:00"
         },
         {
-            "id": "https://jokiv.github.io/tietosuojaseloste/",
-            "url": "https://jokiv.github.io/tietosuojaseloste/",
+            "id": "https://jokiv.fi/tietosuojaseloste/",
+            "url": "https://jokiv.fi/tietosuojaseloste/",
             "title": "Tietosuojaseloste",
             "summary": "Verkkosivustomme osoite on: jokiv.fi Suositeltu teksti: Kun sivuston käyttäjät jättävät kommentteja sivustolle, keräämme kommenttilomakkeessa olevat tiedot, sekä käyttäjän IP-osoitteen ja selaimen versiotiedot roskaviestien tunnistamisen helpottamiseksi. Kun vierailijat jättävät kommentin tälle sivustolle keräämme tiedon, joka on näkyvissä kommentointikentissä, IP-osoitteen sekä selaimen versioon liittyvät tiedot. Sähköpostiosoitteesta luotu&hellip;",
             "content_html": "<p><!-- wp:heading --></p>\n<h2>Keitä olemme</h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>Verkkosivustomme osoite on: jokiv.fi</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:heading --></p>\n<h2>Kommentit</h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p><strong class=\"privacy-policy-tutorial\">Suositeltu teksti: </strong>Kun sivuston käyttäjät jättävät kommentteja sivustolle, keräämme kommenttilomakkeessa olevat tiedot, sekä käyttäjän IP-osoitteen ja selaimen versiotiedot roskaviestien tunnistamisen helpottamiseksi.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Kun vierailijat jättävät kommentin tälle sivustolle keräämme tiedon, joka on näkyvissä kommentointikentissä, IP-osoitteen sekä selaimen versioon liittyvät tiedot. Sähköpostiosoitteesta luotu anonymisoitu hajautustieto (hash) voidaan lähettää Gravatar-palveluun, jotta tiedetään onko kommentoija palvelun käyttäjä. Gravatar-palvelun tietosuojaseloste löytyy osoitteesta https://automattic.com/privacy/.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:heading --></p>\n<h2>Media</h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p><strong class=\"privacy-policy-tutorial\">Suositeltu teksti: </strong>Mikäli lataat kuvia tälle sivustolle, sinun tulee välttää sellaisten kuvien lataamista, joissa on tallennettu paikkatieto (EXIF GPS). Sivuston vierailijat voivat ladata ja katsoa paikkatietoa kuvista, joita sivustolla on.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:heading --></p>\n<h2>Evästeet</h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>Jos jätät kommentin sivustolle, voit valita nimen, sähköpostiosoitteen ja url-osoitteen tallennuksen evästeeseen. Tämä toiminto lisää käyttömukavuutta, koska lomaketta ei tarvitse täyttää jokaisella kerralla uudelleen kommenttia lisätessä. Evästetieto poistetaan selaimesta vuoden kuluttua.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Mikäli sinulla on tili ja kirjaudut sivustolle, asetamme väliaikaisen evästeen, joka päättelee tukeeko selaimesi evästeitä vai ei. Tämä eväste ei sisällä henkilötietoa ja se poistetaan kun selainikkuna suljetaan.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Kun kirjaudut sisään asetamme useita evästeitä, jotka tallentavat kirjautumis- sekä näyttöasetuksesi. Kirjautumisevästeet poistetaan kahden vuorokauden kuluessa, näyttöasetuksiin liittyvät evästeet poistuvat vuoden päästä. Mikäli valitset “Muista minut” kirjautumisen yhteydessä, kirjautumistietojasi säilytetään kahden viikon ajan. Mikäli kirjaudut ulos, kirjautumiseen liittyvät evästeet poistetaan samassa yhteydessä.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Mikäli julkaiset artikkelin tai muokkaat olemassa olevaa tallennamme selaimeen evästeen, joka sisältää muokattavan artikkelin ID:n. Eväste vanhenee yhdessä vuorokaudessa.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:heading --></p>\n<h2>Muilta sivustoilta upotettu sisältö</h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>Tämän sivuston artikkelit voivat sisältää upotettua sisältöä (esimerkiksi videoita, kuvia, artikkeleita jne.). Toisilta sivustoilta tuodun upotetun sisällön avaaminen on verrattavissa siihen, että vierailija itse kävisi kolmannen osapuolen sivustolla.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Nämä sivustot voivat kerätä tietoa sinusta, käyttää evästeitä, upottaa kolmannen osapuolen seurantaevästeitä ja monitoroida vuorovaikutustasi upotetun sisällön kanssa, mukaan lukien vuorovaikutuksen seuranta jos ja kun olet kirjautunut käyttäjänä sivustolle.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Googlen analytiikka kerää tietoa kävijöistä. Lisätietoa googlen keräämästä tiedosta löytyy <a href=\"https://policies.google.com/privacy?hl=fi\" data-type=\"URL\" data-id=\"https://policies.google.com/privacy?hl=fi\">heidän sivulta</a>.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:heading --></p>\n<h2>Kenelle jaamme tietosi</h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>Jos pyydät salasanan palauttamista, IP-osoitteesi liitetään mukaan palautussähköpostiisi.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:heading --></p>\n<h2>Kuinka kauan säilytämme tietoa</h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>Mikäli jätät kommentin, kommenttia ja sen metatietoa säilytetään toistaiseksi. Tämä tehdään siksi, että voimme tunnistaa ja hyväksyä seuraavat kommentit automaattisesti sen sijaan, että säilyttäisimme ne moderointijonossa.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Tallennamme rekisteröityneiden käyttäjien (jos sellaisia on) käyttäjäprofiilien tiedot. Kaikilla käyttäjillä on mahdollisuus nähdä, muokata ja poistaa omia henkilötietojaan milloin vain. Ainoastaan käyttäjänimeä ei voi muuttaa. Verkkosivuston ylläpitäjät voivat nähdä ja muokata käyttäjäprofiilien tietoja.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:heading --></p>\n<h2>Mitä oikeuksia sinulla on omaan tietoosi</h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>Mikäli sinulla on käyttäjätili tälle sivustolle tai olet jättänyt kommentteja, voit pyytää koostetiedostoa omista henkilötiedoistasi, sisältäen kaiken henkilötiedon, jonka olet meille antanut. Voit myös pyytää henkilötietojesi poistoa. Oikeus omien tietojen poistoon ei koske sellaista henkilötietoa, joka meidän on säilytettävä ylläpidollisista, juridisista tai tietoturvaan liittyvistä syistä.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:heading --></p>\n<h2>Minne tietosi lähetetään</h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>Vierailijoiden kommentteja saatetaan tarkistaa automatisoidun roskapostiestopalvelun kautta.</p>\n<p>\n<!-- /wp:paragraph --></p>\n",
@@ -105,8 +105,8 @@
             "date_modified": "2022-11-21T18:57:32+02:00"
         },
         {
-            "id": "https://jokiv.github.io/kesaeauton-haaste-hankaloitui/",
-            "url": "https://jokiv.github.io/kesaeauton-haaste-hankaloitui/",
+            "id": "https://jokiv.fi/kesaeauton-haaste-hankaloitui/",
+            "url": "https://jokiv.fi/kesaeauton-haaste-hankaloitui/",
             "title": "Kesäauton haaste hankaloitui",
             "summary": "Haaste hankaloitui tai ainakin on vaarassa siirtyä. Haasteen taustaa täältä. Ei tämä haaste subimääriä nostanut, mutta olin ajatellut ainakin pelata peliä (ehkä jopa kasata sen moottorin) vaikka subimäärät olivat alhaisemmat. Valve ilmoitti, että iso osa Q3+ (sivu myös kertoi \"lokakuussa tai sen jälkeen\") onkin nyt&hellip;",
             "content_html": "<p><!-- wp:paragraph --></p>\n<p>Haaste hankaloitui tai ainakin on vaarassa siirtyä. Haasteen taustaa <a href=\"https://jokiv.fi/2022/03/29/twitch-ja-sata-subaajaa/\">täältä</a>. Ei tämä haaste subimääriä nostanut, mutta olin ajatellut ainakin pelata peliä (ehkä jopa kasata sen moottorin) vaikka subimäärät olivat alhaisemmat.</p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Valve ilmoitti, että iso osa Q3+ (sivu myös kertoi \"lokakuussa tai sen jälkeen\")  onkin nyt ihan oikeasti Q3. Eli siirtoon lokakuusta tähän heinä-elo-syyskuu ajalle. Normaalisti tälläinen on iloasia, että saadaan aikaisemmin laite tilattua. </p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Itse olen vielä säästämässä tätä varten, niin se ei liikaa auta, että on laskenut asiat tuonne lokakuulle ja täytyy katsoa mistä vielä pinnistää lisää, kun valve ei anna kuin muutaman päivän aikaa maksaa tilaus.</p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Jos tilaus peruuntuu, niin katsellaan mahdollisesti ensi vuoden puolella steam deckin uusia haasteita. </p>\n<p>\n<!-- /wp:paragraph --></p>\n",
@@ -122,8 +122,8 @@
             "date_modified": "2022-11-21T18:57:33+02:00"
         },
         {
-            "id": "https://jokiv.github.io/subathon/",
-            "url": "https://jokiv.github.io/subathon/",
+            "id": "https://jokiv.fi/subathon/",
+            "url": "https://jokiv.fi/subathon/",
             "title": "Subathon",
             "summary": "Parin striimin ajan on juteltu mahdollisesta subathonin järjestämisestä. Huumorilla kommentoin, että jos katsojia on tämän verran, niin tulee lyhyt striimi. Kyseessä on siis striimi, joka jatkuu niin kauan kuin subeja tulee. Etukäteen määritelty jatkuminen (esim 15 min lisää) jokaisesta subista. Elämässä on myös muut rajoitteet&hellip;",
             "content_html": "<p><!-- wp:paragraph --></p>\n<p>Parin striimin ajan on juteltu mahdollisesta subathonin järjestämisestä. Huumorilla kommentoin, että jos katsojia on tämän verran, niin tulee lyhyt striimi.</p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Kyseessä on siis striimi, joka jatkuu niin kauan kuin subeja tulee. Etukäteen määritelty jatkuminen (esim 15 min lisää) jokaisesta subista. </p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Elämässä on myös muut rajoitteet ja pidemmät striimit pakottaisivat taukoja väliin. Nukkuminen striimissä ei ole oikein mahdollista, muut nukkujat eivät halua striimin. Tosin aina voi jatkaa aikaisin, lepäämisen jälkeen. Jos ei sitte striimaa teltassa, yms. </p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Jää harkintaan. </p>\n<p>\n<!-- /wp:paragraph --></p>\n",
@@ -137,8 +137,8 @@
             "date_modified": "2022-11-21T18:57:33+02:00"
         },
         {
-            "id": "https://jokiv.github.io/jotain-pientae-lisaeksi/",
-            "url": "https://jokiv.github.io/jotain-pientae-lisaeksi/",
+            "id": "https://jokiv.fi/jotain-pientae-lisaeksi/",
+            "url": "https://jokiv.fi/jotain-pientae-lisaeksi/",
             "title": "Jotain pientä lisäksi",
             "summary": "Olen nyt jonkin aikaa piilottanut osaan videoista ja lähetyksistä kirjain- ja numerokoodin palasia. Ettei asiasta tehdä liian helppoa, ne tulee löytää jokainen, että saa avattua lisätietoja asiaan. YouTuben lähetykset säilyvät, mutta koska Twitch kadottaa videot ja se olisi helppoa vain katsoa säilytettävät videot. Pidän huolen&hellip;",
             "content_html": "<p><!-- wp:paragraph --></p>\n<p>Olen nyt jonkin aikaa piilottanut osaan videoista ja lähetyksistä kirjain- ja numerokoodin palasia. Ettei asiasta tehdä liian helppoa, ne tulee löytää jokainen, että saa avattua lisätietoja asiaan.</p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>YouTuben lähetykset säilyvät, mutta koska Twitch kadottaa videot ja se olisi helppoa vain katsoa säilytettävät videot. Pidän huolen että suorien lähetysten koodit toistuvat myöhemmissä striimeissä. </p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Koodit saattavat näkyä suoraan videossa esimerkiksi jossain kohtaa ruutua tai saatan kirjoittaa sen johonkin high score tauluun nimeksi tai voi olla vaikka ylimääräinen osa nimeä, jota en yleensä käytä. </p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Muutama ensimmäinen, joka tämän selvittää, tullaan palkitsemaan vuoden lopussa.</p>\n<p>\n<!-- /wp:paragraph --></p>\n",
@@ -154,8 +154,8 @@
             "date_modified": "2022-11-21T18:57:33+02:00"
         },
         {
-            "id": "https://jokiv.github.io/kun-laitteet-hajoaa/",
-            "url": "https://jokiv.github.io/kun-laitteet-hajoaa/",
+            "id": "https://jokiv.fi/kun-laitteet-hajoaa/",
+            "url": "https://jokiv.fi/kun-laitteet-hajoaa/",
             "title": "Kun laitteet hajoaa",
             "summary": "Näyttäisi siltä että alkaa ikävä totuus tulee vastaan tuosta vanhasta tietokoneesta, jota käytän striimaamiseen. Se on vanha, eikä se kestä ikuisesti. Kone on kaverilta aikanaan saatu ja hän on ostanut sen yli kymmenen vuotta sitten. Päivitellyt muutamia osia ja itse olen myös päivittänyt siihen siihen&hellip;",
             "content_html": "<p><!-- wp:paragraph --></p>\n<p>Näyttäisi siltä että alkaa ikävä totuus tulee vastaan tuosta vanhasta tietokoneesta, jota käytän striimaamiseen. Se on vanha, eikä se kestä ikuisesti. Kone on kaverilta aikanaan saatu ja hän on ostanut sen yli kymmenen vuotta sitten. Päivitellyt muutamia osia ja itse olen myös päivittänyt siihen siihen muistit, virtalähteen ja näytönohjaimen.</p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Eilisessä striimissä alkoi äänet sekoilemaan. Sain sen nyt korjattua toisilla kuulokkeilla, mutta oletettavasti vika on enemmän USB puolella kuin kuulokkeissa. </p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Täytyy nyt toivoa, että ei tulisi liikaa vikoja. Tällä hetkellä ei ole oikein varallisuutta korjata tai hommata uusia osia, että saisi toimimaan niitä vanhempia koneita mitä minulla on. </p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Toki monet voivat muistaa, että minulla on tuolla vähän uudempi kone, joka on korjausta vaille valmis. Se kone oli ostettu 2014. Pakettikone johon on päivitetty muisteja ja kiintolevyt. En muista, mitä siihen tarvii, mutta ei mitään saa ilmaiseksi. Täytyy katsoa se tässä kesällä.</p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Täytyy toivoa, että tämä ei liikaa vaikuta striimaamiseen ja muihin asioihin, mitä päivittäin tekee discordissa. Aika näyttää.</p>\n<p>\n<!-- /wp:paragraph --></p>\n",
