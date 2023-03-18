@@ -3,7 +3,7 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-03-18T11:51:25+02:00</updated>
+    <updated>2023-03-18T12:04:55+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -43,7 +43,7 @@
             <category term="discord"/>
             <category term="YouTube"/>
 
-        <updated>2023-03-18T08:38:10+02:00</updated>
+        <updated>2023-03-18T12:04:36+02:00</updated>
             <summary>
                 <![CDATA[
                     Ihmiset ovat kyselleet tulevasta. Suunnitelmista ympäri vuoden. Assembly? Striimit? Pelimaraton? Totta puhuakseni, minulla ei ole niistä tällä hetkellä yhtään aatosta. Ainoa tän hetkinen suunnitelma on osallistua yhteen tulevaan asiaan (josta ei tule tämän enempää infoa julkisesti) ja sen perusteella joutuu melkein päättämään, jatketaanko edellisiäkään suunnitelmia,&hellip;
@@ -66,7 +66,7 @@
             <category term="snapchat"/>
             <category term="instagram"/>
 
-        <updated>2022-11-21T19:14:06+02:00</updated>
+        <updated>2023-03-18T12:04:47+02:00</updated>
             <summary>
                 <![CDATA[
                     Tämä ajatus lähti aikaisemmin, kun poistin Instagramin ja Snapchatin tunnukset. Tuli huomattua, ettei niile tarvetta ole. Tullut siihen päätökseen, että jos menee kuukausia ilman käyttöä, niin voisi laskea itselle turhaksi. Toki osa tulee olemaan käytössä esimerkiksi sukulaisten vuoksi. Ne jotka tietävät puhelinnumeron, löytävät minut muutenkin&hellip;
@@ -162,7 +162,7 @@
         <link href="https://jokiv.fi/assembly-winter-2023/"/>
         <id>https://jokiv.fi/assembly-winter-2023/</id>
 
-        <updated>2022-11-21T18:57:33+02:00</updated>
+        <updated>2023-03-18T12:04:55+02:00</updated>
             <summary>
                 <![CDATA[
                     Minua on houkuteltu käymään ja kuvaamaan Assembly Winter tapahtumassa 2023. Tuo helmikuussa oleva tapahtuma on kuitenkin muiden säästämisien ja elämisen ohella hieman liian iso potti kerätä säästää lyhyessä ajassa. Laitoin uusien subien tavoitteen Twitchiin aiheesta, mutta en ole niin varma kerkeääkö se täyttyä. Sillä saisi&hellip;
@@ -171,134 +171,11 @@
         <content type="html">
             <![CDATA[
                 <p><!-- wp:paragraph --></p>
-<p>Minua on houkuteltu käymään ja kuvaamaan Assembly Winter tapahtumassa 2023. Tuo helmikuussa oleva tapahtuma on kuitenkin muiden säästämisien ja elämisen ohella hieman liian iso potti kerätä säästää lyhyessä ajassa. </p>
-<p>
-<!-- /wp:paragraph --></p>
+<p>Minua on houkuteltu käymään ja kuvaamaan Assembly Winter tapahtumassa 2023. Tuo helmikuussa oleva tapahtuma on kuitenkin muiden säästämisien ja elämisen ohella hieman liian iso potti kerätä säästää lyhyessä ajassa.</p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Laitoin uusien subien tavoitteen Twitchiin aiheesta, mutta en ole niin varma kerkeääkö se täyttyä. Sillä saisi katettua kuluja. No, katsella seuraavia, jos tähän ei pääse. </p>
-<p>
-<!-- /wp:paragraph --></p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tietosuojaseloste</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/tietosuojaseloste/"/>
-        <id>https://jokiv.fi/tietosuojaseloste/</id>
-
-        <updated>2022-11-21T18:57:32+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Verkkosivustomme osoite on: jokiv.fi Suositeltu teksti: Kun sivuston käyttäjät jättävät kommentteja sivustolle, keräämme kommenttilomakkeessa olevat tiedot, sekä käyttäjän IP-osoitteen ja selaimen versiotiedot roskaviestien tunnistamisen helpottamiseksi. Kun vierailijat jättävät kommentin tälle sivustolle keräämme tiedon, joka on näkyvissä kommentointikentissä, IP-osoitteen sekä selaimen versioon liittyvät tiedot. Sähköpostiosoitteesta luotu&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:heading --></p>
-<h2>Keitä olemme</h2>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Verkkosivustomme osoite on: jokiv.fi</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:heading --></p>
-<h2>Kommentit</h2>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p><strong class="privacy-policy-tutorial">Suositeltu teksti: </strong>Kun sivuston käyttäjät jättävät kommentteja sivustolle, keräämme kommenttilomakkeessa olevat tiedot, sekä käyttäjän IP-osoitteen ja selaimen versiotiedot roskaviestien tunnistamisen helpottamiseksi.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Kun vierailijat jättävät kommentin tälle sivustolle keräämme tiedon, joka on näkyvissä kommentointikentissä, IP-osoitteen sekä selaimen versioon liittyvät tiedot. Sähköpostiosoitteesta luotu anonymisoitu hajautustieto (hash) voidaan lähettää Gravatar-palveluun, jotta tiedetään onko kommentoija palvelun käyttäjä. Gravatar-palvelun tietosuojaseloste löytyy osoitteesta https://automattic.com/privacy/.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:heading --></p>
-<h2>Media</h2>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p><strong class="privacy-policy-tutorial">Suositeltu teksti: </strong>Mikäli lataat kuvia tälle sivustolle, sinun tulee välttää sellaisten kuvien lataamista, joissa on tallennettu paikkatieto (EXIF GPS). Sivuston vierailijat voivat ladata ja katsoa paikkatietoa kuvista, joita sivustolla on.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:heading --></p>
-<h2>Evästeet</h2>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Jos jätät kommentin sivustolle, voit valita nimen, sähköpostiosoitteen ja url-osoitteen tallennuksen evästeeseen. Tämä toiminto lisää käyttömukavuutta, koska lomaketta ei tarvitse täyttää jokaisella kerralla uudelleen kommenttia lisätessä. Evästetieto poistetaan selaimesta vuoden kuluttua.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Mikäli sinulla on tili ja kirjaudut sivustolle, asetamme väliaikaisen evästeen, joka päättelee tukeeko selaimesi evästeitä vai ei. Tämä eväste ei sisällä henkilötietoa ja se poistetaan kun selainikkuna suljetaan.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Kun kirjaudut sisään asetamme useita evästeitä, jotka tallentavat kirjautumis- sekä näyttöasetuksesi. Kirjautumisevästeet poistetaan kahden vuorokauden kuluessa, näyttöasetuksiin liittyvät evästeet poistuvat vuoden päästä. Mikäli valitset “Muista minut” kirjautumisen yhteydessä, kirjautumistietojasi säilytetään kahden viikon ajan. Mikäli kirjaudut ulos, kirjautumiseen liittyvät evästeet poistetaan samassa yhteydessä.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Mikäli julkaiset artikkelin tai muokkaat olemassa olevaa tallennamme selaimeen evästeen, joka sisältää muokattavan artikkelin ID:n. Eväste vanhenee yhdessä vuorokaudessa.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:heading --></p>
-<h2>Muilta sivustoilta upotettu sisältö</h2>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Tämän sivuston artikkelit voivat sisältää upotettua sisältöä (esimerkiksi videoita, kuvia, artikkeleita jne.). Toisilta sivustoilta tuodun upotetun sisällön avaaminen on verrattavissa siihen, että vierailija itse kävisi kolmannen osapuolen sivustolla.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Nämä sivustot voivat kerätä tietoa sinusta, käyttää evästeitä, upottaa kolmannen osapuolen seurantaevästeitä ja monitoroida vuorovaikutustasi upotetun sisällön kanssa, mukaan lukien vuorovaikutuksen seuranta jos ja kun olet kirjautunut käyttäjänä sivustolle.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Googlen analytiikka kerää tietoa kävijöistä. Lisätietoa googlen keräämästä tiedosta löytyy <a href="https://policies.google.com/privacy?hl=fi" data-type="URL" data-id="https://policies.google.com/privacy?hl=fi">heidän sivulta</a>.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:heading --></p>
-<h2>Kenelle jaamme tietosi</h2>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Jos pyydät salasanan palauttamista, IP-osoitteesi liitetään mukaan palautussähköpostiisi.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:heading --></p>
-<h2>Kuinka kauan säilytämme tietoa</h2>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Mikäli jätät kommentin, kommenttia ja sen metatietoa säilytetään toistaiseksi. Tämä tehdään siksi, että voimme tunnistaa ja hyväksyä seuraavat kommentit automaattisesti sen sijaan, että säilyttäisimme ne moderointijonossa.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Tallennamme rekisteröityneiden käyttäjien (jos sellaisia on) käyttäjäprofiilien tiedot. Kaikilla käyttäjillä on mahdollisuus nähdä, muokata ja poistaa omia henkilötietojaan milloin vain. Ainoastaan käyttäjänimeä ei voi muuttaa. Verkkosivuston ylläpitäjät voivat nähdä ja muokata käyttäjäprofiilien tietoja.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:heading --></p>
-<h2>Mitä oikeuksia sinulla on omaan tietoosi</h2>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Mikäli sinulla on käyttäjätili tälle sivustolle tai olet jättänyt kommentteja, voit pyytää koostetiedostoa omista henkilötiedoistasi, sisältäen kaiken henkilötiedon, jonka olet meille antanut. Voit myös pyytää henkilötietojesi poistoa. Oikeus omien tietojen poistoon ei koske sellaista henkilötietoa, joka meidän on säilytettävä ylläpidollisista, juridisista tai tietoturvaan liittyvistä syistä.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:heading --></p>
-<h2>Minne tietosi lähetetään</h2>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Vierailijoiden kommentteja saatetaan tarkistaa automatisoidun roskapostiestopalvelun kautta.</p>
-<p>
-<!-- /wp:paragraph --></p>
-
+<p>Laitoin uusien subien tavoitteen Twitchiin aiheesta, mutta en ole niin varma kerkeääkö se täyttyä. Sillä saisi katettua kuluja. No, katsella seuraavia, jos tähän ei pääse.</p>
+<p><!-- /wp:paragraph --></p>
             ]]>
         </content>
     </entry>
@@ -411,6 +288,49 @@
 <!-- /wp:paragraph -->
 <!-- wp:paragraph --></p>
 <p>Muutama ensimmäinen, joka tämän selvittää, tullaan palkitsemaan vuoden lopussa.</p>
+<p>
+<!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Kun laitteet hajoaa</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/kun-laitteet-hajoaa/"/>
+        <id>https://jokiv.fi/kun-laitteet-hajoaa/</id>
+            <category term="twitch"/>
+            <category term="mene töihin"/>
+            <category term="discord"/>
+
+        <updated>2022-11-21T18:57:33+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Näyttäisi siltä että alkaa ikävä totuus tulee vastaan tuosta vanhasta tietokoneesta, jota käytän striimaamiseen. Se on vanha, eikä se kestä ikuisesti. Kone on kaverilta aikanaan saatu ja hän on ostanut sen yli kymmenen vuotta sitten. Päivitellyt muutamia osia ja itse olen myös päivittänyt siihen siihen&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><!-- wp:paragraph --></p>
+<p>Näyttäisi siltä että alkaa ikävä totuus tulee vastaan tuosta vanhasta tietokoneesta, jota käytän striimaamiseen. Se on vanha, eikä se kestä ikuisesti. Kone on kaverilta aikanaan saatu ja hän on ostanut sen yli kymmenen vuotta sitten. Päivitellyt muutamia osia ja itse olen myös päivittänyt siihen siihen muistit, virtalähteen ja näytönohjaimen.</p>
+<p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph --></p>
+<p>Eilisessä striimissä alkoi äänet sekoilemaan. Sain sen nyt korjattua toisilla kuulokkeilla, mutta oletettavasti vika on enemmän USB puolella kuin kuulokkeissa. </p>
+<p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph --></p>
+<p>Täytyy nyt toivoa, että ei tulisi liikaa vikoja. Tällä hetkellä ei ole oikein varallisuutta korjata tai hommata uusia osia, että saisi toimimaan niitä vanhempia koneita mitä minulla on. </p>
+<p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph --></p>
+<p>Toki monet voivat muistaa, että minulla on tuolla vähän uudempi kone, joka on korjausta vaille valmis. Se kone oli ostettu 2014. Pakettikone johon on päivitetty muisteja ja kiintolevyt. En muista, mitä siihen tarvii, mutta ei mitään saa ilmaiseksi. Täytyy katsoa se tässä kesällä.</p>
+<p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph --></p>
+<p>Täytyy toivoa, että tämä ei liikaa vaikuta striimaamiseen ja muihin asioihin, mitä päivittäin tekee discordissa. Aika näyttää.</p>
 <p>
 <!-- /wp:paragraph --></p>
 
