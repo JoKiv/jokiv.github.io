@@ -10,6 +10,24 @@
     },
     "items": [
         {
+            "id": "https://jokiv.github.io/ajatuksia-taestae-vuodesta/",
+            "url": "https://jokiv.github.io/ajatuksia-taestae-vuodesta/",
+            "title": "Ajatuksia tästä vuodesta",
+            "summary": "Ihmiset ovat kyselleet tulevasta. Suunnitelmista ympäri vuoden. Assembly? Striimit? Pelimaraton? Totta puhuakseni, minulla ei ole niistä tällä hetkellä yhtään aatosta. Ainoa tän hetkinen suunnitelma on osallistua yhteen tulevaan asiaan (josta ei tule tämän enempää infoa julkisesti) ja sen perusteella joutuu melkein päättämään, jatketaanko edellisiäkään suunnitelmia,&hellip;",
+            "content_html": "<p>Ihmiset ovat kyselleet tulevasta. Suunnitelmista ympäri vuoden. Assembly? Striimit? Pelimaraton?</p>\n<p>Totta puhuakseni, minulla ei ole niistä tällä hetkellä yhtään aatosta. Ainoa tän hetkinen suunnitelma on osallistua yhteen tulevaan asiaan (josta ei tule tämän enempää infoa julkisesti) ja sen perusteella joutuu melkein päättämään, jatketaanko edellisiäkään suunnitelmia, vai pistetäänkö ”pillit pussiin”.<br><br>Asia lähti tuosta koneen rikkoutumisesta tai oikeastaan jo joku kk sitä ennen, kun se alkoi oireilemaan. Se, että pystyin jatkaaman asioita eteenpäin, veti suunnileen kaikki säästöt. Yleensä vuoden alku mennään pienellä budjetilla, mutta tämä vuosi alkoi aika nollasta. Vielä ei olla miinuksella, mutta suunta on alaspäin, jos tää yksi tuleva asia ei auta.<br><br>Katsellaan miten menee. Todennäköisesti tästä päästään yli, mutta asioiden mennessä miinukselle, jatkoa on odotettavissa hitaammin. Ainakin toivon, että asiat jatkuvat. Edes myöhemmin.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "twitch",
+                   "linux",
+                   "discord",
+                   "YouTube"
+            ],
+            "date_published": "2023-01-02T00:00:00+02:00",
+            "date_modified": "2023-03-18T08:38:10+02:00"
+        },
+        {
             "id": "https://jokiv.github.io/ylimaeaeraeisiae-sosiaalisia-medioita/",
             "url": "https://jokiv.github.io/ylimaeaeraeisiae-sosiaalisia-medioita/",
             "title": "Ylimääräisiä sosiaalisia medioita",
@@ -150,22 +168,6 @@
                    "discord"
             ],
             "date_published": "2022-06-02T09:00:44+03:00",
-            "date_modified": "2022-11-21T18:57:33+02:00"
-        },
-        {
-            "id": "https://jokiv.github.io/striimaaminen-ja-kauan-sitae-jatkuu/",
-            "url": "https://jokiv.github.io/striimaaminen-ja-kauan-sitae-jatkuu/",
-            "title": "Striimaaminen ja kauan sitä jatkuu",
-            "summary": "Striimissä tuli kommentti siitä, kun toinen striimaaja oli lopettanut ja olikohan hänen syynsä salaisia vai mitä. Itselläni ei ollut mitään muuta tietoa, kuin se että hän oli lopettanut. Ei minulla hänen suunnitelmistaan mitään tietoa ole. Omalle kohdalle kommentoin, että jos sellainen olisi jossain vaiheessa tulossa,&hellip;",
-            "content_html": "<p><!-- wp:paragraph --></p>\n<p>Striimissä tuli kommentti siitä, kun toinen striimaaja oli lopettanut ja olikohan hänen syynsä salaisia vai mitä. Itselläni ei ollut mitään muuta tietoa, kuin se että hän oli lopettanut. Ei minulla hänen suunnitelmistaan mitään tietoa ole.</p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Omalle kohdalle kommentoin, että jos sellainen olisi jossain vaiheessa tulossa, ilmoittaisin siitä varmaankin discordissa ja puhuisin aikalailla jo aikaisemmissa striimissä, että se olisi pian kait ohi. </p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Myös varmaan täällä blogissa tulisi asiasta tekstiä, kiittäisin varmaan twitterissä ja monessa muussa paikkaa ihmisiä jotka ovat olleet aktiivisesti mukana. Turhaan sitä peittelemään. Kuitenkaan tällaisia suunnitelmia ei ole olemassa. Jatketaan kunnes mieli muuttuu.</p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Vitsillähän aikaisemmin on kommentoitu että varmaan jatkan vielä vanhainkodissa. Sohvalla höpisisin omiani. No toisaalta kun ajattelee, minähän höpisen jo omiani tälläkin hetkellä, sohvalla istuen. En minä toisten asioita voi liikaa puhua, varsinkaan kun en tiedä niitä. Enkä kyllä hirveästi puhuisi, vaikka tietäisinkin.</p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Itsellänihän tämä on vain harrastus, jota haluan tehdä. En minä tätä rahan vuoksi tee. Tokihan se auttava asia olisi, jos hyvä tuottaisi tarpeeksi. Siinä tilanteessa voisi jo vahvasti harkita, että striimaisi joka päivä. Tehdään niin kauan ku pystytään ja niin kauan ku laitteet kestävät. </p>\n<p>\n<!-- /wp:paragraph -->\n<!-- wp:paragraph --></p>\n<p>Pitäisi myös se chatissa mainittu YouTube herätellä eloon. Tottahan se on, että muutamia satunnaisia videoita sinne lähettämällä se ei tule kasvamaan. Jos vaikka alkaisi näitä lähetyksiä jälleen lähettämään sinnekin päin. Jos ei suoraa lähetystä, niin ainakin kopioita Twitch lähetyksistä. Pääasiallinen ongelmahan siellä on ollut se, että he tykkäävät napata turhankin herkästi myös sallittua sisältöä tekijänoikeus filtteriin.</p>\n<p>\n<!-- /wp:paragraph --></p>\n",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "twitch",
-                   "YouTube"
-            ],
-            "date_published": "2022-05-11T11:00:44+03:00",
             "date_modified": "2022-11-21T18:57:33+02:00"
         }
     ]
