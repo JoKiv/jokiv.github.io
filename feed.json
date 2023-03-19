@@ -13,8 +13,8 @@
             "id": "https://jokiv.fi/saeaetoeae-ja-saeaestoetoimia/",
             "url": "https://jokiv.fi/saeaetoeae-ja-saeaestoetoimia/",
             "title": "Säätöä ja säästötoimia",
-            "summary": "Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa.",
-            "content_html": "<p>Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa.</p>\n<p> </p>",
+            "summary": "Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa. Sivulla saattaa olla rikkinäisiä linkkejä, mutta korjaan niitä aina, kun löydän.",
+            "content_html": "<p>Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa.</p>\n<p>Sivulla saattaa olla rikkinäisiä linkkejä, mutta korjaan niitä aina, kun löydän.</p>",
             "author": {
                 "name": "JoKiv"
             },
@@ -22,7 +22,7 @@
                    "blogi"
             ],
             "date_published": "2023-03-18T11:44:09+02:00",
-            "date_modified": "2023-03-18T11:51:25+02:00"
+            "date_modified": "2023-03-19T12:28:37+02:00"
         },
         {
             "id": "https://jokiv.fi/ajatuksia-taestae-vuodesta/",

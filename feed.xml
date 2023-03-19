@@ -3,7 +3,7 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-03-18T12:37:39+02:00</updated>
+    <updated>2023-03-19T12:28:37+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -18,16 +18,16 @@
         <id>https://jokiv.fi/saeaetoeae-ja-saeaestoetoimia/</id>
             <category term="blogi"/>
 
-        <updated>2023-03-18T11:51:25+02:00</updated>
+        <updated>2023-03-19T12:28:37+02:00</updated>
             <summary>
                 <![CDATA[
-                    Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa.
+                    Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa. Sivulla saattaa olla rikkinäisiä linkkejä, mutta korjaan niitä aina, kun löydän.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa.</p>
-<p> </p>
+<p>Sivulla saattaa olla rikkinäisiä linkkejä, mutta korjaan niitä aina, kun löydän.</p>
             ]]>
         </content>
     </entry>
