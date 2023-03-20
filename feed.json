@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/steam-deck-ja-striimaaminen/",
+            "url": "https://jokiv.fi/steam-deck-ja-striimaaminen/",
+            "title": "Steam Deck ja striimaaminen",
+            "summary": "Varmaan kukaan ei yllättynyt, kun tein asian, johon on varmaan satoja opasvideoita YouTubessa. Tosin en seurannut mitään opasta, vaan asensin vain OBS Studion ja aloin käyttämään sitä. En kuitenkaan tässä vaiheessa ala säätämään isompia koristeluja striimin suhteen.",
+            "content_html": "<p>Varmaan kukaan ei yllättynyt, kun tein asian, johon on varmaan satoja opasvideoita YouTubessa. Tosin en seurannut mitään opasta, vaan asensin vain <a href=\"https://obsproject.com/\" title=\"OBS Studio\" target=\"_blank\" rel=\"noopener noreferrer\">OBS Studion</a> ja aloin käyttämään sitä. En kuitenkaan tässä vaiheessa ala säätämään isompia koristeluja striimin suhteen.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "twitch",
+                   "Steam Deck"
+            ],
+            "date_published": "2023-03-20T14:35:32+02:00",
+            "date_modified": "2023-03-20T14:35:32+02:00"
+        },
+        {
             "id": "https://jokiv.fi/saeaetoeae-ja-saeaestoetoimia/",
             "url": "https://jokiv.fi/saeaetoeae-ja-saeaestoetoimia/",
             "title": "Säätöä ja säästötoimia",
@@ -153,23 +169,6 @@
             ],
             "date_published": "2022-07-08T12:00:12+03:00",
             "date_modified": "2023-03-18T12:37:35+02:00"
-        },
-        {
-            "id": "https://jokiv.fi/kun-laitteet-hajoaa/",
-            "url": "https://jokiv.fi/kun-laitteet-hajoaa/",
-            "title": "Kun laitteet hajoaa",
-            "summary": "Näyttäisi siltä että alkaa ikävä totuus tulee vastaan tuosta vanhasta tietokoneesta, jota käytän striimaamiseen. Se on vanha, eikä se kestä ikuisesti. Kone on kaverilta aikanaan saatu ja hän on ostanut sen yli kymmenen vuotta sitten. Päivitellyt muutamia osia ja itse olen myös päivittänyt siihen siihen&hellip;",
-            "content_html": "<p><!-- wp:paragraph --></p>\n<p>Näyttäisi siltä että alkaa ikävä totuus tulee vastaan tuosta vanhasta tietokoneesta, jota käytän striimaamiseen. Se on vanha, eikä se kestä ikuisesti. Kone on kaverilta aikanaan saatu ja hän on ostanut sen yli kymmenen vuotta sitten. Päivitellyt muutamia osia ja itse olen myös päivittänyt siihen siihen muistit, virtalähteen ja näytönohjaimen.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p>Eilisessä striimissä alkoi äänet sekoilemaan. Sain sen nyt korjattua toisilla kuulokkeilla, mutta oletettavasti vika on enemmän USB puolella kuin kuulokkeissa.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p>Täytyy nyt toivoa, että ei tulisi liikaa vikoja. Tällä hetkellä ei ole oikein varallisuutta korjata tai hommata uusia osia, että saisi toimimaan niitä vanhempia koneita mitä minulla on.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p>Toki monet voivat muistaa, että minulla on tuolla vähän uudempi kone, joka on korjausta vaille valmis. Se kone oli ostettu 2014. Pakettikone johon on päivitetty muisteja ja kiintolevyt. En muista, mitä siihen tarvii, mutta ei mitään saa ilmaiseksi. Täytyy katsoa se tässä kesällä.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p>Täytyy toivoa, että tämä ei liikaa vaikuta striimaamiseen ja muihin asioihin, mitä päivittäin tekee discordissa. Aika näyttää.</p>\n<p><!-- /wp:paragraph --></p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "twitch",
-                   "mene töihin",
-                   "discord"
-            ],
-            "date_published": "2022-06-02T09:00:44+03:00",
-            "date_modified": "2023-03-18T12:37:39+02:00"
         }
     ]
 }

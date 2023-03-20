@@ -3,12 +3,34 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-03-19T12:28:37+02:00</updated>
+    <updated>2023-03-20T14:35:32+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Steam Deck ja striimaaminen</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/steam-deck-ja-striimaaminen/"/>
+        <id>https://jokiv.fi/steam-deck-ja-striimaaminen/</id>
+            <category term="twitch"/>
+            <category term="Steam Deck"/>
+
+        <updated>2023-03-20T14:35:32+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Varmaan kukaan ei yllättynyt, kun tein asian, johon on varmaan satoja opasvideoita YouTubessa. Tosin en seurannut mitään opasta, vaan asensin vain OBS Studion ja aloin käyttämään sitä. En kuitenkaan tässä vaiheessa ala säätämään isompia koristeluja striimin suhteen.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Varmaan kukaan ei yllättynyt, kun tein asian, johon on varmaan satoja opasvideoita YouTubessa. Tosin en seurannut mitään opasta, vaan asensin vain <a href="https://obsproject.com/" title="OBS Studio" target="_blank" rel="noopener noreferrer">OBS Studion</a> ja aloin käyttämään sitä. En kuitenkaan tässä vaiheessa ala säätämään isompia koristeluja striimin suhteen.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Säätöä ja säästötoimia</title>
         <author>
@@ -266,39 +288,6 @@
 <p>Koodit saattavat näkyä suoraan videossa esimerkiksi jossain kohtaa ruutua tai saatan kirjoittaa sen johonkin high score tauluun nimeksi tai voi olla vaikka ylimääräinen osa nimeä, jota en yleensä käytä.</p>
 <p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
 <p>Muutama ensimmäinen, joka tämän selvittää, tullaan palkitsemaan vuoden lopussa.</p>
-<p><!-- /wp:paragraph --></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Kun laitteet hajoaa</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/kun-laitteet-hajoaa/"/>
-        <id>https://jokiv.fi/kun-laitteet-hajoaa/</id>
-            <category term="twitch"/>
-            <category term="mene töihin"/>
-            <category term="discord"/>
-
-        <updated>2023-03-18T12:37:39+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Näyttäisi siltä että alkaa ikävä totuus tulee vastaan tuosta vanhasta tietokoneesta, jota käytän striimaamiseen. Se on vanha, eikä se kestä ikuisesti. Kone on kaverilta aikanaan saatu ja hän on ostanut sen yli kymmenen vuotta sitten. Päivitellyt muutamia osia ja itse olen myös päivittänyt siihen siihen&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:paragraph --></p>
-<p>Näyttäisi siltä että alkaa ikävä totuus tulee vastaan tuosta vanhasta tietokoneesta, jota käytän striimaamiseen. Se on vanha, eikä se kestä ikuisesti. Kone on kaverilta aikanaan saatu ja hän on ostanut sen yli kymmenen vuotta sitten. Päivitellyt muutamia osia ja itse olen myös päivittänyt siihen siihen muistit, virtalähteen ja näytönohjaimen.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Eilisessä striimissä alkoi äänet sekoilemaan. Sain sen nyt korjattua toisilla kuulokkeilla, mutta oletettavasti vika on enemmän USB puolella kuin kuulokkeissa.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Täytyy nyt toivoa, että ei tulisi liikaa vikoja. Tällä hetkellä ei ole oikein varallisuutta korjata tai hommata uusia osia, että saisi toimimaan niitä vanhempia koneita mitä minulla on.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Toki monet voivat muistaa, että minulla on tuolla vähän uudempi kone, joka on korjausta vaille valmis. Se kone oli ostettu 2014. Pakettikone johon on päivitetty muisteja ja kiintolevyt. En muista, mitä siihen tarvii, mutta ei mitään saa ilmaiseksi. Täytyy katsoa se tässä kesällä.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Täytyy toivoa, että tämä ei liikaa vaikuta striimaamiseen ja muihin asioihin, mitä päivittäin tekee discordissa. Aika näyttää.</p>
 <p><!-- /wp:paragraph --></p>
             ]]>
         </content>
