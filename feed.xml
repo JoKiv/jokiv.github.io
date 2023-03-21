@@ -3,12 +3,33 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-03-21T10:50:55+02:00</updated>
+    <updated>2023-03-21T21:29:15+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Juttelua netissä</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/juttelua-netissae/"/>
+        <id>https://jokiv.fi/juttelua-netissae/</id>
+            <category term="chat"/>
+
+        <updated>2023-03-21T21:29:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Viimeaikoina on tullut juteltua jonkuverran jitsin kautta. Selaimella ja kännykällä on ihan hyvä ollu juteltua välistä vähän tuntemattomienki kanssa. Toki toiselle pitää linkki antaa jotain kautta, mutta satunnaiseen "tuu meidän kans juttelemaan" toi on toiminu ihan ok.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Viimeaikoina on tullut juteltua jonkuverran <a href="https://meet.jit.si/" target="_blank" rel="noopener noreferrer">jitsin</a> kautta. Selaimella ja kännykällä on ihan hyvä ollu juteltua välistä vähän tuntemattomienki kanssa. Toki toiselle pitää linkki antaa jotain kautta, mutta satunnaiseen "tuu meidän kans juttelemaan" toi on toiminu ihan ok.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Läppärin virtalähde kaipaa vaihtoa</title>
         <author>
@@ -250,35 +271,6 @@
 <p>Itse olen vielä säästämässä tätä varten, niin se ei liikaa auta, että on laskenut asiat tuonne lokakuulle ja täytyy katsoa mistä vielä pinnistää lisää, kun valve ei anna kuin muutaman päivän aikaa maksaa tilaus.</p>
 <p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
 <p>Jos tilaus peruuntuu, niin katsellaan mahdollisesti ensi vuoden puolella steam deckin uusia haasteita.</p>
-<p><!-- /wp:paragraph --></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Subathon</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/subathon/"/>
-        <id>https://jokiv.fi/subathon/</id>
-            <category term="twitch"/>
-
-        <updated>2023-03-18T12:37:30+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Parin striimin ajan on juteltu mahdollisesta subathonin järjestämisestä. Huumorilla kommentoin, että jos katsojia on tämän verran, niin tulee lyhyt striimi. Kyseessä on siis striimi, joka jatkuu niin kauan kuin subeja tulee. Etukäteen määritelty jatkuminen (esim 15 min lisää) jokaisesta subista. Elämässä on myös muut rajoitteet&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:paragraph --></p>
-<p>Parin striimin ajan on juteltu mahdollisesta subathonin järjestämisestä. Huumorilla kommentoin, että jos katsojia on tämän verran, niin tulee lyhyt striimi.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Kyseessä on siis striimi, joka jatkuu niin kauan kuin subeja tulee. Etukäteen määritelty jatkuminen (esim 15 min lisää) jokaisesta subista.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Elämässä on myös muut rajoitteet ja pidemmät striimit pakottaisivat taukoja väliin. Nukkuminen striimissä ei ole oikein mahdollista, muut nukkujat eivät halua striimin. Tosin aina voi jatkaa aikaisin, lepäämisen jälkeen. Jos ei sitte striimaa teltassa, yms.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Jää harkintaan.</p>
 <p><!-- /wp:paragraph --></p>
             ]]>
         </content>

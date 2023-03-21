@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/juttelua-netissae/",
+            "url": "https://jokiv.fi/juttelua-netissae/",
+            "title": "Juttelua netissä",
+            "summary": "Viimeaikoina on tullut juteltua jonkuverran jitsin kautta. Selaimella ja kännykällä on ihan hyvä ollu juteltua välistä vähän tuntemattomienki kanssa. Toki toiselle pitää linkki antaa jotain kautta, mutta satunnaiseen \"tuu meidän kans juttelemaan\" toi on toiminu ihan ok.",
+            "content_html": "<p>Viimeaikoina on tullut juteltua jonkuverran <a href=\"https://meet.jit.si/\" target=\"_blank\" rel=\"noopener noreferrer\">jitsin</a> kautta. Selaimella ja kännykällä on ihan hyvä ollu juteltua välistä vähän tuntemattomienki kanssa. Toki toiselle pitää linkki antaa jotain kautta, mutta satunnaiseen \"tuu meidän kans juttelemaan\" toi on toiminu ihan ok.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "chat"
+            ],
+            "date_published": "2023-03-21T21:29:15+02:00",
+            "date_modified": "2023-03-21T21:29:15+02:00"
+        },
+        {
             "id": "https://jokiv.fi/laeppaerin-virtalaehde-kaipaa-vaihtoa/",
             "url": "https://jokiv.fi/laeppaerin-virtalaehde-kaipaa-vaihtoa/",
             "title": "Läppärin virtalähde kaipaa vaihtoa",
@@ -152,21 +167,6 @@
             ],
             "date_published": "2022-07-30T12:00:16+03:00",
             "date_modified": "2023-03-18T12:37:24+02:00"
-        },
-        {
-            "id": "https://jokiv.fi/subathon/",
-            "url": "https://jokiv.fi/subathon/",
-            "title": "Subathon",
-            "summary": "Parin striimin ajan on juteltu mahdollisesta subathonin järjestämisestä. Huumorilla kommentoin, että jos katsojia on tämän verran, niin tulee lyhyt striimi. Kyseessä on siis striimi, joka jatkuu niin kauan kuin subeja tulee. Etukäteen määritelty jatkuminen (esim 15 min lisää) jokaisesta subista. Elämässä on myös muut rajoitteet&hellip;",
-            "content_html": "<p><!-- wp:paragraph --></p>\n<p>Parin striimin ajan on juteltu mahdollisesta subathonin järjestämisestä. Huumorilla kommentoin, että jos katsojia on tämän verran, niin tulee lyhyt striimi.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p>Kyseessä on siis striimi, joka jatkuu niin kauan kuin subeja tulee. Etukäteen määritelty jatkuminen (esim 15 min lisää) jokaisesta subista.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p>Elämässä on myös muut rajoitteet ja pidemmät striimit pakottaisivat taukoja väliin. Nukkuminen striimissä ei ole oikein mahdollista, muut nukkujat eivät halua striimin. Tosin aina voi jatkaa aikaisin, lepäämisen jälkeen. Jos ei sitte striimaa teltassa, yms.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p>Jää harkintaan.</p>\n<p><!-- /wp:paragraph --></p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "twitch"
-            ],
-            "date_published": "2022-07-29T21:00:40+03:00",
-            "date_modified": "2023-03-18T12:37:30+02:00"
         }
     ]
 }
