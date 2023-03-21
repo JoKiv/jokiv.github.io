@@ -3,12 +3,34 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-03-20T14:35:32+02:00</updated>
+    <updated>2023-03-21T10:50:55+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Läppärin virtalähde kaipaa vaihtoa</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/laeppaerin-virtalaehde-kaipaa-vaihtoa/"/>
+        <id>https://jokiv.fi/laeppaerin-virtalaehde-kaipaa-vaihtoa/</id>
+            <category term="laitteet"/>
+
+        <updated>2023-03-21T10:50:55+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Tuli huomattua, että läppärin virtalähteen liittimen pää oli hajonnut. Meni hetki kaivaa katkennut pää ulos läppärin liittimestä. Kunnes löydän uuden, netin sisällöntuotto voi olla enemmän katkonaista. Johto on kiinteästi kiinni virtalähteessä, joten koko virtalähde menee uusiksi.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tuli huomattua, että läppärin virtalähteen liittimen pää oli hajonnut. Meni hetki kaivaa katkennut pää ulos läppärin liittimestä. Kunnes löydän uuden, netin sisällöntuotto voi olla enemmän katkonaista. Johto on kiinteästi kiinni virtalähteessä, joten koko virtalähde menee uusiksi.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://jokiv.fi/media/posts/43/laturi.jpg" alt="" width="800" height="457" sizes="100vw" srcset="https://jokiv.fi/media/posts/43/responsive/laturi-xs.jpg 300w ,https://jokiv.fi/media/posts/43/responsive/laturi-sm.jpg 480w ,https://jokiv.fi/media/posts/43/responsive/laturi-md.jpg 768w ,https://jokiv.fi/media/posts/43/responsive/laturi-lg.jpg 1024w ,https://jokiv.fi/media/posts/43/responsive/laturi-xl.jpg 1360w ,https://jokiv.fi/media/posts/43/responsive/laturi-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Steam Deck ja striimaaminen</title>
         <author>
@@ -257,37 +279,6 @@
 <p>Elämässä on myös muut rajoitteet ja pidemmät striimit pakottaisivat taukoja väliin. Nukkuminen striimissä ei ole oikein mahdollista, muut nukkujat eivät halua striimin. Tosin aina voi jatkaa aikaisin, lepäämisen jälkeen. Jos ei sitte striimaa teltassa, yms.</p>
 <p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
 <p>Jää harkintaan.</p>
-<p><!-- /wp:paragraph --></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Jotain pientä lisäksi</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/jotain-pientae-lisaeksi/"/>
-        <id>https://jokiv.fi/jotain-pientae-lisaeksi/</id>
-            <category term="twitch"/>
-            <category term="YouTube"/>
-            <category term="Vimeo"/>
-
-        <updated>2023-03-18T12:37:35+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Olen nyt jonkin aikaa piilottanut osaan videoista ja lähetyksistä kirjain- ja numerokoodin palasia. Ettei asiasta tehdä liian helppoa, ne tulee löytää jokainen, että saa avattua lisätietoja asiaan. YouTuben lähetykset säilyvät, mutta koska Twitch kadottaa videot ja se olisi helppoa vain katsoa säilytettävät videot. Pidän huolen&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:paragraph --></p>
-<p>Olen nyt jonkin aikaa piilottanut osaan videoista ja lähetyksistä kirjain- ja numerokoodin palasia. Ettei asiasta tehdä liian helppoa, ne tulee löytää jokainen, että saa avattua lisätietoja asiaan.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>YouTuben lähetykset säilyvät, mutta koska Twitch kadottaa videot ja se olisi helppoa vain katsoa säilytettävät videot. Pidän huolen että suorien lähetysten koodit toistuvat myöhemmissä striimeissä.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Koodit saattavat näkyä suoraan videossa esimerkiksi jossain kohtaa ruutua tai saatan kirjoittaa sen johonkin high score tauluun nimeksi tai voi olla vaikka ylimääräinen osa nimeä, jota en yleensä käytä.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Muutama ensimmäinen, joka tämän selvittää, tullaan palkitsemaan vuoden lopussa.</p>
 <p><!-- /wp:paragraph --></p>
             ]]>
         </content>
