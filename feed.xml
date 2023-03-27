@@ -3,7 +3,7 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-03-21T21:29:15+02:00</updated>
+    <updated>2023-03-27T06:18:17+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -39,15 +39,15 @@
         <id>https://jokiv.fi/laeppaerin-virtalaehde-kaipaa-vaihtoa/</id>
             <category term="laitteet"/>
 
-        <updated>2023-03-21T10:50:55+02:00</updated>
+        <updated>2023-03-27T06:18:17+03:00</updated>
             <summary>
                 <![CDATA[
-                    Tuli huomattua, että läppärin virtalähteen liittimen pää oli hajonnut. Meni hetki kaivaa katkennut pää ulos läppärin liittimestä. Kunnes löydän uuden, netin sisällöntuotto voi olla enemmän katkonaista. Johto on kiinteästi kiinni virtalähteessä, joten koko virtalähde menee uusiksi.
+                    Tuli huomattua, että läppärin virtalähteen liittimen pää oli hajonnut. Meni hetki kaivaa katkennut pää ulos läppärin liittimestä. Kunnes löydän uuden, netin sisällöntuotto voi olla enemmän katkonaista. Johto on kiinteästi kiinni virtalähteessä, joten koko virtalähde menee uusiksi. Mahdollisesti ensikuussa voin hommata jotain, jolla korvata tämän.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Tuli huomattua, että läppärin virtalähteen liittimen pää oli hajonnut. Meni hetki kaivaa katkennut pää ulos läppärin liittimestä. Kunnes löydän uuden, netin sisällöntuotto voi olla enemmän katkonaista. Johto on kiinteästi kiinni virtalähteessä, joten koko virtalähde menee uusiksi.</p>
+                <p>Tuli huomattua, että läppärin virtalähteen liittimen pää oli hajonnut. Meni hetki kaivaa katkennut pää ulos läppärin liittimestä. Kunnes löydän uuden, netin sisällöntuotto voi olla enemmän katkonaista. Johto on kiinteästi kiinni virtalähteessä, joten koko virtalähde menee uusiksi. Mahdollisesti ensikuussa voin hommata jotain, jolla korvata tämän.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://jokiv.fi/media/posts/43/laturi.jpg" alt="" width="800" height="457" sizes="100vw" srcset="https://jokiv.fi/media/posts/43/responsive/laturi-xs.jpg 300w ,https://jokiv.fi/media/posts/43/responsive/laturi-sm.jpg 480w ,https://jokiv.fi/media/posts/43/responsive/laturi-md.jpg 768w ,https://jokiv.fi/media/posts/43/responsive/laturi-lg.jpg 1024w ,https://jokiv.fi/media/posts/43/responsive/laturi-xl.jpg 1360w ,https://jokiv.fi/media/posts/43/responsive/laturi-2xl.jpg 1600w"></figure>
             ]]>
         </content>
