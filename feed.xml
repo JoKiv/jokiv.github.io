@@ -3,7 +3,7 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-03-27T06:18:17+03:00</updated>
+    <updated>2023-03-29T13:30:06+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -83,7 +83,7 @@
         <id>https://jokiv.fi/saeaetoeae-ja-saeaestoetoimia/</id>
             <category term="blogi"/>
 
-        <updated>2023-03-19T12:28:37+02:00</updated>
+        <updated>2023-03-29T13:30:06+03:00</updated>
             <summary>
                 <![CDATA[
                     Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa. Sivulla saattaa olla rikkinäisiä linkkejä, mutta korjaan niitä aina, kun löydän.
@@ -186,40 +186,6 @@
         </content>
     </entry>
     <entry>
-        <title>Kesäauton haastesta</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/kesaeauton-haastesta/"/>
-        <id>https://jokiv.fi/kesaeauton-haastesta/</id>
-            <category term="twitch"/>
-            <category term="Steam Deck"/>
-
-        <updated>2022-11-21T18:57:33+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Selatessani tilastoja subaajien suhteen, kyllähän se on ihan selvää, että sataa subaajaa ei tulla saamaan kasaan. Steam Deckin kohtalo on oikeastaan jo ratkennut tätä kirjoitettaessa. Täytyy katsella muita mahdollisuuksia sitten myöhemmin. Kyllä se kesäauto striimeihin tulee jossain välissä, mutta moottorin urakka ei ala ainakaan ihan&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:paragraph --></p>
-<p>Selatessani tilastoja subaajien suhteen, kyllähän se on ihan selvää, että sataa subaajaa ei tulla saamaan kasaan. </p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Steam Deckin kohtalo on oikeastaan jo ratkennut tätä kirjoitettaessa. Täytyy katsella muita mahdollisuuksia sitten myöhemmin. Kyllä se kesäauto striimeihin tulee jossain välissä, mutta moottorin urakka ei ala ainakaan ihan heti.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Laite on lähetetty minulle ja saapuu muutaman päivän sisällä.</p>
-<p>
-<!-- /wp:paragraph --></p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Assembly Winter 2023</title>
         <author>
             <name>JoKiv</name>
@@ -245,32 +211,61 @@
         </content>
     </entry>
     <entry>
-        <title>Kesäauton haaste hankaloitui</title>
+        <title>Subathon</title>
         <author>
             <name>JoKiv</name>
         </author>
-        <link href="https://jokiv.fi/kesaeauton-haaste-hankaloitui/"/>
-        <id>https://jokiv.fi/kesaeauton-haaste-hankaloitui/</id>
+        <link href="https://jokiv.fi/subathon/"/>
+        <id>https://jokiv.fi/subathon/</id>
             <category term="twitch"/>
-            <category term="mene töihin"/>
-            <category term="Steam Deck"/>
 
-        <updated>2023-03-18T12:37:24+02:00</updated>
+        <updated>2023-03-18T12:37:30+02:00</updated>
             <summary>
                 <![CDATA[
-                    Haaste hankaloitui tai ainakin on vaarassa siirtyä. Haasteen taustaa täältä. Ei tämä haaste subimääriä nostanut, mutta olin ajatellut ainakin pelata peliä (ehkä jopa kasata sen moottorin) vaikka subimäärät olivat alhaisemmat. Valve ilmoitti, että iso osa Q3+ (sivu myös kertoi "lokakuussa tai sen jälkeen") onkin nyt&hellip;
+                    Parin striimin ajan on juteltu mahdollisesta subathonin järjestämisestä. Huumorilla kommentoin, että jos katsojia on tämän verran, niin tulee lyhyt striimi. Kyseessä on siis striimi, joka jatkuu niin kauan kuin subeja tulee. Etukäteen määritelty jatkuminen (esim 15 min lisää) jokaisesta subista. Elämässä on myös muut rajoitteet&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p><!-- wp:paragraph --></p>
-<p>Haaste hankaloitui tai ainakin on vaarassa siirtyä. Haasteen taustaa <a href="https://jokiv.fi/twitch-ja-sata-subaajaa/">täältä</a>. Ei tämä haaste subimääriä nostanut, mutta olin ajatellut ainakin pelata peliä (ehkä jopa kasata sen moottorin) vaikka subimäärät olivat alhaisemmat.</p>
+<p>Parin striimin ajan on juteltu mahdollisesta subathonin järjestämisestä. Huumorilla kommentoin, että jos katsojia on tämän verran, niin tulee lyhyt striimi.</p>
 <p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Valve ilmoitti, että iso osa Q3+ (sivu myös kertoi "lokakuussa tai sen jälkeen") onkin nyt ihan oikeasti Q3. Eli siirtoon lokakuusta tähän heinä-elo-syyskuu ajalle. Normaalisti tälläinen on iloasia, että saadaan aikaisemmin laite tilattua.</p>
+<p>Kyseessä on siis striimi, joka jatkuu niin kauan kuin subeja tulee. Etukäteen määritelty jatkuminen (esim 15 min lisää) jokaisesta subista.</p>
 <p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Itse olen vielä säästämässä tätä varten, niin se ei liikaa auta, että on laskenut asiat tuonne lokakuulle ja täytyy katsoa mistä vielä pinnistää lisää, kun valve ei anna kuin muutaman päivän aikaa maksaa tilaus.</p>
+<p>Elämässä on myös muut rajoitteet ja pidemmät striimit pakottaisivat taukoja väliin. Nukkuminen striimissä ei ole oikein mahdollista, muut nukkujat eivät halua striimin. Tosin aina voi jatkaa aikaisin, lepäämisen jälkeen. Jos ei sitte striimaa teltassa, yms.</p>
 <p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Jos tilaus peruuntuu, niin katsellaan mahdollisesti ensi vuoden puolella steam deckin uusia haasteita.</p>
+<p>Jää harkintaan.</p>
+<p><!-- /wp:paragraph --></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Jotain pientä lisäksi</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/jotain-pientae-lisaeksi/"/>
+        <id>https://jokiv.fi/jotain-pientae-lisaeksi/</id>
+            <category term="twitch"/>
+            <category term="YouTube"/>
+            <category term="Vimeo"/>
+
+        <updated>2023-03-18T12:37:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Olen nyt jonkin aikaa piilottanut osaan videoista ja lähetyksistä kirjain- ja numerokoodin palasia. Ettei asiasta tehdä liian helppoa, ne tulee löytää jokainen, että saa avattua lisätietoja asiaan. YouTuben lähetykset säilyvät, mutta koska Twitch kadottaa videot ja se olisi helppoa vain katsoa säilytettävät videot. Pidän huolen&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><!-- wp:paragraph --></p>
+<p>Olen nyt jonkin aikaa piilottanut osaan videoista ja lähetyksistä kirjain- ja numerokoodin palasia. Ettei asiasta tehdä liian helppoa, ne tulee löytää jokainen, että saa avattua lisätietoja asiaan.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>YouTuben lähetykset säilyvät, mutta koska Twitch kadottaa videot ja se olisi helppoa vain katsoa säilytettävät videot. Pidän huolen että suorien lähetysten koodit toistuvat myöhemmissä striimeissä.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Koodit saattavat näkyä suoraan videossa esimerkiksi jossain kohtaa ruutua tai saatan kirjoittaa sen johonkin high score tauluun nimeksi tai voi olla vaikka ylimääräinen osa nimeä, jota en yleensä käytä.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Muutama ensimmäinen, joka tämän selvittää, tullaan palkitsemaan vuoden lopussa.</p>
 <p><!-- /wp:paragraph --></p>
             ]]>
         </content>
