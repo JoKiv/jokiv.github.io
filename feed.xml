@@ -3,12 +3,33 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-03-31T12:03:01+03:00</updated>
+    <updated>2023-03-31T12:07:35+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Korjausta blogissa</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/korjausta/"/>
+        <id>https://jokiv.fi/korjausta/</id>
+            <category term="yritä edes"/>
+
+        <updated>2023-03-31T12:07:35+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Jouduin korjaamaan useamman kohdan blogistani ja se saattoi näköjän feedin lukijoilla aiheuttaa useamman vanhan julkaisun näkymisen uudelleen, pahoittelen tapahtunutta.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Jouduin korjaamaan useamman kohdan blogistani ja se saattoi näköjän feedin lukijoilla aiheuttaa useamman vanhan julkaisun näkymisen uudelleen, pahoittelen tapahtunutta.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Peli, YouTube ja Twitch</title>
         <author>
@@ -16,10 +37,10 @@
         </author>
         <link href="https://jokiv.fi/peli-youtube-ja-twitch/"/>
         <id>https://jokiv.fi/peli-youtube-ja-twitch/</id>
+            <category term="youtube"/>
             <category term="twitch"/>
             <category term="pelit"/>
             <category term="laitteet"/>
-            <category term="YouTube"/>
 
         <updated>2023-03-31T12:03:01+03:00</updated>
             <summary>
@@ -87,7 +108,7 @@
         <link href="https://jokiv.fi/steam-deck-ja-striimaaminen/"/>
         <id>https://jokiv.fi/steam-deck-ja-striimaaminen/</id>
             <category term="twitch"/>
-            <category term="Steam Deck"/>
+            <category term="steam deck"/>
 
         <updated>2023-03-20T14:35:32+02:00</updated>
             <summary>
@@ -130,10 +151,10 @@
         </author>
         <link href="https://jokiv.fi/ajatuksia-taestae-vuodesta/"/>
         <id>https://jokiv.fi/ajatuksia-taestae-vuodesta/</id>
+            <category term="youtube"/>
             <category term="twitch"/>
             <category term="linux"/>
             <category term="discord"/>
-            <category term="YouTube"/>
 
         <updated>2023-03-18T12:04:36+02:00</updated>
             <summary>
@@ -185,9 +206,9 @@
         </author>
         <link href="https://jokiv.fi/pelien-tekeminen-jatkuu/"/>
         <id>https://jokiv.fi/pelien-tekeminen-jatkuu/</id>
+            <category term="youtube"/>
+            <category term="steam deck"/>
             <category term="linux"/>
-            <category term="YouTube"/>
-            <category term="Steam Deck"/>
 
         <updated>2022-11-21T19:10:07+02:00</updated>
             <summary>
@@ -233,35 +254,6 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Laitoin uusien subien tavoitteen Twitchiin aiheesta, mutta en ole niin varma kerkeääkö se täyttyä. Sillä saisi katettua kuluja. No, katsella seuraavia, jos tähän ei pääse.</p>
-<p><!-- /wp:paragraph --></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Subathon</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/subathon/"/>
-        <id>https://jokiv.fi/subathon/</id>
-            <category term="twitch"/>
-
-        <updated>2023-03-18T12:37:30+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Parin striimin ajan on juteltu mahdollisesta subathonin järjestämisestä. Huumorilla kommentoin, että jos katsojia on tämän verran, niin tulee lyhyt striimi. Kyseessä on siis striimi, joka jatkuu niin kauan kuin subeja tulee. Etukäteen määritelty jatkuminen (esim 15 min lisää) jokaisesta subista. Elämässä on myös muut rajoitteet&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:paragraph --></p>
-<p>Parin striimin ajan on juteltu mahdollisesta subathonin järjestämisestä. Huumorilla kommentoin, että jos katsojia on tämän verran, niin tulee lyhyt striimi.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Kyseessä on siis striimi, joka jatkuu niin kauan kuin subeja tulee. Etukäteen määritelty jatkuminen (esim 15 min lisää) jokaisesta subista.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Elämässä on myös muut rajoitteet ja pidemmät striimit pakottaisivat taukoja väliin. Nukkuminen striimissä ei ole oikein mahdollista, muut nukkujat eivät halua striimin. Tosin aina voi jatkaa aikaisin, lepäämisen jälkeen. Jos ei sitte striimaa teltassa, yms.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Jää harkintaan.</p>
 <p><!-- /wp:paragraph --></p>
             ]]>
         </content>
