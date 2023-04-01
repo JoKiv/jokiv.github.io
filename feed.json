@@ -155,18 +155,19 @@
             "date_modified": "2022-11-21T19:10:07+02:00"
         },
         {
-            "id": "https://jokiv.fi/assembly-winter-2023/",
-            "url": "https://jokiv.fi/assembly-winter-2023/",
-            "title": "Assembly Winter 2023",
-            "summary": "Minua on houkuteltu käymään ja kuvaamaan Assembly Winter tapahtumassa 2023. Tuo helmikuussa oleva tapahtuma on kuitenkin muiden säästämisien ja elämisen ohella hieman liian iso potti kerätä säästää lyhyessä ajassa. Laitoin uusien subien tavoitteen Twitchiin aiheesta, mutta en ole niin varma kerkeääkö se täyttyä. Sillä saisi&hellip;",
-            "content_html": "<p><!-- wp:paragraph --></p>\n<p>Minua on houkuteltu käymään ja kuvaamaan Assembly Winter tapahtumassa 2023. Tuo helmikuussa oleva tapahtuma on kuitenkin muiden säästämisien ja elämisen ohella hieman liian iso potti kerätä säästää lyhyessä ajassa.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Laitoin uusien subien tavoitteen Twitchiin aiheesta, mutta en ole niin varma kerkeääkö se täyttyä. Sillä saisi katettua kuluja. No, katsella seuraavia, jos tähän ei pääse.</p>\n<p><!-- /wp:paragraph --></p>",
+            "id": "https://jokiv.fi/subathon/",
+            "url": "https://jokiv.fi/subathon/",
+            "title": "Subathon",
+            "summary": "Parin striimin ajan on juteltu mahdollisesta subathonin järjestämisestä. Huumorilla kommentoin, että jos katsojia on tämän verran, niin tulee lyhyt striimi. Kyseessä on siis striimi, joka jatkuu niin kauan kuin subeja tulee. Etukäteen määritelty jatkuminen (esim 15 min lisää) jokaisesta subista. Elämässä on myös muut rajoitteet&hellip;",
+            "content_html": "<p><!-- wp:paragraph --></p>\n<p>Parin striimin ajan on juteltu mahdollisesta subathonin järjestämisestä. Huumorilla kommentoin, että jos katsojia on tämän verran, niin tulee lyhyt striimi.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p>Kyseessä on siis striimi, joka jatkuu niin kauan kuin subeja tulee. Etukäteen määritelty jatkuminen (esim 15 min lisää) jokaisesta subista.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p>Elämässä on myös muut rajoitteet ja pidemmät striimit pakottaisivat taukoja väliin. Nukkuminen striimissä ei ole oikein mahdollista, muut nukkujat eivät halua striimin. Tosin aina voi jatkaa aikaisin, lepäämisen jälkeen. Jos ei sitte striimaa teltassa, yms.</p>\n<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>\n<p>Jää harkintaan.</p>\n<p><!-- /wp:paragraph --></p>",
             "author": {
                 "name": "JoKiv"
             },
             "tags": [
+                   "twitch"
             ],
-            "date_published": "2022-08-20T09:22:31+03:00",
-            "date_modified": "2023-03-18T12:04:55+02:00"
+            "date_published": "2022-07-29T21:00:40+03:00",
+            "date_modified": "2023-03-18T12:37:30+02:00"
         }
     ]
 }
