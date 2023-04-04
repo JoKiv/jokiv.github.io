@@ -3,12 +3,36 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-03-31T12:07:35+03:00</updated>
+    <updated>2023-04-04T22:22:04+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Pieniä testauksia flutterilla</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/pieniae-testauksia-flutterilla/"/>
+        <id>https://jokiv.fi/pieniae-testauksia-flutterilla/</id>
+            <category term="web"/>
+            <category term="linux"/>
+            <category term="flutter"/>
+            <category term="android"/>
+
+        <updated>2023-04-04T22:22:04+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Tuli muutama pieni ohjelma tehtyä flutterilla. Ihan näppärän oloinen. En nyt ensisijaisesti välttämättä ole vaihtamassa, mutta joissakin ohjelmissa (etenkin kännykälle) voisi olla ihan&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tuli muutama pieni ohjelma tehtyä <a href="https://flutter.dev/" title="flutter.dev" target="_blank" rel="noopener noreferrer">flutterilla</a>. Ihan näppärän oloinen. En nyt ensisijaisesti välttämättä ole vaihtamassa, mutta joissakin ohjelmissa (etenkin kännykälle) voisi olla ihan mukava.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Korjausta blogissa</title>
         <author>
@@ -229,35 +253,6 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Vaikka Unreal Enginen esimerkkiprojektin sai kivuttomasti pyörimään Steam Deckillä, suunnitelmat ovat enemmän retrohenkisempään ja kevyempään.</p>
-<p><!-- /wp:paragraph --></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Subathon</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/subathon/"/>
-        <id>https://jokiv.fi/subathon/</id>
-            <category term="twitch"/>
-
-        <updated>2023-03-18T12:37:30+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Parin striimin ajan on juteltu mahdollisesta subathonin järjestämisestä. Huumorilla kommentoin, että jos katsojia on tämän verran, niin tulee lyhyt striimi. Kyseessä on siis&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:paragraph --></p>
-<p>Parin striimin ajan on juteltu mahdollisesta subathonin järjestämisestä. Huumorilla kommentoin, että jos katsojia on tämän verran, niin tulee lyhyt striimi.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Kyseessä on siis striimi, joka jatkuu niin kauan kuin subeja tulee. Etukäteen määritelty jatkuminen (esim 15 min lisää) jokaisesta subista.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Elämässä on myös muut rajoitteet ja pidemmät striimit pakottaisivat taukoja väliin. Nukkuminen striimissä ei ole oikein mahdollista, muut nukkujat eivät halua striimin. Tosin aina voi jatkaa aikaisin, lepäämisen jälkeen. Jos ei sitte striimaa teltassa, yms.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Jää harkintaan.</p>
 <p><!-- /wp:paragraph --></p>
             ]]>
         </content>
