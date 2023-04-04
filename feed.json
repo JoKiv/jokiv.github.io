@@ -10,9 +10,25 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/internet-radio/",
+            "url": "https://jokiv.fi/internet-radio/",
+            "title": "Internet Radio",
+            "summary": "Striimissä kommentoin, että jos pitäisin internet radiota, niin pääasiassa ongelmaksi tulisi palvelinkustannukset. Asia on ollut aikaisemminki esillä. Nykyään tosin vähän enemmän harkinnassa. Katsellaan&hellip;",
+            "content_html": "<p>Striimissä kommentoin, että jos pitäisin internet radiota, niin pääasiassa ongelmaksi tulisi palvelinkustannukset. Asia on ollut aikaisemminki esillä.</p>\n<p>Nykyään tosin vähän enemmän harkinnassa. Katsellaan sitten kun on varallisuutta. Moni kertoo kuuntelevansa kommenttejani mielellään, radio voisi olla kevyempi, jos muutoin ei aiheet innosta. </p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "web",
+                   "radio"
+            ],
+            "date_published": "2023-04-05T01:07:29+03:00",
+            "date_modified": "2023-04-05T01:07:29+03:00"
+        },
+        {
             "id": "https://jokiv.fi/pieniae-testauksia-flutterilla/",
             "url": "https://jokiv.fi/pieniae-testauksia-flutterilla/",
-            "title": "Pieniä testauksia flutterilla",
+            "title": "Pieniä testejä flutterilla",
             "summary": "Tuli muutama pieni ohjelma tehtyä flutterilla. Ihan näppärän oloinen. En nyt ensisijaisesti välttämättä ole vaihtamassa, mutta joissakin ohjelmissa (etenkin kännykälle) voisi olla ihan&hellip;",
             "content_html": "<p>Tuli muutama pieni ohjelma tehtyä <a href=\"https://flutter.dev/\" title=\"flutter.dev\" target=\"_blank\" rel=\"noopener noreferrer\">flutterilla</a>. Ihan näppärän oloinen. En nyt ensisijaisesti välttämättä ole vaihtamassa, mutta joissakin ohjelmissa (etenkin kännykälle) voisi olla ihan mukava.</p>",
             "author": {
@@ -25,7 +41,7 @@
                    "android"
             ],
             "date_published": "2023-04-04T22:22:04+03:00",
-            "date_modified": "2023-04-04T22:22:04+03:00"
+            "date_modified": "2023-04-05T01:01:33+03:00"
         },
         {
             "id": "https://jokiv.fi/korjausta/",
@@ -154,23 +170,6 @@
             ],
             "date_published": "2022-10-14T18:30:32+03:00",
             "date_modified": "2023-03-18T12:04:47+02:00"
-        },
-        {
-            "id": "https://jokiv.fi/pelien-tekeminen-jatkuu/",
-            "url": "https://jokiv.fi/pelien-tekeminen-jatkuu/",
-            "title": "Pelien tekeminen jatkuu",
-            "summary": "On silleen turhan kauan pidetty taukoa pelien tekemiseen puolella. Ajattelin tuossa aamutuimaan, että voisi aloittaa uuden projektin, koska vanhojen projektien kans on hieman&hellip;",
-            "content_html": "<p><!-- wp:paragraph --></p>\n<p>On silleen turhan kauan pidetty taukoa pelien tekemiseen puolella.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Ajattelin tuossa aamutuimaan, että voisi aloittaa uuden projektin, koska vanhojen projektien kans on hieman ideoiden tasolla jumissa.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Jotain uutta testiin. Toista pelimoottoria tai muuta pientä projektia. Saa uutta näkökulmaa asioihin.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Vaikka Unreal Enginen esimerkkiprojektin sai kivuttomasti pyörimään Steam Deckillä, suunnitelmat ovat enemmän retrohenkisempään ja kevyempään.</p>\n<p><!-- /wp:paragraph --></p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "youtube",
-                   "steam deck",
-                   "linux"
-            ],
-            "date_published": "2022-10-01T22:36:01+03:00",
-            "date_modified": "2022-11-21T19:10:07+02:00"
         }
     ]
 }

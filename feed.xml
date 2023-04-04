@@ -3,14 +3,37 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-04-04T22:22:04+03:00</updated>
+    <updated>2023-04-05T01:07:29+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
     <entry>
-        <title>Pieniä testauksia flutterilla</title>
+        <title>Internet Radio</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/internet-radio/"/>
+        <id>https://jokiv.fi/internet-radio/</id>
+            <category term="web"/>
+            <category term="radio"/>
+
+        <updated>2023-04-05T01:07:29+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Striimissä kommentoin, että jos pitäisin internet radiota, niin pääasiassa ongelmaksi tulisi palvelinkustannukset. Asia on ollut aikaisemminki esillä. Nykyään tosin vähän enemmän harkinnassa. Katsellaan&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Striimissä kommentoin, että jos pitäisin internet radiota, niin pääasiassa ongelmaksi tulisi palvelinkustannukset. Asia on ollut aikaisemminki esillä.</p>
+<p>Nykyään tosin vähän enemmän harkinnassa. Katsellaan sitten kun on varallisuutta. Moni kertoo kuuntelevansa kommenttejani mielellään, radio voisi olla kevyempi, jos muutoin ei aiheet innosta. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pieniä testejä flutterilla</title>
         <author>
             <name>JoKiv</name>
         </author>
@@ -21,7 +44,7 @@
             <category term="flutter"/>
             <category term="android"/>
 
-        <updated>2023-04-04T22:22:04+03:00</updated>
+        <updated>2023-04-05T01:01:33+03:00</updated>
             <summary>
                 <![CDATA[
                     Tuli muutama pieni ohjelma tehtyä flutterilla. Ihan näppärän oloinen. En nyt ensisijaisesti välttämättä ole vaihtamassa, mutta joissakin ohjelmissa (etenkin kännykälle) voisi olla ihan&hellip;
@@ -219,40 +242,6 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Mutta ei kannata ihmetellä, jos vain katoan jostain palvelusta, jos kukaan ei sitä kautta pidä yhteyttä.</p>
-<p><!-- /wp:paragraph --></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Pelien tekeminen jatkuu</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/pelien-tekeminen-jatkuu/"/>
-        <id>https://jokiv.fi/pelien-tekeminen-jatkuu/</id>
-            <category term="youtube"/>
-            <category term="steam deck"/>
-            <category term="linux"/>
-
-        <updated>2022-11-21T19:10:07+02:00</updated>
-            <summary>
-                <![CDATA[
-                    On silleen turhan kauan pidetty taukoa pelien tekemiseen puolella. Ajattelin tuossa aamutuimaan, että voisi aloittaa uuden projektin, koska vanhojen projektien kans on hieman&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:paragraph --></p>
-<p>On silleen turhan kauan pidetty taukoa pelien tekemiseen puolella.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Ajattelin tuossa aamutuimaan, että voisi aloittaa uuden projektin, koska vanhojen projektien kans on hieman ideoiden tasolla jumissa.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Jotain uutta testiin. Toista pelimoottoria tai muuta pientä projektia. Saa uutta näkökulmaa asioihin.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Vaikka Unreal Enginen esimerkkiprojektin sai kivuttomasti pyörimään Steam Deckillä, suunnitelmat ovat enemmän retrohenkisempään ja kevyempään.</p>
 <p><!-- /wp:paragraph --></p>
             ]]>
         </content>
