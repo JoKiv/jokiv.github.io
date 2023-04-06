@@ -3,12 +3,35 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-04-05T01:07:29+03:00</updated>
+    <updated>2023-04-06T22:02:02+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Patreonista</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/patreonista/"/>
+        <id>https://jokiv.fi/patreonista/</id>
+            <category term="patreon"/>
+            <category term="ko-fi"/>
+
+        <updated>2023-04-06T22:02:02+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Sammutin patreonin luojasivut. Tämä tarkoittaa, että en ota vastaan lahjoituksia sen kautta. Kukaan ei tehnyt lahjoituksia sen kautta, ja tilastojen mukaan kukaan ei&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Sammutin patreonin luojasivut. Tämä tarkoittaa, että en ota vastaan lahjoituksia sen kautta. Kukaan ei tehnyt lahjoituksia sen kautta, ja tilastojen mukaan kukaan ei edes lukenut, jos kirjoitin sinne. </p>
+<p>Ko-fi on ollut viime kuukausina aktiivisempi kuin patreon on ollut yli kuuteen(?) vuoteen.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Internet Radio</title>
         <author>
@@ -213,36 +236,6 @@
             <![CDATA[
                 <p>Ihmiset ovat kyselleet tulevasta. Suunnitelmista ympäri vuoden. Assembly? Striimit? Pelimaraton?</p>
 <p>Totta puhuakseni, minulla ei ole niistä tällä hetkellä yhtään aatosta. Ainoa tän hetkinen suunnitelma on osallistua yhteen tulevaan asiaan (josta ei tule tämän enempää infoa julkisesti) ja sen perusteella joutuu melkein päättämään, jatketaanko edellisiäkään suunnitelmia, vai pistetäänkö ”pillit pussiin”.<br><br>Asia lähti tuosta koneen rikkoutumisesta tai oikeastaan jo joku kk sitä ennen, kun se alkoi oireilemaan. Se, että pystyin jatkaaman asioita eteenpäin, veti suunnileen kaikki säästöt. Yleensä vuoden alku mennään pienellä budjetilla, mutta tämä vuosi alkoi aika nollasta. Vielä ei olla miinuksella, mutta suunta on alaspäin, jos tää yksi tuleva asia ei auta.<br><br>Katsellaan miten menee. Todennäköisesti tästä päästään yli, mutta asioiden mennessä miinukselle, jatkoa on odotettavissa hitaammin. Ainakin toivon, että asiat jatkuvat. Edes myöhemmin.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ylimääräisiä sosiaalisia medioita</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/ylimaeaeraeisiae-sosiaalisia-medioita/"/>
-        <id>https://jokiv.fi/ylimaeaeraeisiae-sosiaalisia-medioita/</id>
-            <category term="snapchat"/>
-            <category term="instagram"/>
-
-        <updated>2023-03-18T12:04:47+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Tämä ajatus lähti aikaisemmin, kun poistin Instagramin ja Snapchatin tunnukset. Tuli huomattua, ettei niile tarvetta ole. Tullut siihen päätökseen, että jos menee kuukausia&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:paragraph --></p>
-<p>Tämä ajatus lähti aikaisemmin, kun poistin Instagramin ja Snapchatin tunnukset. Tuli huomattua, ettei niile tarvetta ole. Tullut siihen päätökseen, että jos menee kuukausia ilman käyttöä, niin voisi laskea itselle turhaksi. Toki osa tulee olemaan käytössä esimerkiksi sukulaisten vuoksi.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Ne jotka tietävät puhelinnumeron, löytävät minut muutenkin whatsappissa, telegrammissa ja signalissa. Myös Threema löytyy, mutta sen muutaman euron hinta ei tunnu monia kiinnostavan.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Mutta ei kannata ihmetellä, jos vain katoan jostain palvelusta, jos kukaan ei sitä kautta pidä yhteyttä.</p>
-<p><!-- /wp:paragraph --></p>
             ]]>
         </content>
     </entry>

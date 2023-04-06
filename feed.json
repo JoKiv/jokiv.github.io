@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/patreonista/",
+            "url": "https://jokiv.fi/patreonista/",
+            "title": "Patreonista",
+            "summary": "Sammutin patreonin luojasivut. Tämä tarkoittaa, että en ota vastaan lahjoituksia sen kautta. Kukaan ei tehnyt lahjoituksia sen kautta, ja tilastojen mukaan kukaan ei&hellip;",
+            "content_html": "<p>Sammutin patreonin luojasivut. Tämä tarkoittaa, että en ota vastaan lahjoituksia sen kautta. Kukaan ei tehnyt lahjoituksia sen kautta, ja tilastojen mukaan kukaan ei edes lukenut, jos kirjoitin sinne. </p>\n<p>Ko-fi on ollut viime kuukausina aktiivisempi kuin patreon on ollut yli kuuteen(?) vuoteen.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "patreon",
+                   "ko-fi"
+            ],
+            "date_published": "2023-04-06T22:01:37+03:00",
+            "date_modified": "2023-04-06T22:02:02+03:00"
+        },
+        {
             "id": "https://jokiv.fi/internet-radio/",
             "url": "https://jokiv.fi/internet-radio/",
             "title": "Internet Radio",
@@ -154,22 +170,6 @@
             ],
             "date_published": "2023-01-02T00:00:00+02:00",
             "date_modified": "2023-03-18T12:04:36+02:00"
-        },
-        {
-            "id": "https://jokiv.fi/ylimaeaeraeisiae-sosiaalisia-medioita/",
-            "url": "https://jokiv.fi/ylimaeaeraeisiae-sosiaalisia-medioita/",
-            "title": "Ylimääräisiä sosiaalisia medioita",
-            "summary": "Tämä ajatus lähti aikaisemmin, kun poistin Instagramin ja Snapchatin tunnukset. Tuli huomattua, ettei niile tarvetta ole. Tullut siihen päätökseen, että jos menee kuukausia&hellip;",
-            "content_html": "<p><!-- wp:paragraph --></p>\n<p>Tämä ajatus lähti aikaisemmin, kun poistin Instagramin ja Snapchatin tunnukset. Tuli huomattua, ettei niile tarvetta ole. Tullut siihen päätökseen, että jos menee kuukausia ilman käyttöä, niin voisi laskea itselle turhaksi. Toki osa tulee olemaan käytössä esimerkiksi sukulaisten vuoksi.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Ne jotka tietävät puhelinnumeron, löytävät minut muutenkin whatsappissa, telegrammissa ja signalissa. Myös Threema löytyy, mutta sen muutaman euron hinta ei tunnu monia kiinnostavan.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>Mutta ei kannata ihmetellä, jos vain katoan jostain palvelusta, jos kukaan ei sitä kautta pidä yhteyttä.</p>\n<p><!-- /wp:paragraph --></p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "snapchat",
-                   "instagram"
-            ],
-            "date_published": "2022-10-14T18:30:32+03:00",
-            "date_modified": "2023-03-18T12:04:47+02:00"
         }
     ]
 }
