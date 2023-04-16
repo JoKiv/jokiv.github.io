@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/vitsistae-ideaksi/",
+            "url": "https://jokiv.fi/vitsistae-ideaksi/",
+            "title": "Vitsistä ideaksi",
+            "summary": "Osittain vihjasin tai oikeammin vitsailin, jos tekisin kirjan siitä, mikä minun elämä on ollu tähän mennessä. Vihjasin The history of JoKiv voisi lähteä&hellip;",
+            "content_html": "<p>Osittain vihjasin tai oikeammin vitsailin, jos tekisin kirjan siitä, mikä minun elämä on ollu tähän mennessä. Vihjasin <em>The history of JoKiv</em> voisi lähteä työn alle jossain vaiheessa, sen jälkeen kun olisin partneri twitchissä tai youtubessa. Mainitsin siitä molemmissa, mutta en muista kumpaan sen tarkemmin sitä vihjailin.</p>\n<p>Hidasta hommaa joka tapauksessa, mutta puoli sivua olen sitä jo naputellu. En silleen suunnitellu ole mitään, mutta katsoa jos tuon joskus saa sellaiseen kuntoon, että se olis julkaisuvalmis. Meneehän siihen partneruuteenki vielä aikaa.</p>\n<p>Tällä hetkellä alustavaa tietoa olen kirjoitellu, mistä oikeastaan nimimerkki tulee ja mitä nimimerkkiä käytin tätä ennen. Myös sen vanhemman nimimerkin lyhyt historia on mukana, vaikka se onkin vain muutama lause.</p>\n<p>Katsotaan tuleeko tästä mitään vai keksitäänkö jotain uutta. Tälle tekstille voisi olla vaihtoehtoinenkin käyttötarkoitus.. Siitä sitten enemmän, jos saan asiat ojennukseen ja uuden koneen tuon hajonneen tilalle.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "kirja"
+            ],
+            "date_published": "2023-04-16T13:59:52+03:00",
+            "date_modified": "2023-04-16T13:59:52+03:00"
+        },
+        {
             "id": "https://jokiv.fi/vielae-kerran-flutterista/",
             "url": "https://jokiv.fi/vielae-kerran-flutterista/",
             "title": "Vielä kerran flutterista",
@@ -152,21 +167,6 @@
             ],
             "date_published": "2023-03-20T14:35:32+02:00",
             "date_modified": "2023-03-20T14:35:32+02:00"
-        },
-        {
-            "id": "https://jokiv.fi/saeaetoeae-ja-saeaestoetoimia/",
-            "url": "https://jokiv.fi/saeaetoeae-ja-saeaestoetoimia/",
-            "title": "Säätöä ja säästötoimia",
-            "summary": "Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa. Sivulla saattaa olla rikkinäisiä linkkejä, mutta korjaan niitä aina,&hellip;",
-            "content_html": "<p>Vaihdoin turvallisempaan tapaan pitää blogia ja samalla edullisempaan. Katsellaan miten tämä tulee auttamaan asioissa.</p>\n<p>Sivulla saattaa olla rikkinäisiä linkkejä, mutta korjaan niitä aina, kun löydän.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "blogi"
-            ],
-            "date_published": "2023-03-18T11:44:09+02:00",
-            "date_modified": "2023-03-29T13:30:06+03:00"
         }
     ]
 }
