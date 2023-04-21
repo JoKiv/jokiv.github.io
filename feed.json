@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/youtube-vs-twitch/",
+            "url": "https://jokiv.fi/youtube-vs-twitch/",
+            "title": "YouTube vs Twitch",
+            "summary": "Tässä tullut kateltua tilastoja ja YouTube allkaa ottamaan Twitchiä kiinni katsojamäärissä. Joillakin videoilla myös menee sen ohi. Tosin palvelut ovat itsessään erilaisia. Toki&hellip;",
+            "content_html": "<p>Tässä tullut kateltua tilastoja ja YouTube allkaa ottamaan Twitchiä kiinni katsojamäärissä. Joillakin videoilla myös menee sen ohi. Tosin palvelut ovat itsessään erilaisia. </p>\n<p>Toki YouTube videolla kommentoin aikaisemmmin jatkosuunnitelmista, mutta sen jälkeen katsojamäärät ovat muuttuneet, joten pitää nyt seurailla (kuten videossakin mainitsin) ainakin kesän yli.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "youtube",
+                   "twitch"
+            ],
+            "date_published": "2023-04-21T20:00:02+03:00",
+            "date_modified": "2023-04-21T20:00:02+03:00"
+        },
+        {
             "id": "https://jokiv.fi/vitsistae-ideaksi/",
             "url": "https://jokiv.fi/vitsistae-ideaksi/",
             "title": "Vitsistä ideaksi",
@@ -151,22 +167,6 @@
             ],
             "date_published": "2023-03-20T23:45:00+02:00",
             "date_modified": "2023-03-27T06:18:17+03:00"
-        },
-        {
-            "id": "https://jokiv.fi/steam-deck-ja-striimaaminen/",
-            "url": "https://jokiv.fi/steam-deck-ja-striimaaminen/",
-            "title": "Steam Deck ja striimaaminen",
-            "summary": "Varmaan kukaan ei yllättynyt, kun tein asian, johon on varmaan satoja opasvideoita YouTubessa. Tosin en seurannut mitään opasta, vaan asensin vain OBS Studion&hellip;",
-            "content_html": "<p>Varmaan kukaan ei yllättynyt, kun tein asian, johon on varmaan satoja opasvideoita YouTubessa. Tosin en seurannut mitään opasta, vaan asensin vain <a href=\"https://obsproject.com/\" title=\"OBS Studio\" target=\"_blank\" rel=\"noopener noreferrer\">OBS Studion</a> ja aloin käyttämään sitä. En kuitenkaan tässä vaiheessa ala säätämään isompia koristeluja striimin suhteen.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "twitch",
-                   "steam deck"
-            ],
-            "date_published": "2023-03-20T14:35:32+02:00",
-            "date_modified": "2023-03-20T14:35:32+02:00"
         }
     ]
 }
