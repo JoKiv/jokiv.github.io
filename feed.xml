@@ -3,7 +3,7 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-04-21T20:00:02+03:00</updated>
+    <updated>2023-04-23T04:41:32+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -19,15 +19,15 @@
             <category term="youtube"/>
             <category term="twitch"/>
 
-        <updated>2023-04-21T20:00:02+03:00</updated>
+        <updated>2023-04-23T04:41:32+03:00</updated>
             <summary>
                 <![CDATA[
-                    Tässä tullut kateltua tilastoja ja YouTube allkaa ottamaan Twitchiä kiinni katsojamäärissä. Joillakin videoilla myös menee sen ohi. Tosin palvelut ovat itsessään erilaisia. Toki&hellip;
+                    Tässä tullut kateltua tilastoja ja YouTube alkaa ottamaan Twitchiä kiinni katsojamäärissä. Joillakin videoilla myös menee sen ohi. Tosin palvelut ovat itsessään erilaisia. Toki&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Tässä tullut kateltua tilastoja ja YouTube allkaa ottamaan Twitchiä kiinni katsojamäärissä. Joillakin videoilla myös menee sen ohi. Tosin palvelut ovat itsessään erilaisia. </p>
+                <p>Tässä tullut kateltua tilastoja ja YouTube alkaa ottamaan Twitchiä kiinni katsojamäärissä. Joillakin videoilla myös menee sen ohi. Tosin palvelut ovat itsessään erilaisia. </p>
 <p>Toki YouTube videolla kommentoin aikaisemmmin jatkosuunnitelmista, mutta sen jälkeen katsojamäärät ovat muuttuneet, joten pitää nyt seurailla (kuten videossakin mainitsin) ainakin kesän yli.</p>
             ]]>
         </content>
