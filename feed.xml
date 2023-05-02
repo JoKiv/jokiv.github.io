@@ -3,12 +3,33 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-04-23T04:41:32+03:00</updated>
+    <updated>2023-05-02T15:37:18+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>600!</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/600/"/>
+        <id>https://jokiv.fi/600/</id>
+            <category term="youtube"/>
+
+        <updated>2023-05-02T15:37:18+03:00</updated>
+            <summary>
+                <![CDATA[
+                    YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 🤔 😅 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 🤔 😅 </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>YouTube vs Twitch</title>
         <author>
@@ -213,28 +234,6 @@
         <content type="html">
             <![CDATA[
                 <p>Viimeaikoina on tullut juteltua jonkuverran <a href="https://meet.jit.si/" target="_blank" rel="noopener noreferrer">jitsin</a> kautta. Selaimella ja kännykällä on ihan hyvä ollu juteltua välistä vähän tuntemattomienki kanssa. Toki toiselle pitää linkki antaa jotain kautta, mutta satunnaiseen "tuu meidän kans juttelemaan" toi on toiminu ihan ok.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Läppärin virtalähde kaipaa vaihtoa</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/laeppaerin-virtalaehde-kaipaa-vaihtoa/"/>
-        <id>https://jokiv.fi/laeppaerin-virtalaehde-kaipaa-vaihtoa/</id>
-            <category term="laitteet"/>
-
-        <updated>2023-03-27T06:18:17+03:00</updated>
-            <summary>
-                <![CDATA[
-                    Tuli huomattua, että läppärin virtalähteen liittimen pää oli hajonnut. Meni hetki kaivaa katkennut pää ulos läppärin liittimestä. Kunnes löydän uuden, netin sisällöntuotto voi&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Tuli huomattua, että läppärin virtalähteen liittimen pää oli hajonnut. Meni hetki kaivaa katkennut pää ulos läppärin liittimestä. Kunnes löydän uuden, netin sisällöntuotto voi olla enemmän katkonaista. Johto on kiinteästi kiinni virtalähteessä, joten koko virtalähde menee uusiksi. Mahdollisesti ensikuussa voin hommata jotain, jolla korvata tämän.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://jokiv.fi/media/posts/43/laturi.jpg" alt="" width="800" height="457" sizes="(max-width: 48em) 100vw, 768px" srcset="https://jokiv.fi/media/posts/43/responsive/laturi-xs.jpg 300w ,https://jokiv.fi/media/posts/43/responsive/laturi-sm.jpg 480w ,https://jokiv.fi/media/posts/43/responsive/laturi-md.jpg 768w ,https://jokiv.fi/media/posts/43/responsive/laturi-lg.jpg 1024w ,https://jokiv.fi/media/posts/43/responsive/laturi-xl.jpg 1360w ,https://jokiv.fi/media/posts/43/responsive/laturi-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
