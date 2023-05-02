@@ -3,7 +3,7 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-05-02T15:37:18+03:00</updated>
+    <updated>2023-05-02T16:06:51+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -17,16 +17,18 @@
         <link href="https://jokiv.fi/600/"/>
         <id>https://jokiv.fi/600/</id>
             <category term="youtube"/>
+            <category term="twitch"/>
 
-        <updated>2023-05-02T15:37:18+03:00</updated>
+        <updated>2023-05-02T16:06:51+03:00</updated>
             <summary>
                 <![CDATA[
-                    YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 🤔 😅 
+                    YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 😅 Twitch tuntuu menevän toiseen suuntaan.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 🤔 😅 </p>
+                <p>YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 😅 </p>
+<p>Twitch tuntuu menevän toiseen suuntaan. Katsoa, saako sitä elvytettyä, sitte ku on paremmin striimaamisen mahdollisuuksia, vai miten asiassa käy. 🤔</p>
             ]]>
         </content>
     </entry>

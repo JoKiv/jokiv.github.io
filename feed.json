@@ -13,16 +13,17 @@
             "id": "https://jokiv.fi/600/",
             "url": "https://jokiv.fi/600/",
             "title": "600!",
-            "summary": "YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 🤔 😅 ",
-            "content_html": "<p>YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 🤔 😅 </p>",
+            "summary": "YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 😅 Twitch tuntuu menevän toiseen suuntaan.",
+            "content_html": "<p>YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 😅 </p>\n<p>Twitch tuntuu menevän toiseen suuntaan. Katsoa, saako sitä elvytettyä, sitte ku on paremmin striimaamisen mahdollisuuksia, vai miten asiassa käy. 🤔</p>",
             "author": {
                 "name": "JoKiv"
             },
             "tags": [
-                   "youtube"
+                   "youtube",
+                   "twitch"
             ],
             "date_published": "2023-05-02T15:37:06+03:00",
-            "date_modified": "2023-05-02T15:37:18+03:00"
+            "date_modified": "2023-05-02T16:06:51+03:00"
         },
         {
             "id": "https://jokiv.fi/youtube-vs-twitch/",
