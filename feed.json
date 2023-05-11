@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/alpine-linux-testausta/",
+            "url": "https://jokiv.fi/alpine-linux-testausta/",
+            "title": "Alpine linux testausta",
+            "summary": "Tuli testailtua virtuaalikoneessa alpine linuxia. Hetken lueskellessa sivulta löytyneitä asioita, huomasin, että siellähän olis vanhemmillekki koneille nykyaikainen versio. No ei muuta kuin testaamaan.",
+            "content_html": "<p>Tuli testailtua virtuaalikoneessa <a href=\"https://www.alpinelinux.org/\" title=\"link to alpinelinux.org\" target=\"_blank\" rel=\"noopener noreferrer\">alpine linuxia</a>. Hetken lueskellessa sivulta löytyneitä asioita, huomasin, että siellähän olis vanhemmillekki koneille nykyaikainen versio. No ei muuta kuin testaamaan. Alpine 3.18.0-x86 lataukseen. Valitsin nyt standard, mutta saatan myös katsella, mitä tuo extended sisältää. </p>\n<blockquote>\n<p>Standard: \"Alpine as it was intended. Just enough to get you started. Network connection is required.\"</p>\n<p>Extended: \"Most common used packages included. Suitable for routers and servers. Runs from RAM. Includes AMD and Intel microcode updates.\"</p>\n<p>- <a href=\"https://www.alpinelinux.org/downloads\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.alpinelinux.org/downloads</a></p>\n</blockquote>\n<p>Hain varastosta tuollaisen vanhan 2009 aikaisen Intel Atom N270 @ 1.60GHz prosessorilla varustetun miniläppärin. Eli paljon alle sen, mitä kukaan suosittelee mihinkään. Alkuperäinen järjestelmä oli Windows XP.</p>\n<p>Siitä ei näytä pajoa olevan haittaa jos kone ei tue ku paria gigaa ram muistia,  kirjoitushetkellä muistinkäyttö oli noin 30 megaa. Prosessorin käyttöaste oil noin 2%, joka meni itse htop ohjelman pyörittämiseen. Ohjelma, joka kertoi paljonko muistia ja prosessoritehoa on käytössä.</p>\n<p>Toki tuossa ei lähes mitään ole käytössä ja tuskin liikoja pyöriteltäisiin, mutta kyllä tuo johonkin kevyeen käyttöön voisi olla toimiva. Toki jos olisi jotain, joka vie aikaa muutenkin, mutta ei tarvitse mahdottomia konetehoa. </p>\n<p>Toki ymmärrän, ettei tälläiseen asiaan kannata erikseen hommata vanhaa läppäriä, tuolahan on raspberry pi versiokin. Kuitenkin jotain, mitä testailla.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "linux",
+                   "laitteet",
+                   "alpine"
+            ],
+            "date_published": "2023-05-11T13:49:45+03:00",
+            "date_modified": "2023-05-11T13:49:45+03:00"
+        },
+        {
             "id": "https://jokiv.fi/600/",
             "url": "https://jokiv.fi/600/",
             "title": "600!",
@@ -153,21 +170,6 @@
             ],
             "date_published": "2023-03-31T12:03:01+03:00",
             "date_modified": "2023-03-31T12:03:01+03:00"
-        },
-        {
-            "id": "https://jokiv.fi/juttelua-netissae/",
-            "url": "https://jokiv.fi/juttelua-netissae/",
-            "title": "Juttelua netissä",
-            "summary": "Viimeaikoina on tullut juteltua jonkuverran jitsin kautta. Selaimella ja kännykällä on ihan hyvä ollu juteltua välistä vähän tuntemattomienki kanssa. Toki toiselle pitää linkki&hellip;",
-            "content_html": "<p>Viimeaikoina on tullut juteltua jonkuverran <a href=\"https://meet.jit.si/\" target=\"_blank\" rel=\"noopener noreferrer\">jitsin</a> kautta. Selaimella ja kännykällä on ihan hyvä ollu juteltua välistä vähän tuntemattomienki kanssa. Toki toiselle pitää linkki antaa jotain kautta, mutta satunnaiseen \"tuu meidän kans juttelemaan\" toi on toiminu ihan ok.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "chat"
-            ],
-            "date_published": "2023-03-21T21:29:15+02:00",
-            "date_modified": "2023-03-21T21:29:15+02:00"
         }
     ]
 }
