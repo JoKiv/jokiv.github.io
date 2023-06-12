@@ -3,12 +3,39 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-05-11T13:55:19+03:00</updated>
+    <updated>2023-06-12T16:30:00+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Opettamisesta</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/opettamisesta/"/>
+        <id>https://jokiv.fi/opettamisesta/</id>
+            <category term="opettaminen"/>
+            <category term="mene töihin"/>
+            <category term="laitteet"/>
+            <category term="ko-fi"/>
+
+        <updated>2023-06-12T16:30:00+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Ajattelin muutamien katsojien kommentteja siitä, että voisin opettaa asioita ja he olisivat jopa valmiita tukemaan sitä taloudellisesti. Tällä hetkellä kun ajattelee, niin minulla&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ajattelin muutamien katsojien kommentteja siitä, että voisin opettaa asioita ja he olisivat jopa valmiita tukemaan sitä taloudellisesti. Tällä hetkellä kun ajattelee, niin minulla on kyllä <a href="https://ko-fi.com/jokiv" target="_blank" rel="noopener noreferrer">ko-fi</a>.</p>
+<p>Ihmiset, jotka ovat tukeneet minua siellä, ovat mahdolistaneet minua opastamaan, auttamaan, etsimään tietoa verkosta ja jopa koodaamaan esimerkkikoodin pätkiä heille. </p>
+<p>En pysty omistautumaan pelkästään opettamiseen, varsinkaan, kun mitään aiheita ei ole pyydetty. Eikä tällä maksa kaikkia maksuja. <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">En aio pitää luokkahuonetta.</span></p>
+<p>Sitten kun mahdolisuudet ovat paremmat, aion laajentaa tätä asiaa. Jos tämä tuottaisi enemmän, voisin ihan tätä varten panostaa enemmän sisätöä. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Alpine linux testausta</title>
         <author>
@@ -220,33 +247,6 @@
         <content type="html">
             <![CDATA[
                 <p>Jouduin korjaamaan useamman kohdan blogistani ja se saattoi näköjän feedin lukijoilla aiheuttaa useamman vanhan julkaisun näkymisen uudelleen, pahoittelen tapahtunutta.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Peli, YouTube ja Twitch</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/peli-youtube-ja-twitch/"/>
-        <id>https://jokiv.fi/peli-youtube-ja-twitch/</id>
-            <category term="youtube"/>
-            <category term="twitch"/>
-            <category term="pelit"/>
-            <category term="laitteet"/>
-
-        <updated>2023-03-31T12:03:01+03:00</updated>
-            <summary>
-                <![CDATA[
-                    Mainitsin aikaisemmin striimissä, että jos olisin twitchissä partneri, ennen kuin peli on valmis, voisin julkaista pelin ilmaiseksi. Tämä kun olisi myös katsojille se&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Mainitsin aikaisemmin striimissä, että jos olisin twitchissä partneri, ennen kuin peli on valmis, voisin julkaista pelin ilmaiseksi. Tämä kun olisi myös katsojille se ilmainen vaihtoehto.</p>
-<p>Valitettavasti se Twitchin 75 katsojaa keskiarvolta on hieman korkea, joten myös striimissä mainitsin, että voisin harkita ilmaisjulkaisua, jos YouTubessa vaatimukset riittäisivät siellä vastaavaan ohjelmaan. </p>
-<p>Tässä sitten kävi striimin jäkeen mielessä, että jos twitch puolen asia tapahtuisi 2023 aikana, voisin harkita lähdekoodin julkaisua myöhempänä ajankohtana.</p>
-<p>Peli tekeminen on hieman ollut pysähdyksissä, kun <a href="https://jokiv.fi/kun-laitteet-hajoaa/" target="_blank" rel="noopener noreferrer">asioita</a> <a href="https://jokiv.fi/laeppaerin-virtalaehde-kaipaa-vaihtoa/" target="_blank" rel="noopener noreferrer">tapahtuu</a>, eikä se nosta innostusta, kun projektia tulisi säätää heikommalla laitteistolla. Kehitys on hidasta, mutta ottaa vauhtia, kun on paremmat laitteet käytössä.</p>
             ]]>
         </content>
     </entry>
