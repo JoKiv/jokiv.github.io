@@ -3,14 +3,14 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-06-27T14:59:00+03:00</updated>
+    <updated>2023-07-02T01:09:45+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
     <entry>
-        <title>YouTube, muutoksia tuossa?</title>
+        <title>YouTube, muutoksia tulossa?</title>
         <author>
             <name>JoKiv</name>
         </author>
@@ -18,7 +18,7 @@
         <id>https://jokiv.fi/youtube-muutoksia-tuossa/</id>
             <category term="youtube"/>
 
-        <updated>2023-06-27T14:59:00+03:00</updated>
+        <updated>2023-07-02T01:09:45+03:00</updated>
             <summary>
                 <![CDATA[
                     <p>Moni video vihjaa, että youtube keventäisi vaatimuksia tulevaisuudessa kumppanuuden suhteen. Vielä itsellä ei näy mitään muutoksia, että varmaan kokeilevat muualla ensin.</p>
@@ -30,6 +30,7 @@
                 <p>Moni video vihjaa, että youtube keventäisi vaatimuksia tulevaisuudessa kumppanuuden suhteen. Vielä itsellä ei näy mitään muutoksia, että varmaan kokeilevat muualla ensin.</p>
 
 <p>Vaikka osa vaatimuksista sen jälkeen täyttyisi, katsontamäärät jäävät silti vielä niin vähäiselle tasolle, että asiaan muutosta ei vielä tule. Todennäköisesti myöhemmin.</p>
+<p>Päivitys: kirjoitusvirheen korjaaminen.</p>
             ]]>
         </content>
     </entry>
