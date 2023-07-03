@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/potkua-striimeihin/",
+            "url": "https://jokiv.fi/potkua-striimeihin/",
+            "title": "Potkua striimeihin",
+            "summary": "Tuli ihan satunnaisesti testattua kick palveluun striimaamista, ihan hetken mielijohteesta. \"öinen salainen striimi\", kuten eräs katsoja huumorilla sanoi. Hieman yli tunti Out Runia.",
+            "content_html": "<p>Tuli ihan satunnaisesti testattua kick palveluun striimaamista, ihan hetken mielijohteesta. \"öinen salainen striimi\", kuten eräs katsoja huumorilla sanoi.</p>\n<p>Hieman yli tunti <a href=\"https://en.wikipedia.org/wiki/Out_Run\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Out Runia</a>. Vaikka en mihinkään ollut ilmoitellut, kävi siellä pari katsojaa. Jäi selanen mielikuva siitä, että sinne saatan jatkaa aina välistä jotain pientä.</p>\n<p>Ainoa outous tuntui olevan, ettei siellä ole kaikkien vähän vanhempien pelien omia kategorioita, mutta onneksi voi laittaa \"Retro games\".</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "retro",
+                   "pelit",
+                   "kick"
+            ],
+            "date_published": "2023-07-03T12:57:27+03:00",
+            "date_modified": "2023-07-03T12:57:27+03:00"
+        },
+        {
             "id": "https://jokiv.fi/youtube-muutoksia-tuossa/",
             "url": "https://jokiv.fi/youtube-muutoksia-tuossa/",
             "title": "YouTube, muutoksia tulossa?",
@@ -152,24 +169,6 @@
             ],
             "date_published": "2023-04-05T01:07:29+03:00",
             "date_modified": "2023-04-05T01:07:29+03:00"
-        },
-        {
-            "id": "https://jokiv.fi/pieniae-testauksia-flutterilla/",
-            "url": "https://jokiv.fi/pieniae-testauksia-flutterilla/",
-            "title": "Pieniä testejä flutterilla",
-            "summary": "Tuli muutama pieni ohjelma tehtyä flutterilla. Ihan näppärän oloinen. En nyt ensisijaisesti välttämättä ole vaihtamassa, mutta joissakin ohjelmissa (etenkin kännykälle) voisi olla ihan&hellip;",
-            "content_html": "<p>Tuli muutama pieni ohjelma tehtyä <a href=\"https://flutter.dev/\" title=\"flutter.dev\" target=\"_blank\" rel=\"noopener noreferrer\">flutterilla</a>. Ihan näppärän oloinen. En nyt ensisijaisesti välttämättä ole vaihtamassa, mutta joissakin ohjelmissa (etenkin kännykälle) voisi olla ihan mukava.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "web",
-                   "linux",
-                   "flutter",
-                   "android"
-            ],
-            "date_published": "2023-04-04T22:22:04+03:00",
-            "date_modified": "2023-04-05T01:01:33+03:00"
         }
     ]
 }
