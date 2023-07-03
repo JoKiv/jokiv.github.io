@@ -3,7 +3,7 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-07-03T12:57:27+03:00</updated>
+    <updated>2023-07-03T13:06:38+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -20,15 +20,17 @@
             <category term="pelit"/>
             <category term="kick"/>
 
-        <updated>2023-07-03T12:57:27+03:00</updated>
+        <updated>2023-07-03T13:06:38+03:00</updated>
             <summary>
                 <![CDATA[
-                    Tuli ihan satunnaisesti testattua kick palveluun striimaamista, ihan hetken mielijohteesta. "öinen salainen striimi", kuten eräs katsoja huumorilla sanoi. Hieman yli tunti Out Runia.
+                    <p>Tuli ihan satunnaisesti testattua kick palveluun striimaamista, ihan hetken mielijohteesta. "öinen salainen striimi", kuten eräs katsoja huumorilla sanoi.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Tuli ihan satunnaisesti testattua kick palveluun striimaamista, ihan hetken mielijohteesta. "öinen salainen striimi", kuten eräs katsoja huumorilla sanoi.</p>
+
 <p>Hieman yli tunti <a href="https://en.wikipedia.org/wiki/Out_Run" target="_blank" rel="nofollow noopener noreferrer">Out Runia</a>. Vaikka en mihinkään ollut ilmoitellut, kävi siellä pari katsojaa. Jäi selanen mielikuva siitä, että sinne saatan jatkaa aina välistä jotain pientä.</p>
 <p>Ainoa outous tuntui olevan, ettei siellä ole kaikkien vähän vanhempien pelien omia kategorioita, mutta onneksi voi laittaa "Retro games".</p>
             ]]>
@@ -71,15 +73,17 @@
             <category term="laitteet"/>
             <category term="ko-fi"/>
 
-        <updated>2023-06-27T14:54:16+03:00</updated>
+        <updated>2023-07-03T13:02:49+03:00</updated>
             <summary>
                 <![CDATA[
-                    Ajattelin muutamien katsojien kommentteja siitä, että voisin opettaa asioita ja he olisivat jopa valmiita tukemaan sitä taloudellisesti. Tällä hetkellä kun ajattelee, niin minulla&hellip;
+                    <p>Ajattelin muutamien katsojien kommentteja siitä, että voisin opettaa asioita ja he olisivat jopa valmiita tukemaan sitä taloudellisesti. Tällä hetkellä kun ajattelee, niin minulla on kyllä <a href="https://ko-fi.com/jokiv" target="_blank" rel="noopener noreferrer">ko-fi</a>.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Ajattelin muutamien katsojien kommentteja siitä, että voisin opettaa asioita ja he olisivat jopa valmiita tukemaan sitä taloudellisesti. Tällä hetkellä kun ajattelee, niin minulla on kyllä <a href="https://ko-fi.com/jokiv" target="_blank" rel="noopener noreferrer">ko-fi</a>.</p>
+
 <p>Ihmiset, jotka ovat tukeneet minua siellä, ovat mahdolistaneet minua auttamaan, opastamaan, etsimään tietoa verkosta ja jopa koodaamaan esimerkkikoodin pätkiä heille. </p>
 <p>En pysty omistautumaan pelkästään opettamiseen, varsinkaan, kun mitään aiheita ei ole pyydetty. Eikä tällä maksa kaikkia maksuja. <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">En aio pitää luokkahuonetta.</span></p>
 <p>Sitten kun mahdolisuudet ovat paremmat, aion laajentaa tätä asiaa. Jos tämä tuottaisi enemmän, voisin ihan tätä varten panostaa enemmän sisätöä.</p>
@@ -97,15 +101,17 @@
             <category term="laitteet"/>
             <category term="alpine"/>
 
-        <updated>2023-05-11T13:55:19+03:00</updated>
+        <updated>2023-07-03T13:03:00+03:00</updated>
             <summary>
                 <![CDATA[
-                    Tuli testailtua virtuaalikoneessa alpine linuxia. Hetken lueskellessa sivulta löytyneitä asioita, huomasin, että siellähän olis vanhemmillekki koneille nykyaikainen versio. No ei muuta kuin testaamaan.
+                    <p>Tuli testailtua virtuaalikoneessa <a href="https://www.alpinelinux.org/" title="link to alpinelinux.org" target="_blank" rel="noopener noreferrer">alpine linuxia</a>. Hetken lueskellessa sivulta löytyneitä asioita, huomasin, että siellähän olis vanhemmillekki koneille nykyaikainen versio. No ei muuta kuin testaamaan. Alpine 3.18.0-x86 lataukseen. Valitsin nyt standard, mutta saatan myös katsella, mitä tuo extended sisältää. </p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Tuli testailtua virtuaalikoneessa <a href="https://www.alpinelinux.org/" title="link to alpinelinux.org" target="_blank" rel="noopener noreferrer">alpine linuxia</a>. Hetken lueskellessa sivulta löytyneitä asioita, huomasin, että siellähän olis vanhemmillekki koneille nykyaikainen versio. No ei muuta kuin testaamaan. Alpine 3.18.0-x86 lataukseen. Valitsin nyt standard, mutta saatan myös katsella, mitä tuo extended sisältää. </p>
+
 <blockquote>
 <p>Standard: "Alpine as it was intended. Just enough to get you started. Network connection is required."</p>
 <p>Extended: "Most common used packages included. Suitable for routers and servers. Runs from RAM. Includes AMD and Intel microcode updates."</p>
@@ -128,15 +134,17 @@
             <category term="youtube"/>
             <category term="twitch"/>
 
-        <updated>2023-05-02T16:06:51+03:00</updated>
+        <updated>2023-07-03T13:03:13+03:00</updated>
             <summary>
                 <![CDATA[
-                    YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 😅 Twitch tuntuu menevän toiseen suuntaan.
+                    <p>YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 😅 </p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 😅 </p>
+
 <p>Twitch tuntuu menevän toiseen suuntaan. Katsoa, saako sitä elvytettyä, sitte ku on paremmin striimaamisen mahdollisuuksia, vai miten asiassa käy. 🤔</p>
             ]]>
         </content>
@@ -151,15 +159,17 @@
             <category term="youtube"/>
             <category term="twitch"/>
 
-        <updated>2023-04-23T04:41:32+03:00</updated>
+        <updated>2023-07-03T13:03:27+03:00</updated>
             <summary>
                 <![CDATA[
-                    Tässä tullut kateltua tilastoja ja YouTube alkaa ottamaan Twitchiä kiinni katsojamäärissä. Joillakin videoilla myös menee sen ohi. Tosin palvelut ovat itsessään erilaisia. Toki&hellip;
+                    <p>Tässä tullut kateltua tilastoja ja YouTube alkaa ottamaan Twitchiä kiinni katsojamäärissä. Joillakin videoilla myös menee sen ohi. Tosin palvelut ovat itsessään erilaisia. </p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Tässä tullut kateltua tilastoja ja YouTube alkaa ottamaan Twitchiä kiinni katsojamäärissä. Joillakin videoilla myös menee sen ohi. Tosin palvelut ovat itsessään erilaisia. </p>
+
 <p>Toki YouTube videolla kommentoin aikaisemmmin jatkosuunnitelmista, mutta sen jälkeen katsojamäärät ovat muuttuneet, joten pitää nyt seurailla (kuten videossakin mainitsin) ainakin kesän yli.</p>
             ]]>
         </content>
@@ -173,15 +183,17 @@
         <id>https://jokiv.fi/vitsistae-ideaksi/</id>
             <category term="kirja"/>
 
-        <updated>2023-04-16T13:59:52+03:00</updated>
+        <updated>2023-07-03T13:03:34+03:00</updated>
             <summary>
                 <![CDATA[
-                    Osittain vihjasin tai oikeammin vitsailin, jos tekisin kirjan siitä, mikä minun elämä on ollu tähän mennessä. Vihjasin The history of JoKiv voisi lähteä&hellip;
+                    <p>Osittain vihjasin tai oikeammin vitsailin, jos tekisin kirjan siitä, mikä minun elämä on ollu tähän mennessä. Vihjasin <em>The history of JoKiv</em> voisi lähteä työn alle jossain vaiheessa, sen jälkeen kun olisin partneri twitchissä tai youtubessa. Mainitsin siitä molemmissa, mutta en muista kumpaan sen tarkemmin sitä vihjailin.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Osittain vihjasin tai oikeammin vitsailin, jos tekisin kirjan siitä, mikä minun elämä on ollu tähän mennessä. Vihjasin <em>The history of JoKiv</em> voisi lähteä työn alle jossain vaiheessa, sen jälkeen kun olisin partneri twitchissä tai youtubessa. Mainitsin siitä molemmissa, mutta en muista kumpaan sen tarkemmin sitä vihjailin.</p>
+
 <p>Hidasta hommaa joka tapauksessa, mutta puoli sivua olen sitä jo naputellu. En silleen suunnitellu ole mitään, mutta katsoa jos tuon joskus saa sellaiseen kuntoon, että se olis julkaisuvalmis. Meneehän siihen partneruuteenki vielä aikaa.</p>
 <p>Tällä hetkellä alustavaa tietoa olen kirjoitellu, mistä oikeastaan nimimerkki tulee ja mitä nimimerkkiä käytin tätä ennen. Myös sen vanhemman nimimerkin lyhyt historia on mukana, vaikka se onkin vain muutama lause.</p>
 <p>Katsotaan tuleeko tästä mitään vai keksitäänkö jotain uutta. Tälle tekstille voisi olla vaihtoehtoinenkin käyttötarkoitus.. Siitä sitten enemmän, jos saan asiat ojennukseen ja uuden koneen tuon hajonneen tilalle.</p>
@@ -197,7 +209,7 @@
         <id>https://jokiv.fi/vielae-kerran-flutterista/</id>
             <category term="flutter"/>
 
-        <updated>2023-04-09T02:10:38+03:00</updated>
+        <updated>2023-07-03T13:03:43+03:00</updated>
             <summary>
                 <![CDATA[
                     Tuli laskettua, että flutter vie aika runsaasti levytilaa, jos siinä on mukana android ja muut tuet. Se kun haluaa asennetuksi android-studion. Täytyy katsella&hellip;
@@ -219,15 +231,17 @@
             <category term="patreon"/>
             <category term="ko-fi"/>
 
-        <updated>2023-04-06T22:02:02+03:00</updated>
+        <updated>2023-07-03T13:04:29+03:00</updated>
             <summary>
                 <![CDATA[
-                    Sammutin patreonin luojasivut. Tämä tarkoittaa, että en ota vastaan lahjoituksia sen kautta. Kukaan ei tehnyt lahjoituksia sen kautta, ja tilastojen mukaan kukaan ei&hellip;
+                    <p>Sammutin patreonin luojasivut. Tämä tarkoittaa, että en ota vastaan lahjoituksia sen kautta. Kukaan ei tehnyt lahjoituksia sen kautta, ja tilastojen mukaan kukaan ei edes lukenut, jos kirjoitin sinne. </p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Sammutin patreonin luojasivut. Tämä tarkoittaa, että en ota vastaan lahjoituksia sen kautta. Kukaan ei tehnyt lahjoituksia sen kautta, ja tilastojen mukaan kukaan ei edes lukenut, jos kirjoitin sinne. </p>
+
 <p>Ko-fi on ollut viime kuukausina aktiivisempi kuin patreon on ollut yli kuuteen(?) vuoteen.</p>
             ]]>
         </content>
@@ -242,15 +256,17 @@
             <category term="web"/>
             <category term="radio"/>
 
-        <updated>2023-04-05T01:07:29+03:00</updated>
+        <updated>2023-07-03T13:04:23+03:00</updated>
             <summary>
                 <![CDATA[
-                    Striimissä kommentoin, että jos pitäisin internet radiota, niin pääasiassa ongelmaksi tulisi palvelinkustannukset. Asia on ollut aikaisemminki esillä. Nykyään tosin vähän enemmän harkinnassa. Katsellaan&hellip;
+                    <p>Striimissä kommentoin, että jos pitäisin internet radiota, niin pääasiassa ongelmaksi tulisi palvelinkustannukset. Asia on ollut aikaisemminki esillä.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Striimissä kommentoin, että jos pitäisin internet radiota, niin pääasiassa ongelmaksi tulisi palvelinkustannukset. Asia on ollut aikaisemminki esillä.</p>
+
 <p>Nykyään tosin vähän enemmän harkinnassa. Katsellaan sitten kun on varallisuutta. Moni kertoo kuuntelevansa kommenttejani mielellään, radio voisi olla kevyempi, jos muutoin ei aiheet innosta. </p>
             ]]>
         </content>

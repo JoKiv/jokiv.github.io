@@ -13,8 +13,8 @@
             "id": "https://jokiv.fi/potkua-striimeihin/",
             "url": "https://jokiv.fi/potkua-striimeihin/",
             "title": "Potkua striimeihin",
-            "summary": "Tuli ihan satunnaisesti testattua kick palveluun striimaamista, ihan hetken mielijohteesta. \"öinen salainen striimi\", kuten eräs katsoja huumorilla sanoi. Hieman yli tunti Out Runia.",
-            "content_html": "<p>Tuli ihan satunnaisesti testattua kick palveluun striimaamista, ihan hetken mielijohteesta. \"öinen salainen striimi\", kuten eräs katsoja huumorilla sanoi.</p>\n<p>Hieman yli tunti <a href=\"https://en.wikipedia.org/wiki/Out_Run\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Out Runia</a>. Vaikka en mihinkään ollut ilmoitellut, kävi siellä pari katsojaa. Jäi selanen mielikuva siitä, että sinne saatan jatkaa aina välistä jotain pientä.</p>\n<p>Ainoa outous tuntui olevan, ettei siellä ole kaikkien vähän vanhempien pelien omia kategorioita, mutta onneksi voi laittaa \"Retro games\".</p>",
+            "summary": "<p>Tuli ihan satunnaisesti testattua kick palveluun striimaamista, ihan hetken mielijohteesta. \"öinen salainen striimi\", kuten eräs katsoja huumorilla sanoi.</p>\n",
+            "content_html": "<p>Tuli ihan satunnaisesti testattua kick palveluun striimaamista, ihan hetken mielijohteesta. \"öinen salainen striimi\", kuten eräs katsoja huumorilla sanoi.</p>\n\n<p>Hieman yli tunti <a href=\"https://en.wikipedia.org/wiki/Out_Run\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Out Runia</a>. Vaikka en mihinkään ollut ilmoitellut, kävi siellä pari katsojaa. Jäi selanen mielikuva siitä, että sinne saatan jatkaa aina välistä jotain pientä.</p>\n<p>Ainoa outous tuntui olevan, ettei siellä ole kaikkien vähän vanhempien pelien omia kategorioita, mutta onneksi voi laittaa \"Retro games\".</p>",
             "author": {
                 "name": "JoKiv"
             },
@@ -24,7 +24,7 @@
                    "kick"
             ],
             "date_published": "2023-07-03T12:57:27+03:00",
-            "date_modified": "2023-07-03T12:57:27+03:00"
+            "date_modified": "2023-07-03T13:06:38+03:00"
         },
         {
             "id": "https://jokiv.fi/youtube-muutoksia-tuossa/",
@@ -45,8 +45,8 @@
             "id": "https://jokiv.fi/opettamisesta/",
             "url": "https://jokiv.fi/opettamisesta/",
             "title": "Opettamisesta",
-            "summary": "Ajattelin muutamien katsojien kommentteja siitä, että voisin opettaa asioita ja he olisivat jopa valmiita tukemaan sitä taloudellisesti. Tällä hetkellä kun ajattelee, niin minulla&hellip;",
-            "content_html": "<p>Ajattelin muutamien katsojien kommentteja siitä, että voisin opettaa asioita ja he olisivat jopa valmiita tukemaan sitä taloudellisesti. Tällä hetkellä kun ajattelee, niin minulla on kyllä <a href=\"https://ko-fi.com/jokiv\" target=\"_blank\" rel=\"noopener noreferrer\">ko-fi</a>.</p>\n<p>Ihmiset, jotka ovat tukeneet minua siellä, ovat mahdolistaneet minua auttamaan, opastamaan, etsimään tietoa verkosta ja jopa koodaamaan esimerkkikoodin pätkiä heille. </p>\n<p>En pysty omistautumaan pelkästään opettamiseen, varsinkaan, kun mitään aiheita ei ole pyydetty. Eikä tällä maksa kaikkia maksuja. <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">En aio pitää luokkahuonetta.</span></p>\n<p>Sitten kun mahdolisuudet ovat paremmat, aion laajentaa tätä asiaa. Jos tämä tuottaisi enemmän, voisin ihan tätä varten panostaa enemmän sisätöä.</p>",
+            "summary": "<p>Ajattelin muutamien katsojien kommentteja siitä, että voisin opettaa asioita ja he olisivat jopa valmiita tukemaan sitä taloudellisesti. Tällä hetkellä kun ajattelee, niin minulla on kyllä <a href=\"https://ko-fi.com/jokiv\" target=\"_blank\" rel=\"noopener noreferrer\">ko-fi</a>.</p>\n",
+            "content_html": "<p>Ajattelin muutamien katsojien kommentteja siitä, että voisin opettaa asioita ja he olisivat jopa valmiita tukemaan sitä taloudellisesti. Tällä hetkellä kun ajattelee, niin minulla on kyllä <a href=\"https://ko-fi.com/jokiv\" target=\"_blank\" rel=\"noopener noreferrer\">ko-fi</a>.</p>\n\n<p>Ihmiset, jotka ovat tukeneet minua siellä, ovat mahdolistaneet minua auttamaan, opastamaan, etsimään tietoa verkosta ja jopa koodaamaan esimerkkikoodin pätkiä heille. </p>\n<p>En pysty omistautumaan pelkästään opettamiseen, varsinkaan, kun mitään aiheita ei ole pyydetty. Eikä tällä maksa kaikkia maksuja. <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">En aio pitää luokkahuonetta.</span></p>\n<p>Sitten kun mahdolisuudet ovat paremmat, aion laajentaa tätä asiaa. Jos tämä tuottaisi enemmän, voisin ihan tätä varten panostaa enemmän sisätöä.</p>",
             "author": {
                 "name": "JoKiv"
             },
@@ -57,14 +57,14 @@
                    "ko-fi"
             ],
             "date_published": "2023-06-12T16:30:00+03:00",
-            "date_modified": "2023-06-27T14:54:16+03:00"
+            "date_modified": "2023-07-03T13:02:49+03:00"
         },
         {
             "id": "https://jokiv.fi/alpine-linux-testausta/",
             "url": "https://jokiv.fi/alpine-linux-testausta/",
             "title": "Alpine linux testausta",
-            "summary": "Tuli testailtua virtuaalikoneessa alpine linuxia. Hetken lueskellessa sivulta löytyneitä asioita, huomasin, että siellähän olis vanhemmillekki koneille nykyaikainen versio. No ei muuta kuin testaamaan.",
-            "content_html": "<p>Tuli testailtua virtuaalikoneessa <a href=\"https://www.alpinelinux.org/\" title=\"link to alpinelinux.org\" target=\"_blank\" rel=\"noopener noreferrer\">alpine linuxia</a>. Hetken lueskellessa sivulta löytyneitä asioita, huomasin, että siellähän olis vanhemmillekki koneille nykyaikainen versio. No ei muuta kuin testaamaan. Alpine 3.18.0-x86 lataukseen. Valitsin nyt standard, mutta saatan myös katsella, mitä tuo extended sisältää. </p>\n<blockquote>\n<p>Standard: \"Alpine as it was intended. Just enough to get you started. Network connection is required.\"</p>\n<p>Extended: \"Most common used packages included. Suitable for routers and servers. Runs from RAM. Includes AMD and Intel microcode updates.\"</p>\n<p>- <a href=\"https://www.alpinelinux.org/downloads\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.alpinelinux.org/downloads</a></p>\n</blockquote>\n<p>Hain varastosta tuollaisen vanhan 2009 aikaisen Intel Atom N270 @ 1.60GHz prosessorilla varustetun miniläppärin. Eli paljon alle sen, mitä kukaan suosittelee mihinkään. Alkuperäinen järjestelmä oli Windows XP.</p>\n<p>Siitä ei näytä pajoa olevan haittaa, jos kone ei tue ku paria gigaa ram muistia,  kirjoitushetkellä muistinkäyttö oli noin 30 megaa. Prosessorin käyttöaste oil noin 2%, joka meni itse htop ohjelman pyörittämiseen. Itse ohjelma, joka kertoi paljonko muistia ja prosessoritehoa on käytössä.</p>\n<p>Toki nyt ei lähes mitään ole käytössä ja tuskin liikoja pyöriteltäisiin, mutta kyllä tuo johonkin kevyeen käyttöön voisi olla toimiva. Mahdolisesti jos olisi jotain, joka vie aikaa muutenkin, mutta ei tarvitse mahdottomasti konetehoa. </p>\n<p>Toki ymmärrän, ettei tälläiseen asiaan kannata erikseen hommata vanhaa läppäriä, tuollahan on raspberry pi versiokin. Kuitenkin on jotain, mitä testailla.</p>",
+            "summary": "<p>Tuli testailtua virtuaalikoneessa <a href=\"https://www.alpinelinux.org/\" title=\"link to alpinelinux.org\" target=\"_blank\" rel=\"noopener noreferrer\">alpine linuxia</a>. Hetken lueskellessa sivulta löytyneitä asioita, huomasin, että siellähän olis vanhemmillekki koneille nykyaikainen versio. No ei muuta kuin testaamaan. Alpine 3.18.0-x86 lataukseen. Valitsin nyt standard, mutta saatan myös katsella, mitä tuo extended sisältää. </p>\n",
+            "content_html": "<p>Tuli testailtua virtuaalikoneessa <a href=\"https://www.alpinelinux.org/\" title=\"link to alpinelinux.org\" target=\"_blank\" rel=\"noopener noreferrer\">alpine linuxia</a>. Hetken lueskellessa sivulta löytyneitä asioita, huomasin, että siellähän olis vanhemmillekki koneille nykyaikainen versio. No ei muuta kuin testaamaan. Alpine 3.18.0-x86 lataukseen. Valitsin nyt standard, mutta saatan myös katsella, mitä tuo extended sisältää. </p>\n\n<blockquote>\n<p>Standard: \"Alpine as it was intended. Just enough to get you started. Network connection is required.\"</p>\n<p>Extended: \"Most common used packages included. Suitable for routers and servers. Runs from RAM. Includes AMD and Intel microcode updates.\"</p>\n<p>- <a href=\"https://www.alpinelinux.org/downloads\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.alpinelinux.org/downloads</a></p>\n</blockquote>\n<p>Hain varastosta tuollaisen vanhan 2009 aikaisen Intel Atom N270 @ 1.60GHz prosessorilla varustetun miniläppärin. Eli paljon alle sen, mitä kukaan suosittelee mihinkään. Alkuperäinen järjestelmä oli Windows XP.</p>\n<p>Siitä ei näytä pajoa olevan haittaa, jos kone ei tue ku paria gigaa ram muistia,  kirjoitushetkellä muistinkäyttö oli noin 30 megaa. Prosessorin käyttöaste oil noin 2%, joka meni itse htop ohjelman pyörittämiseen. Itse ohjelma, joka kertoi paljonko muistia ja prosessoritehoa on käytössä.</p>\n<p>Toki nyt ei lähes mitään ole käytössä ja tuskin liikoja pyöriteltäisiin, mutta kyllä tuo johonkin kevyeen käyttöön voisi olla toimiva. Mahdolisesti jos olisi jotain, joka vie aikaa muutenkin, mutta ei tarvitse mahdottomasti konetehoa. </p>\n<p>Toki ymmärrän, ettei tälläiseen asiaan kannata erikseen hommata vanhaa läppäriä, tuollahan on raspberry pi versiokin. Kuitenkin on jotain, mitä testailla.</p>",
             "author": {
                 "name": "JoKiv"
             },
@@ -74,14 +74,14 @@
                    "alpine"
             ],
             "date_published": "2023-05-11T13:49:45+03:00",
-            "date_modified": "2023-05-11T13:55:19+03:00"
+            "date_modified": "2023-07-03T13:03:00+03:00"
         },
         {
             "id": "https://jokiv.fi/600/",
             "url": "https://jokiv.fi/600/",
             "title": "600!",
-            "summary": "YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 😅 Twitch tuntuu menevän toiseen suuntaan.",
-            "content_html": "<p>YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 😅 </p>\n<p>Twitch tuntuu menevän toiseen suuntaan. Katsoa, saako sitä elvytettyä, sitte ku on paremmin striimaamisen mahdollisuuksia, vai miten asiassa käy. 🤔</p>",
+            "summary": "<p>YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 😅 </p>\n",
+            "content_html": "<p>YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 😅 </p>\n\n<p>Twitch tuntuu menevän toiseen suuntaan. Katsoa, saako sitä elvytettyä, sitte ku on paremmin striimaamisen mahdollisuuksia, vai miten asiassa käy. 🤔</p>",
             "author": {
                 "name": "JoKiv"
             },
@@ -90,14 +90,14 @@
                    "twitch"
             ],
             "date_published": "2023-05-02T15:37:06+03:00",
-            "date_modified": "2023-05-02T16:06:51+03:00"
+            "date_modified": "2023-07-03T13:03:13+03:00"
         },
         {
             "id": "https://jokiv.fi/youtube-vs-twitch/",
             "url": "https://jokiv.fi/youtube-vs-twitch/",
             "title": "YouTube vs Twitch",
-            "summary": "Tässä tullut kateltua tilastoja ja YouTube alkaa ottamaan Twitchiä kiinni katsojamäärissä. Joillakin videoilla myös menee sen ohi. Tosin palvelut ovat itsessään erilaisia. Toki&hellip;",
-            "content_html": "<p>Tässä tullut kateltua tilastoja ja YouTube alkaa ottamaan Twitchiä kiinni katsojamäärissä. Joillakin videoilla myös menee sen ohi. Tosin palvelut ovat itsessään erilaisia. </p>\n<p>Toki YouTube videolla kommentoin aikaisemmmin jatkosuunnitelmista, mutta sen jälkeen katsojamäärät ovat muuttuneet, joten pitää nyt seurailla (kuten videossakin mainitsin) ainakin kesän yli.</p>",
+            "summary": "<p>Tässä tullut kateltua tilastoja ja YouTube alkaa ottamaan Twitchiä kiinni katsojamäärissä. Joillakin videoilla myös menee sen ohi. Tosin palvelut ovat itsessään erilaisia. </p>\n",
+            "content_html": "<p>Tässä tullut kateltua tilastoja ja YouTube alkaa ottamaan Twitchiä kiinni katsojamäärissä. Joillakin videoilla myös menee sen ohi. Tosin palvelut ovat itsessään erilaisia. </p>\n\n<p>Toki YouTube videolla kommentoin aikaisemmmin jatkosuunnitelmista, mutta sen jälkeen katsojamäärät ovat muuttuneet, joten pitää nyt seurailla (kuten videossakin mainitsin) ainakin kesän yli.</p>",
             "author": {
                 "name": "JoKiv"
             },
@@ -106,14 +106,14 @@
                    "twitch"
             ],
             "date_published": "2023-04-21T20:00:02+03:00",
-            "date_modified": "2023-04-23T04:41:32+03:00"
+            "date_modified": "2023-07-03T13:03:27+03:00"
         },
         {
             "id": "https://jokiv.fi/vitsistae-ideaksi/",
             "url": "https://jokiv.fi/vitsistae-ideaksi/",
             "title": "Vitsistä ideaksi",
-            "summary": "Osittain vihjasin tai oikeammin vitsailin, jos tekisin kirjan siitä, mikä minun elämä on ollu tähän mennessä. Vihjasin The history of JoKiv voisi lähteä&hellip;",
-            "content_html": "<p>Osittain vihjasin tai oikeammin vitsailin, jos tekisin kirjan siitä, mikä minun elämä on ollu tähän mennessä. Vihjasin <em>The history of JoKiv</em> voisi lähteä työn alle jossain vaiheessa, sen jälkeen kun olisin partneri twitchissä tai youtubessa. Mainitsin siitä molemmissa, mutta en muista kumpaan sen tarkemmin sitä vihjailin.</p>\n<p>Hidasta hommaa joka tapauksessa, mutta puoli sivua olen sitä jo naputellu. En silleen suunnitellu ole mitään, mutta katsoa jos tuon joskus saa sellaiseen kuntoon, että se olis julkaisuvalmis. Meneehän siihen partneruuteenki vielä aikaa.</p>\n<p>Tällä hetkellä alustavaa tietoa olen kirjoitellu, mistä oikeastaan nimimerkki tulee ja mitä nimimerkkiä käytin tätä ennen. Myös sen vanhemman nimimerkin lyhyt historia on mukana, vaikka se onkin vain muutama lause.</p>\n<p>Katsotaan tuleeko tästä mitään vai keksitäänkö jotain uutta. Tälle tekstille voisi olla vaihtoehtoinenkin käyttötarkoitus.. Siitä sitten enemmän, jos saan asiat ojennukseen ja uuden koneen tuon hajonneen tilalle.</p>",
+            "summary": "<p>Osittain vihjasin tai oikeammin vitsailin, jos tekisin kirjan siitä, mikä minun elämä on ollu tähän mennessä. Vihjasin <em>The history of JoKiv</em> voisi lähteä työn alle jossain vaiheessa, sen jälkeen kun olisin partneri twitchissä tai youtubessa. Mainitsin siitä molemmissa, mutta en muista kumpaan sen tarkemmin sitä vihjailin.</p>\n",
+            "content_html": "<p>Osittain vihjasin tai oikeammin vitsailin, jos tekisin kirjan siitä, mikä minun elämä on ollu tähän mennessä. Vihjasin <em>The history of JoKiv</em> voisi lähteä työn alle jossain vaiheessa, sen jälkeen kun olisin partneri twitchissä tai youtubessa. Mainitsin siitä molemmissa, mutta en muista kumpaan sen tarkemmin sitä vihjailin.</p>\n\n<p>Hidasta hommaa joka tapauksessa, mutta puoli sivua olen sitä jo naputellu. En silleen suunnitellu ole mitään, mutta katsoa jos tuon joskus saa sellaiseen kuntoon, että se olis julkaisuvalmis. Meneehän siihen partneruuteenki vielä aikaa.</p>\n<p>Tällä hetkellä alustavaa tietoa olen kirjoitellu, mistä oikeastaan nimimerkki tulee ja mitä nimimerkkiä käytin tätä ennen. Myös sen vanhemman nimimerkin lyhyt historia on mukana, vaikka se onkin vain muutama lause.</p>\n<p>Katsotaan tuleeko tästä mitään vai keksitäänkö jotain uutta. Tälle tekstille voisi olla vaihtoehtoinenkin käyttötarkoitus.. Siitä sitten enemmän, jos saan asiat ojennukseen ja uuden koneen tuon hajonneen tilalle.</p>",
             "author": {
                 "name": "JoKiv"
             },
@@ -121,7 +121,7 @@
                    "kirja"
             ],
             "date_published": "2023-04-16T13:59:52+03:00",
-            "date_modified": "2023-04-16T13:59:52+03:00"
+            "date_modified": "2023-07-03T13:03:34+03:00"
         },
         {
             "id": "https://jokiv.fi/vielae-kerran-flutterista/",
@@ -136,14 +136,14 @@
                    "flutter"
             ],
             "date_published": "2023-04-08T10:00:00+03:00",
-            "date_modified": "2023-04-09T02:10:38+03:00"
+            "date_modified": "2023-07-03T13:03:43+03:00"
         },
         {
             "id": "https://jokiv.fi/patreonista/",
             "url": "https://jokiv.fi/patreonista/",
             "title": "Patreonista",
-            "summary": "Sammutin patreonin luojasivut. Tämä tarkoittaa, että en ota vastaan lahjoituksia sen kautta. Kukaan ei tehnyt lahjoituksia sen kautta, ja tilastojen mukaan kukaan ei&hellip;",
-            "content_html": "<p>Sammutin patreonin luojasivut. Tämä tarkoittaa, että en ota vastaan lahjoituksia sen kautta. Kukaan ei tehnyt lahjoituksia sen kautta, ja tilastojen mukaan kukaan ei edes lukenut, jos kirjoitin sinne. </p>\n<p>Ko-fi on ollut viime kuukausina aktiivisempi kuin patreon on ollut yli kuuteen(?) vuoteen.</p>",
+            "summary": "<p>Sammutin patreonin luojasivut. Tämä tarkoittaa, että en ota vastaan lahjoituksia sen kautta. Kukaan ei tehnyt lahjoituksia sen kautta, ja tilastojen mukaan kukaan ei edes lukenut, jos kirjoitin sinne. </p>\n",
+            "content_html": "<p>Sammutin patreonin luojasivut. Tämä tarkoittaa, että en ota vastaan lahjoituksia sen kautta. Kukaan ei tehnyt lahjoituksia sen kautta, ja tilastojen mukaan kukaan ei edes lukenut, jos kirjoitin sinne. </p>\n\n<p>Ko-fi on ollut viime kuukausina aktiivisempi kuin patreon on ollut yli kuuteen(?) vuoteen.</p>",
             "author": {
                 "name": "JoKiv"
             },
@@ -152,14 +152,14 @@
                    "ko-fi"
             ],
             "date_published": "2023-04-06T22:01:37+03:00",
-            "date_modified": "2023-04-06T22:02:02+03:00"
+            "date_modified": "2023-07-03T13:04:29+03:00"
         },
         {
             "id": "https://jokiv.fi/internet-radio/",
             "url": "https://jokiv.fi/internet-radio/",
             "title": "Internet Radio",
-            "summary": "Striimissä kommentoin, että jos pitäisin internet radiota, niin pääasiassa ongelmaksi tulisi palvelinkustannukset. Asia on ollut aikaisemminki esillä. Nykyään tosin vähän enemmän harkinnassa. Katsellaan&hellip;",
-            "content_html": "<p>Striimissä kommentoin, että jos pitäisin internet radiota, niin pääasiassa ongelmaksi tulisi palvelinkustannukset. Asia on ollut aikaisemminki esillä.</p>\n<p>Nykyään tosin vähän enemmän harkinnassa. Katsellaan sitten kun on varallisuutta. Moni kertoo kuuntelevansa kommenttejani mielellään, radio voisi olla kevyempi, jos muutoin ei aiheet innosta. </p>",
+            "summary": "<p>Striimissä kommentoin, että jos pitäisin internet radiota, niin pääasiassa ongelmaksi tulisi palvelinkustannukset. Asia on ollut aikaisemminki esillä.</p>\n",
+            "content_html": "<p>Striimissä kommentoin, että jos pitäisin internet radiota, niin pääasiassa ongelmaksi tulisi palvelinkustannukset. Asia on ollut aikaisemminki esillä.</p>\n\n<p>Nykyään tosin vähän enemmän harkinnassa. Katsellaan sitten kun on varallisuutta. Moni kertoo kuuntelevansa kommenttejani mielellään, radio voisi olla kevyempi, jos muutoin ei aiheet innosta. </p>",
             "author": {
                 "name": "JoKiv"
             },
@@ -168,7 +168,7 @@
                    "radio"
             ],
             "date_published": "2023-04-05T01:07:29+03:00",
-            "date_modified": "2023-04-05T01:07:29+03:00"
+            "date_modified": "2023-07-03T13:04:23+03:00"
         }
     ]
 }
