@@ -3,12 +3,38 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-07-03T13:06:38+03:00</updated>
+    <updated>2023-07-03T13:18:21+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Internet radiosta</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/internet-radiosta/"/>
+        <id>https://jokiv.fi/internet-radiosta/</id>
+            <category term="radio"/>
+            <category term="linux"/>
+            <category term="alpine"/>
+
+        <updated>2023-07-03T13:18:21+03:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Tuossa aikanaan kirjoittelin <a href="https://jokiv.fi/internet-radio/" target="_blank" rel="noopener noreferrer">ajatuksia internet radiosta</a> (enemmänkin joskus, mutta ne ovat kadonneet) ja katsojan komentista innostuin miettimään, jos vaikka sellaisen laittaisi tuohon <a href="https://jokiv.fi/alpine-linux-testausta/" target="_blank" rel="noopener noreferrer">miniläppärille</a>, onhan siinä jo käyttiski vamiina.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tuossa aikanaan kirjoittelin <a href="https://jokiv.fi/internet-radio/" target="_blank" rel="noopener noreferrer">ajatuksia internet radiosta</a> (enemmänkin joskus, mutta ne ovat kadonneet) ja katsojan komentista innostuin miettimään, jos vaikka sellaisen laittaisi tuohon <a href="https://jokiv.fi/alpine-linux-testausta/" target="_blank" rel="noopener noreferrer">miniläppärille</a>, onhan siinä jo käyttiski vamiina.</p>
+
+<p>Jossain vaiheessa tulee soimaan jotain, josta ei lisenssiongelmia tule. Katsella miten jatkuu myöhemmin.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Potkua striimeihin</title>
         <author>
@@ -243,31 +269,6 @@
                 <p>Sammutin patreonin luojasivut. Tämä tarkoittaa, että en ota vastaan lahjoituksia sen kautta. Kukaan ei tehnyt lahjoituksia sen kautta, ja tilastojen mukaan kukaan ei edes lukenut, jos kirjoitin sinne. </p>
 
 <p>Ko-fi on ollut viime kuukausina aktiivisempi kuin patreon on ollut yli kuuteen(?) vuoteen.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Internet Radio</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/internet-radio/"/>
-        <id>https://jokiv.fi/internet-radio/</id>
-            <category term="web"/>
-            <category term="radio"/>
-
-        <updated>2023-07-03T13:04:23+03:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Striimissä kommentoin, että jos pitäisin internet radiota, niin pääasiassa ongelmaksi tulisi palvelinkustannukset. Asia on ollut aikaisemminki esillä.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Striimissä kommentoin, että jos pitäisin internet radiota, niin pääasiassa ongelmaksi tulisi palvelinkustannukset. Asia on ollut aikaisemminki esillä.</p>
-
-<p>Nykyään tosin vähän enemmän harkinnassa. Katsellaan sitten kun on varallisuutta. Moni kertoo kuuntelevansa kommenttejani mielellään, radio voisi olla kevyempi, jos muutoin ei aiheet innosta. </p>
             ]]>
         </content>
     </entry>

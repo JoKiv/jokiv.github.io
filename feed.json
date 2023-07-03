@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/internet-radiosta/",
+            "url": "https://jokiv.fi/internet-radiosta/",
+            "title": "Internet radiosta",
+            "summary": "<p>Tuossa aikanaan kirjoittelin <a href=\"https://jokiv.fi/internet-radio/\" target=\"_blank\" rel=\"noopener noreferrer\">ajatuksia internet radiosta</a> (enemmänkin joskus, mutta ne ovat kadonneet) ja katsojan komentista innostuin miettimään, jos vaikka sellaisen laittaisi tuohon <a href=\"https://jokiv.fi/alpine-linux-testausta/\" target=\"_blank\" rel=\"noopener noreferrer\">miniläppärille</a>, onhan siinä jo käyttiski vamiina.</p>\n",
+            "content_html": "<p>Tuossa aikanaan kirjoittelin <a href=\"https://jokiv.fi/internet-radio/\" target=\"_blank\" rel=\"noopener noreferrer\">ajatuksia internet radiosta</a> (enemmänkin joskus, mutta ne ovat kadonneet) ja katsojan komentista innostuin miettimään, jos vaikka sellaisen laittaisi tuohon <a href=\"https://jokiv.fi/alpine-linux-testausta/\" target=\"_blank\" rel=\"noopener noreferrer\">miniläppärille</a>, onhan siinä jo käyttiski vamiina.</p>\n\n<p>Jossain vaiheessa tulee soimaan jotain, josta ei lisenssiongelmia tule. Katsella miten jatkuu myöhemmin.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "radio",
+                   "linux",
+                   "alpine"
+            ],
+            "date_published": "2023-07-03T13:16:34+03:00",
+            "date_modified": "2023-07-03T13:18:21+03:00"
+        },
+        {
             "id": "https://jokiv.fi/potkua-striimeihin/",
             "url": "https://jokiv.fi/potkua-striimeihin/",
             "title": "Potkua striimeihin",
@@ -153,22 +170,6 @@
             ],
             "date_published": "2023-04-06T22:01:37+03:00",
             "date_modified": "2023-07-03T13:04:29+03:00"
-        },
-        {
-            "id": "https://jokiv.fi/internet-radio/",
-            "url": "https://jokiv.fi/internet-radio/",
-            "title": "Internet Radio",
-            "summary": "<p>Striimissä kommentoin, että jos pitäisin internet radiota, niin pääasiassa ongelmaksi tulisi palvelinkustannukset. Asia on ollut aikaisemminki esillä.</p>\n",
-            "content_html": "<p>Striimissä kommentoin, että jos pitäisin internet radiota, niin pääasiassa ongelmaksi tulisi palvelinkustannukset. Asia on ollut aikaisemminki esillä.</p>\n\n<p>Nykyään tosin vähän enemmän harkinnassa. Katsellaan sitten kun on varallisuutta. Moni kertoo kuuntelevansa kommenttejani mielellään, radio voisi olla kevyempi, jos muutoin ei aiheet innosta. </p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "web",
-                   "radio"
-            ],
-            "date_published": "2023-04-05T01:07:29+03:00",
-            "date_modified": "2023-07-03T13:04:23+03:00"
         }
     ]
 }
