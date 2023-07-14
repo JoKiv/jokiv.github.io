@@ -3,12 +3,34 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-07-03T13:18:21+03:00</updated>
+    <updated>2023-07-15T00:14:41+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>PayPal ja sähköpostin osoite</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/paypal-osoite/"/>
+        <id>https://jokiv.fi/paypal-osoite/</id>
+            <category term="paypal"/>
+            <category term="ko-fi"/>
+
+        <updated>2023-07-15T00:14:41+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Olen vaihtanut PayPal-osoitteeni. Vanha osoite toimii vielä ainakin muutaman kuukauden ajan. Sähköpostipalvelut nostavat hintoja ja siirryn edullisempiin. Toki pyrin mahdollisuuksien mukaan edelleenojaamaan postin,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Olen vaihtanut PayPal-osoitteeni. Vanha osoite toimii vielä ainakin muutaman kuukauden ajan. Sähköpostipalvelut nostavat hintoja ja siirryn edullisempiin. Toki pyrin mahdollisuuksien mukaan edelleenojaamaan postin, joten suurempia katkoksia mihinkään ei pitäisi tulla.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Internet radiosta</title>
         <author>
@@ -244,31 +266,6 @@
         <content type="html">
             <![CDATA[
                 <p>Tuli laskettua, että flutter vie aika runsaasti levytilaa, jos siinä on mukana android ja muut tuet. Se kun haluaa asennetuksi android-studion. Täytyy katsella lisää, jos siitä innostuu sitten uuden koneen myötä. Joskus tulevaisuudessa.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Patreonista</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/patreonista/"/>
-        <id>https://jokiv.fi/patreonista/</id>
-            <category term="patreon"/>
-            <category term="ko-fi"/>
-
-        <updated>2023-07-03T13:04:29+03:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Sammutin patreonin luojasivut. Tämä tarkoittaa, että en ota vastaan lahjoituksia sen kautta. Kukaan ei tehnyt lahjoituksia sen kautta, ja tilastojen mukaan kukaan ei edes lukenut, jos kirjoitin sinne. </p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Sammutin patreonin luojasivut. Tämä tarkoittaa, että en ota vastaan lahjoituksia sen kautta. Kukaan ei tehnyt lahjoituksia sen kautta, ja tilastojen mukaan kukaan ei edes lukenut, jos kirjoitin sinne. </p>
-
-<p>Ko-fi on ollut viime kuukausina aktiivisempi kuin patreon on ollut yli kuuteen(?) vuoteen.</p>
             ]]>
         </content>
     </entry>
