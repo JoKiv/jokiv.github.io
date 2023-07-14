@@ -3,7 +3,7 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-07-15T00:14:41+03:00</updated>
+    <updated>2023-07-15T00:19:36+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -19,15 +19,18 @@
             <category term="paypal"/>
             <category term="ko-fi"/>
 
-        <updated>2023-07-15T00:14:41+03:00</updated>
+        <updated>2023-07-15T00:19:36+03:00</updated>
             <summary>
                 <![CDATA[
-                    Olen vaihtanut PayPal-osoitteeni. Vanha osoite toimii vielä ainakin muutaman kuukauden ajan. Sähköpostipalvelut nostavat hintoja ja siirryn edullisempiin. Toki pyrin mahdollisuuksien mukaan edelleenojaamaan postin,&hellip;
+                    <p>Olen vaihtanut PayPal-osoitteeni. Vanha osoite toimii vielä ainakin muutaman kuukauden ajan.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Olen vaihtanut PayPal-osoitteeni. Vanha osoite toimii vielä ainakin muutaman kuukauden ajan. Sähköpostipalvelut nostavat hintoja ja siirryn edullisempiin. Toki pyrin mahdollisuuksien mukaan edelleenojaamaan postin, joten suurempia katkoksia mihinkään ei pitäisi tulla.</p>
+                <p>Olen vaihtanut PayPal-osoitteeni. Vanha osoite toimii vielä ainakin muutaman kuukauden ajan.</p>
+
+<p>Sähköpostipalvelut nostavat hintoja ja siirryn edullisempiin. Toki pyrin mahdollisuuksien mukaan edelleenojaamaan postin, joten suurempia katkoksia mihinkään ei pitäisi tulla.</p>
             ]]>
         </content>
     </entry>
