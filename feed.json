@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/sdr-ja-radion-kuuntelu/",
+            "url": "https://jokiv.fi/sdr-ja-radion-kuuntelu/",
+            "title": "SDR ja radion kuuntelu",
+            "summary": "<p>Tuli edullisesti hommattua amazonista SDR-tikku. Vaikka todennäköisesti kyseinen tikku on vähemmän tai enemmän kloonitikku, toimii se ainakin radion kuuntelussa. Tätä testaamista ei tule sekoittaa aikaisempaan <a href=\"https://jokiv.fi/internet-radiosta/\" target=\"_blank\" rel=\"noopener noreferrer\">internet radion</a> tekemiseen. Tämä on ihan erillinen asia.</p>\n",
+            "content_html": "<p>Tuli edullisesti hommattua amazonista SDR-tikku. Vaikka todennäköisesti kyseinen tikku on vähemmän tai enemmän kloonitikku, toimii se ainakin radion kuuntelussa. Tätä testaamista ei tule sekoittaa aikaisempaan <a href=\"https://jokiv.fi/internet-radiosta/\" target=\"_blank\" rel=\"noopener noreferrer\">internet radion</a> tekemiseen. Tämä on ihan erillinen asia.</p>\n\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jokiv.fi/media/posts/60/sdr.jpg\" alt=\"SDR-usb tikku\" width=\"800\" height=\"711\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://jokiv.fi/media/posts/60/responsive/sdr-xs.jpg 300w ,https://jokiv.fi/media/posts/60/responsive/sdr-sm.jpg 480w ,https://jokiv.fi/media/posts/60/responsive/sdr-md.jpg 768w ,https://jokiv.fi/media/posts/60/responsive/sdr-lg.jpg 1024w ,https://jokiv.fi/media/posts/60/responsive/sdr-xl.jpg 1360w ,https://jokiv.fi/media/posts/60/responsive/sdr-2xl.jpg 1600w\"></figure>\n<p>Pääasiassa tikun toimitnaa jumi ajuri, joka piti estää toimimasta.</p>\n<p>Netistä löysin ohjeen, jossa tehtiin tiedosto <code>/etc/modprobe.d/blacklist-rtl.conf</code>, jonka sisällöksi laitettiin pelkästään <code>blacklist dvb_usb_rtl28xxu</code>. Tämän jälkeen vain rebootata kone ja <a href=\"https://github.com/gqrx-sdr/gqrx\" target=\"_blank\" rel=\"noopener noreferrer\">gqrx</a> löysi laitteen. </p>\n<p>Laitoin myös käyttäjän ryhmään <code>video</code>. En varma ole onko se radion kuunteluun tarpeellista, mutta vlc ainakin tykkäsi skannata sen jälkeen DVB-T signaaleja. Koska tämä olisi kestänyt hieman pidempään, en alkanut testaaaman sen toivuutta. Varsinkaan mun yksinkertaisella antennilla.</p>\n<p>En saanut samoilla ohjeilla suoraan toimimaan <a href=\"https://archlinux.org/\" target=\"_blank\" rel=\"noopener noreferrer\">arch linuxilla</a>, mutta <a href=\"https://linuxmint.com/\" target=\"_blank\" rel=\"noopener noreferrer\">mint</a> löysi aika laitteen suoraan. Uskoisin archin haluavan udev määrityksiä ja se voisi toimia. Tämä kuitenkin riittää minulle tällä hetkellä.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "sdr",
+                   "radio"
+            ],
+            "date_published": "2023-08-04T14:15:30+03:00",
+            "date_modified": "2023-08-04T14:15:30+03:00"
+        },
+        {
             "id": "https://jokiv.fi/paypal-osoite/",
             "url": "https://jokiv.fi/paypal-osoite/",
             "title": "PayPal ja sähköpostin osoite",
@@ -155,21 +171,6 @@
             ],
             "date_published": "2023-04-16T13:59:52+03:00",
             "date_modified": "2023-07-03T13:03:34+03:00"
-        },
-        {
-            "id": "https://jokiv.fi/vielae-kerran-flutterista/",
-            "url": "https://jokiv.fi/vielae-kerran-flutterista/",
-            "title": "Vielä kerran flutterista",
-            "summary": "Tuli laskettua, että flutter vie aika runsaasti levytilaa, jos siinä on mukana android ja muut tuet. Se kun haluaa asennetuksi android-studion. Täytyy katsella&hellip;",
-            "content_html": "<p>Tuli laskettua, että flutter vie aika runsaasti levytilaa, jos siinä on mukana android ja muut tuet. Se kun haluaa asennetuksi android-studion. Täytyy katsella lisää, jos siitä innostuu sitten uuden koneen myötä. Joskus tulevaisuudessa.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "flutter"
-            ],
-            "date_published": "2023-04-08T10:00:00+03:00",
-            "date_modified": "2023-07-03T13:03:43+03:00"
         }
     ]
 }

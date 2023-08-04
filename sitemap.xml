@@ -116,6 +116,14 @@
 <lastmod>2023-03-29T13:30:06+03:00</lastmod>
 </url>
 <url>
+<loc>https://jokiv.fi/sdr-ja-radion-kuuntelu/</loc>
+<lastmod>2023-08-04T14:15:30+03:00</lastmod>
+<image:image>
+<image:loc>https://jokiv.fi/media/posts/60/sdr.jpg</image:loc>
+<image:title><![CDATA[SDR-usb tikku]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://jokiv.fi/steam-deck-ja-striimaaminen/</loc>
 <lastmod>2023-03-20T14:35:32+02:00</lastmod>
 </url>
@@ -199,6 +207,9 @@
 </url>
 <url>
 <loc>https://jokiv.fi/tags/retro/</loc>
+</url>
+<url>
+<loc>https://jokiv.fi/tags/sdr/</loc>
 </url>
 <url>
 <loc>https://jokiv.fi/tags/snapchat/</loc>
