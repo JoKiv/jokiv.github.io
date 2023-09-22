@@ -3,7 +3,7 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-09-22T14:20:53+03:00</updated>
+    <updated>2023-09-22T21:31:37+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -19,15 +19,17 @@
             <category term="youtube"/>
             <category term="twitch"/>
 
-        <updated>2023-09-22T14:20:53+03:00</updated>
+        <updated>2023-09-22T21:31:37+03:00</updated>
             <summary>
                 <![CDATA[
-                    Videoiden puute YouTubessa johtuu pääasiassa siitä, että "myrkylliset ihmiset" ovat alkaneet häiritsemään elämääni. Tämä vaikuttaa myös striimien aikatauluihin. Asia on hallinnassa. Se vain&hellip;
+                    <p>Videoiden puute YouTubessa johtuu pääasiassa siitä, että "myrkylliset ihmiset" ovat alkaneet häiritsemään elämääni. Tämä vaikuttaa myös striimien aikatauluihin.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Videoiden puute YouTubessa johtuu pääasiassa siitä, että "myrkylliset ihmiset" ovat alkaneet häiritsemään elämääni. Tämä vaikuttaa myös striimien aikatauluihin.</p>
+
 <p>Asia on hallinnassa. Se vain vie aikaa. </p>
             ]]>
         </content>
