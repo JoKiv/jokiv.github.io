@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/asiat-ovat-hieman-tauolla/",
+            "url": "https://jokiv.fi/asiat-ovat-hieman-tauolla/",
+            "title": "Asiat ovat hieman tauolla",
+            "summary": "Videoiden puute YouTubessa johtuu pääasiassa siitä, että \"myrkylliset ihmiset\" ovat alkaneet häiritsemään elämääni. Tämä vaikuttaa myös striimien aikatauluihin. Asia on hallinnassa. Se vain&hellip;",
+            "content_html": "<p>Videoiden puute YouTubessa johtuu pääasiassa siitä, että \"myrkylliset ihmiset\" ovat alkaneet häiritsemään elämääni. Tämä vaikuttaa myös striimien aikatauluihin.</p>\n<p>Asia on hallinnassa. Se vain vie aikaa. </p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "youtube",
+                   "twitch"
+            ],
+            "date_published": "2023-09-22T14:20:53+03:00",
+            "date_modified": "2023-09-22T14:20:53+03:00"
+        },
+        {
             "id": "https://jokiv.fi/sdr-ja-radion-kuuntelu/",
             "url": "https://jokiv.fi/sdr-ja-radion-kuuntelu/",
             "title": "SDR ja radion kuuntelu",
@@ -156,21 +172,6 @@
             ],
             "date_published": "2023-04-21T20:00:02+03:00",
             "date_modified": "2023-07-03T13:03:27+03:00"
-        },
-        {
-            "id": "https://jokiv.fi/vitsistae-ideaksi/",
-            "url": "https://jokiv.fi/vitsistae-ideaksi/",
-            "title": "Vitsistä ideaksi",
-            "summary": "<p>Osittain vihjasin tai oikeammin vitsailin, jos tekisin kirjan siitä, mikä minun elämä on ollu tähän mennessä. Vihjasin <em>The history of JoKiv</em> voisi lähteä työn alle jossain vaiheessa, sen jälkeen kun olisin partneri twitchissä tai youtubessa. Mainitsin siitä molemmissa, mutta en muista kumpaan sen tarkemmin sitä vihjailin.</p>\n",
-            "content_html": "<p>Osittain vihjasin tai oikeammin vitsailin, jos tekisin kirjan siitä, mikä minun elämä on ollu tähän mennessä. Vihjasin <em>The history of JoKiv</em> voisi lähteä työn alle jossain vaiheessa, sen jälkeen kun olisin partneri twitchissä tai youtubessa. Mainitsin siitä molemmissa, mutta en muista kumpaan sen tarkemmin sitä vihjailin.</p>\n\n<p>Hidasta hommaa joka tapauksessa, mutta puoli sivua olen sitä jo naputellu. En silleen suunnitellu ole mitään, mutta katsoa jos tuon joskus saa sellaiseen kuntoon, että se olis julkaisuvalmis. Meneehän siihen partneruuteenki vielä aikaa.</p>\n<p>Tällä hetkellä alustavaa tietoa olen kirjoitellu, mistä oikeastaan nimimerkki tulee ja mitä nimimerkkiä käytin tätä ennen. Myös sen vanhemman nimimerkin lyhyt historia on mukana, vaikka se onkin vain muutama lause.</p>\n<p>Katsotaan tuleeko tästä mitään vai keksitäänkö jotain uutta. Tälle tekstille voisi olla vaihtoehtoinenkin käyttötarkoitus.. Siitä sitten enemmän, jos saan asiat ojennukseen ja uuden koneen tuon hajonneen tilalle.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "kirja"
-            ],
-            "date_published": "2023-04-16T13:59:52+03:00",
-            "date_modified": "2023-07-03T13:03:34+03:00"
         }
     ]
 }

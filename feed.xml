@@ -3,12 +3,35 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-08-06T14:38:47+03:00</updated>
+    <updated>2023-09-22T14:20:53+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Asiat ovat hieman tauolla</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/asiat-ovat-hieman-tauolla/"/>
+        <id>https://jokiv.fi/asiat-ovat-hieman-tauolla/</id>
+            <category term="youtube"/>
+            <category term="twitch"/>
+
+        <updated>2023-09-22T14:20:53+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Videoiden puute YouTubessa johtuu pääasiassa siitä, että "myrkylliset ihmiset" ovat alkaneet häiritsemään elämääni. Tämä vaikuttaa myös striimien aikatauluihin. Asia on hallinnassa. Se vain&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Videoiden puute YouTubessa johtuu pääasiassa siitä, että "myrkylliset ihmiset" ovat alkaneet häiritsemään elämääni. Tämä vaikuttaa myös striimien aikatauluihin.</p>
+<p>Asia on hallinnassa. Se vain vie aikaa. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>SDR ja radion kuuntelu</title>
         <author>
@@ -253,32 +276,6 @@
                 <p>Tässä tullut kateltua tilastoja ja YouTube alkaa ottamaan Twitchiä kiinni katsojamäärissä. Joillakin videoilla myös menee sen ohi. Tosin palvelut ovat itsessään erilaisia. </p>
 
 <p>Toki YouTube videolla kommentoin aikaisemmmin jatkosuunnitelmista, mutta sen jälkeen katsojamäärät ovat muuttuneet, joten pitää nyt seurailla (kuten videossakin mainitsin) ainakin kesän yli.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Vitsistä ideaksi</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/vitsistae-ideaksi/"/>
-        <id>https://jokiv.fi/vitsistae-ideaksi/</id>
-            <category term="kirja"/>
-
-        <updated>2023-07-03T13:03:34+03:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Osittain vihjasin tai oikeammin vitsailin, jos tekisin kirjan siitä, mikä minun elämä on ollu tähän mennessä. Vihjasin <em>The history of JoKiv</em> voisi lähteä työn alle jossain vaiheessa, sen jälkeen kun olisin partneri twitchissä tai youtubessa. Mainitsin siitä molemmissa, mutta en muista kumpaan sen tarkemmin sitä vihjailin.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Osittain vihjasin tai oikeammin vitsailin, jos tekisin kirjan siitä, mikä minun elämä on ollu tähän mennessä. Vihjasin <em>The history of JoKiv</em> voisi lähteä työn alle jossain vaiheessa, sen jälkeen kun olisin partneri twitchissä tai youtubessa. Mainitsin siitä molemmissa, mutta en muista kumpaan sen tarkemmin sitä vihjailin.</p>
-
-<p>Hidasta hommaa joka tapauksessa, mutta puoli sivua olen sitä jo naputellu. En silleen suunnitellu ole mitään, mutta katsoa jos tuon joskus saa sellaiseen kuntoon, että se olis julkaisuvalmis. Meneehän siihen partneruuteenki vielä aikaa.</p>
-<p>Tällä hetkellä alustavaa tietoa olen kirjoitellu, mistä oikeastaan nimimerkki tulee ja mitä nimimerkkiä käytin tätä ennen. Myös sen vanhemman nimimerkin lyhyt historia on mukana, vaikka se onkin vain muutama lause.</p>
-<p>Katsotaan tuleeko tästä mitään vai keksitäänkö jotain uutta. Tälle tekstille voisi olla vaihtoehtoinenkin käyttötarkoitus.. Siitä sitten enemmän, jos saan asiat ojennukseen ja uuden koneen tuon hajonneen tilalle.</p>
             ]]>
         </content>
     </entry>
