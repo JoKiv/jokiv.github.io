@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/flipper-zero/",
+            "url": "https://jokiv.fi/flipper-zero/",
+            "title": "Flipper Zero",
+            "summary": "<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://jokiv.fi/media/posts/62/flipper.png\" alt=\"Flipper Zero\" width=\"640\" height=\"331\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://jokiv.fi/media/posts/62/responsive/flipper-xs.png 300w ,https://jokiv.fi/media/posts/62/responsive/flipper-sm.png 480w ,https://jokiv.fi/media/posts/62/responsive/flipper-md.png 768w ,https://jokiv.fi/media/posts/62/responsive/flipper-lg.png 1024w ,https://jokiv.fi/media/posts/62/responsive/flipper-xl.png 1360w ,https://jokiv.fi/media/posts/62/responsive/flipper-2xl.png 1600w\"></figure>\n<p>Tuli hommattua <a href=\"https://flipperzero.one/\" title=\"Flipper Zero\" target=\"null\">Flipper Zero</a>. Jos on kiinnostusta, voin tehdä videoita aiheesta. Striimeihin tämä saattaa ilmestyä, sitten kun on enemmän osaa ja tietää, mitä tekee.</p>\n",
+            "content_html": "<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://jokiv.fi/media/posts/62/flipper.png\" alt=\"Flipper Zero\" width=\"640\" height=\"331\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://jokiv.fi/media/posts/62/responsive/flipper-xs.png 300w ,https://jokiv.fi/media/posts/62/responsive/flipper-sm.png 480w ,https://jokiv.fi/media/posts/62/responsive/flipper-md.png 768w ,https://jokiv.fi/media/posts/62/responsive/flipper-lg.png 1024w ,https://jokiv.fi/media/posts/62/responsive/flipper-xl.png 1360w ,https://jokiv.fi/media/posts/62/responsive/flipper-2xl.png 1600w\"></figure>\n<p>Tuli hommattua <a href=\"https://flipperzero.one/\" title=\"Flipper Zero\" target=\"null\">Flipper Zero</a>. Jos on kiinnostusta, voin tehdä videoita aiheesta. Striimeihin tämä saattaa ilmestyä, sitten kun on enemmän osaa ja tietää, mitä tekee.</p>\n\n<p>Olen tähän mennessä tutkinut, miten laitteelle käntää firmwaren ja omia ohjelmia.</p>\n<p>Kiitokset tukijoille, jotka mahdollistivat tämän hankkimisen.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "youtube",
+                   "flipper zero"
+            ],
+            "date_published": "2023-11-06T18:00:00+02:00",
+            "date_modified": "2023-11-07T15:56:58+02:00"
+        },
+        {
             "id": "https://jokiv.fi/asiat-ovat-hieman-tauolla/",
             "url": "https://jokiv.fi/asiat-ovat-hieman-tauolla/",
             "title": "Asiat ovat hieman tauolla",
@@ -156,22 +172,6 @@
             ],
             "date_published": "2023-05-02T15:37:06+03:00",
             "date_modified": "2023-07-03T13:03:13+03:00"
-        },
-        {
-            "id": "https://jokiv.fi/youtube-vs-twitch/",
-            "url": "https://jokiv.fi/youtube-vs-twitch/",
-            "title": "YouTube vs Twitch",
-            "summary": "<p>Tässä tullut kateltua tilastoja ja YouTube alkaa ottamaan Twitchiä kiinni katsojamäärissä. Joillakin videoilla myös menee sen ohi. Tosin palvelut ovat itsessään erilaisia. </p>\n",
-            "content_html": "<p>Tässä tullut kateltua tilastoja ja YouTube alkaa ottamaan Twitchiä kiinni katsojamäärissä. Joillakin videoilla myös menee sen ohi. Tosin palvelut ovat itsessään erilaisia. </p>\n\n<p>Toki YouTube videolla kommentoin aikaisemmmin jatkosuunnitelmista, mutta sen jälkeen katsojamäärät ovat muuttuneet, joten pitää nyt seurailla (kuten videossakin mainitsin) ainakin kesän yli.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "youtube",
-                   "twitch"
-            ],
-            "date_published": "2023-04-21T20:00:02+03:00",
-            "date_modified": "2023-07-03T13:03:27+03:00"
         }
     ]
 }

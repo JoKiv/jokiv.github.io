@@ -21,6 +21,14 @@
 <lastmod>2023-09-22T21:31:37+03:00</lastmod>
 </url>
 <url>
+<loc>https://jokiv.fi/flipper-zero/</loc>
+<lastmod>2023-11-07T15:56:58+02:00</lastmod>
+<image:image>
+<image:loc>https://jokiv.fi/media/posts/62/flipper.png</image:loc>
+<image:title><![CDATA[Flipper Zero]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://jokiv.fi/internet-radio/</loc>
 <lastmod>2023-07-03T13:04:23+03:00</lastmod>
 </url>
@@ -160,6 +168,9 @@
 </url>
 <url>
 <loc>https://jokiv.fi/tags/discord/</loc>
+</url>
+<url>
+<loc>https://jokiv.fi/tags/flipper-zero/</loc>
 </url>
 <url>
 <loc>https://jokiv.fi/tags/flutter/</loc>
