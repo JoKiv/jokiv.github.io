@@ -3,7 +3,7 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-11-20T18:14:21+02:00</updated>
+    <updated>2023-11-20T18:16:22+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -18,20 +18,21 @@
         <id>https://jokiv.fi/pientae-saeaetoeae/</id>
             <category term="yritä edes"/>
 
-        <updated>2023-11-20T18:14:21+02:00</updated>
+        <updated>2023-11-20T18:16:22+02:00</updated>
             <summary>
                 <![CDATA[
-                    <p>Sivut kävivät alhaalla noin 15 min. Vaikka varmaan kukaan ei huomannut asiaa, Komentoin syytä siitä huolimatta. </p>
+                    <p>Sivut kävivät alhaalla noin 15 min. Vaikka varmaan kukaan ei huomannut asiaa, komentoin syytä siitä huolimatta. </p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Sivut kävivät alhaalla noin 15 min. Vaikka varmaan kukaan ei huomannut asiaa, Komentoin syytä siitä huolimatta. </p>
+                <p>Sivut kävivät alhaalla noin 15 min. Vaikka varmaan kukaan ei huomannut asiaa, komentoin syytä siitä huolimatta. </p>
 
 <p>Päivitin <a href="https://getpublii.com/" title="getpulii.com" target="_blank" rel="noopener noreferrer">Publiin</a> uusimpaan versioon (kirjoitushetkellä 0.44.1) ja päivityksessä mainittiin, että github pages suora uploadaaminen tulee katoamaan myöhemmässä versiossa. Suositeltiin vaihtamaan git uploadiin. Serveri tyypin vaihto siis. Uudet tokenit ja tarkistaa asetukset.</p>
 <p>Dokumentaatiossa oli ihan kommentti <em>CNAME</em> tiedostosta, että varmistaa, yms jos käyttää omaa domainia. En sitten sen tarkemmin perehtyny siihen ja ensimmäinen päivitys kadotti tuon tiedoston. Githubille se on tärkeä tiedosto ja sivuston näkyvyys kärsi. </p>
 <p>Palautettua tuon tiedoston, asia oli korjattu. Publiissa on omien tiedostojen lisääminen sinne vaan sekaan.</p>
+<p>Päivitykset tuntuvat toimivan nyt nopeammin.</p>
             ]]>
         </content>
     </entry>
