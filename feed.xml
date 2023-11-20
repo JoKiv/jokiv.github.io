@@ -3,12 +3,38 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-11-07T15:56:58+02:00</updated>
+    <updated>2023-11-20T18:14:21+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Pientä säätöä</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/pientae-saeaetoeae/"/>
+        <id>https://jokiv.fi/pientae-saeaetoeae/</id>
+            <category term="yritä edes"/>
+
+        <updated>2023-11-20T18:14:21+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Sivut kävivät alhaalla noin 15 min. Vaikka varmaan kukaan ei huomannut asiaa, Komentoin syytä siitä huolimatta. </p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Sivut kävivät alhaalla noin 15 min. Vaikka varmaan kukaan ei huomannut asiaa, Komentoin syytä siitä huolimatta. </p>
+
+<p>Päivitin <a href="https://getpublii.com/" title="getpulii.com" target="_blank" rel="noopener noreferrer">Publiin</a> uusimpaan versioon (kirjoitushetkellä 0.44.1) ja päivityksessä mainittiin, että github pages suora uploadaaminen tulee katoamaan myöhemmässä versiossa. Suositeltiin vaihtamaan git uploadiin. Serveri tyypin vaihto siis. Uudet tokenit ja tarkistaa asetukset.</p>
+<p>Dokumentaatiossa oli ihan kommentti <em>CNAME</em> tiedostosta, että varmistaa, yms jos käyttää omaa domainia. En sitten sen tarkemmin perehtyny siihen ja ensimmäinen päivitys kadotti tuon tiedoston. Githubille se on tärkeä tiedosto ja sivuston näkyvyys kärsi. </p>
+<p>Palautettua tuon tiedoston, asia oli korjattu. Publiissa on omien tiedostojen lisääminen sinne vaan sekaan.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Flipper Zero</title>
         <author>
@@ -256,31 +282,6 @@
 <p>Siitä ei näytä pajoa olevan haittaa, jos kone ei tue ku paria gigaa ram muistia,  kirjoitushetkellä muistinkäyttö oli noin 30 megaa. Prosessorin käyttöaste oil noin 2%, joka meni itse htop ohjelman pyörittämiseen. Itse ohjelma, joka kertoi paljonko muistia ja prosessoritehoa on käytössä.</p>
 <p>Toki nyt ei lähes mitään ole käytössä ja tuskin liikoja pyöriteltäisiin, mutta kyllä tuo johonkin kevyeen käyttöön voisi olla toimiva. Mahdolisesti jos olisi jotain, joka vie aikaa muutenkin, mutta ei tarvitse mahdottomasti konetehoa. </p>
 <p>Toki ymmärrän, ettei tälläiseen asiaan kannata erikseen hommata vanhaa läppäriä, tuollahan on raspberry pi versiokin. Kuitenkin on jotain, mitä testailla.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>600!</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/600/"/>
-        <id>https://jokiv.fi/600/</id>
-            <category term="youtube"/>
-            <category term="twitch"/>
-
-        <updated>2023-07-03T13:03:13+03:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 😅 </p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>YouTubessa 600 raja meni yli. Pitää varmaan jossain välissä tarkemmin miettiä, mitä sitä lupailikaan 1000 seuraajan videoksi 😅 </p>
-
-<p>Twitch tuntuu menevän toiseen suuntaan. Katsoa, saako sitä elvytettyä, sitte ku on paremmin striimaamisen mahdollisuuksia, vai miten asiassa käy. 🤔</p>
             ]]>
         </content>
     </entry>
