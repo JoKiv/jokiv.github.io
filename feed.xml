@@ -3,12 +3,38 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-11-20T18:16:22+02:00</updated>
+    <updated>2023-12-08T19:17:35+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Ohjelmointi jatkuu</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/ohjelmointi-jatkuu/"/>
+        <id>https://jokiv.fi/ohjelmointi-jatkuu/</id>
+            <category term="steam deck"/>
+            <category term="retro"/>
+            <category term="pelit"/>
+
+        <updated>2023-12-08T19:17:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Mietin jo jonkin aikaa, julkaisisitteko maksullisen pelin. Jos pelin tuotot kuitenkin ylittäisivät tietyn rajan, pelistä tulisi avointa lähdekoodia.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Mietin jo jonkin aikaa, julkaisisitteko maksullisen pelin. Jos pelin tuotot kuitenkin ylittäisivät tietyn rajan, pelistä tulisi avointa lähdekoodia.</p>
+
+<p>Koodaus on pikkuhiljaa alkanut taas ja olen testannut myös muita pelimoottoreita. Silti Godot tuntuu edelleen parhaalta vaihtoehdolta.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Pientä säätöä</title>
         <author>
@@ -249,40 +275,6 @@
 <p>Ihmiset, jotka ovat tukeneet minua siellä, ovat mahdolistaneet minua auttamaan, opastamaan, etsimään tietoa verkosta ja jopa koodaamaan esimerkkikoodin pätkiä heille. </p>
 <p>En pysty omistautumaan pelkästään opettamiseen, varsinkaan, kun mitään aiheita ei ole pyydetty. Eikä tällä maksa kaikkia maksuja. <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">En aio pitää luokkahuonetta.</span></p>
 <p>Sitten kun mahdolisuudet ovat paremmat, aion laajentaa tätä asiaa. Jos tämä tuottaisi enemmän, voisin ihan tätä varten panostaa enemmän sisätöä.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Alpine linux testausta</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/alpine-linux-testausta/"/>
-        <id>https://jokiv.fi/alpine-linux-testausta/</id>
-            <category term="linux"/>
-            <category term="laitteet"/>
-            <category term="alpine"/>
-
-        <updated>2023-07-03T13:03:00+03:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Tuli testailtua virtuaalikoneessa <a href="https://www.alpinelinux.org/" title="link to alpinelinux.org" target="_blank" rel="noopener noreferrer">alpine linuxia</a>. Hetken lueskellessa sivulta löytyneitä asioita, huomasin, että siellähän olis vanhemmillekki koneille nykyaikainen versio. No ei muuta kuin testaamaan. Alpine 3.18.0-x86 lataukseen. Valitsin nyt standard, mutta saatan myös katsella, mitä tuo extended sisältää. </p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Tuli testailtua virtuaalikoneessa <a href="https://www.alpinelinux.org/" title="link to alpinelinux.org" target="_blank" rel="noopener noreferrer">alpine linuxia</a>. Hetken lueskellessa sivulta löytyneitä asioita, huomasin, että siellähän olis vanhemmillekki koneille nykyaikainen versio. No ei muuta kuin testaamaan. Alpine 3.18.0-x86 lataukseen. Valitsin nyt standard, mutta saatan myös katsella, mitä tuo extended sisältää. </p>
-
-<blockquote>
-<p>Standard: "Alpine as it was intended. Just enough to get you started. Network connection is required."</p>
-<p>Extended: "Most common used packages included. Suitable for routers and servers. Runs from RAM. Includes AMD and Intel microcode updates."</p>
-<p>- <a href="https://www.alpinelinux.org/downloads" target="_blank" rel="noopener noreferrer">https://www.alpinelinux.org/downloads</a></p>
-</blockquote>
-<p>Hain varastosta tuollaisen vanhan 2009 aikaisen Intel Atom N270 @ 1.60GHz prosessorilla varustetun miniläppärin. Eli paljon alle sen, mitä kukaan suosittelee mihinkään. Alkuperäinen järjestelmä oli Windows XP.</p>
-<p>Siitä ei näytä pajoa olevan haittaa, jos kone ei tue ku paria gigaa ram muistia,  kirjoitushetkellä muistinkäyttö oli noin 30 megaa. Prosessorin käyttöaste oil noin 2%, joka meni itse htop ohjelman pyörittämiseen. Itse ohjelma, joka kertoi paljonko muistia ja prosessoritehoa on käytössä.</p>
-<p>Toki nyt ei lähes mitään ole käytössä ja tuskin liikoja pyöriteltäisiin, mutta kyllä tuo johonkin kevyeen käyttöön voisi olla toimiva. Mahdolisesti jos olisi jotain, joka vie aikaa muutenkin, mutta ei tarvitse mahdottomasti konetehoa. </p>
-<p>Toki ymmärrän, ettei tälläiseen asiaan kannata erikseen hommata vanhaa läppäriä, tuollahan on raspberry pi versiokin. Kuitenkin on jotain, mitä testailla.</p>
             ]]>
         </content>
     </entry>
