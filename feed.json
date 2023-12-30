@@ -10,6 +10,24 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/tilasin-kirjan/",
+            "url": "https://jokiv.fi/tilasin-kirjan/",
+            "title": "Tilasin kirjan",
+            "summary": "<p>Tuli tilattua \"Commodore 64 Programmer's Reference Guide\". Toki kyseinen löytyy kaivamalla <em>archive.org</em> ainaki <a href=\"https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore\" title=\"Commodore C64 Manual: Commodore 64 Programmers Reference Guide\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">parina</a> <a href=\"https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore_a/\" title=\"Commodore C64 Manual: Commodore 64 Programmers Reference Guide (alt)\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">versiona</a>.</p>\n",
+            "content_html": "<p>Tuli tilattua \"Commodore 64 Programmer's Reference Guide\". Toki kyseinen löytyy kaivamalla <em>archive.org</em> ainaki <a href=\"https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore\" title=\"Commodore C64 Manual: Commodore 64 Programmers Reference Guide\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">parina</a> <a href=\"https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore_a/\" title=\"Commodore C64 Manual: Commodore 64 Programmers Reference Guide (alt)\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">versiona</a>.</p>\n\n<p>Kirjan fyysiseen versioon minun on ehkä helpompi keskittyä. Jospa tämä vain innostaisi oppimaan enemmän. Ostoslistalla on tietysti muitakin suositeltavia kirjoja. Saa nähdä missä vaiheessa tilaan niitä. Pitäisi saapua tammikuun lopussa.</p>\n<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://jokiv.fi/media/posts/65/c64prg.png\" alt=\"Commodore 64 Programmer's Reference Guide\" width=\"265\" height=\"400\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://jokiv.fi/media/posts/65/responsive/c64prg-xs.png 300w ,https://jokiv.fi/media/posts/65/responsive/c64prg-sm.png 480w ,https://jokiv.fi/media/posts/65/responsive/c64prg-md.png 768w ,https://jokiv.fi/media/posts/65/responsive/c64prg-lg.png 1024w ,https://jokiv.fi/media/posts/65/responsive/c64prg-xl.png 1360w ,https://jokiv.fi/media/posts/65/responsive/c64prg-2xl.png 1600w\"></figure>\n<p> </p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "retro",
+                   "ohjelmointi",
+                   "kirja",
+                   "c64"
+            ],
+            "date_published": "2023-12-28T18:00:00+02:00",
+            "date_modified": "2023-12-30T14:19:32+02:00"
+        },
+        {
             "id": "https://jokiv.fi/ohjelmointi-jatkuu/",
             "url": "https://jokiv.fi/ohjelmointi-jatkuu/",
             "title": "Ohjelmointi jatkuu",
@@ -153,24 +171,6 @@
             ],
             "date_published": "2023-06-27T14:59:00+03:00",
             "date_modified": "2023-07-02T01:09:45+03:00"
-        },
-        {
-            "id": "https://jokiv.fi/opettamisesta/",
-            "url": "https://jokiv.fi/opettamisesta/",
-            "title": "Opettamisesta",
-            "summary": "<p>Ajattelin muutamien katsojien kommentteja siitä, että voisin opettaa asioita ja he olisivat jopa valmiita tukemaan sitä taloudellisesti. Tällä hetkellä kun ajattelee, niin minulla on kyllä <a href=\"https://ko-fi.com/jokiv\" target=\"_blank\" rel=\"noopener noreferrer\">ko-fi</a>.</p>\n",
-            "content_html": "<p>Ajattelin muutamien katsojien kommentteja siitä, että voisin opettaa asioita ja he olisivat jopa valmiita tukemaan sitä taloudellisesti. Tällä hetkellä kun ajattelee, niin minulla on kyllä <a href=\"https://ko-fi.com/jokiv\" target=\"_blank\" rel=\"noopener noreferrer\">ko-fi</a>.</p>\n\n<p>Ihmiset, jotka ovat tukeneet minua siellä, ovat mahdolistaneet minua auttamaan, opastamaan, etsimään tietoa verkosta ja jopa koodaamaan esimerkkikoodin pätkiä heille. </p>\n<p>En pysty omistautumaan pelkästään opettamiseen, varsinkaan, kun mitään aiheita ei ole pyydetty. Eikä tällä maksa kaikkia maksuja. <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">En aio pitää luokkahuonetta.</span></p>\n<p>Sitten kun mahdolisuudet ovat paremmat, aion laajentaa tätä asiaa. Jos tämä tuottaisi enemmän, voisin ihan tätä varten panostaa enemmän sisätöä.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "opettaminen",
-                   "mene töihin",
-                   "laitteet",
-                   "ko-fi"
-            ],
-            "date_published": "2023-06-12T16:30:00+03:00",
-            "date_modified": "2023-07-03T13:02:49+03:00"
         }
     ]
 }

@@ -172,6 +172,9 @@
 <loc>https://jokiv.fi/tags/blogi/</loc>
 </url>
 <url>
+<loc>https://jokiv.fi/tags/c64/</loc>
+</url>
+<url>
 <loc>https://jokiv.fi/tags/chat/</loc>
 </url>
 <url>
@@ -212,6 +215,9 @@
 </url>
 <url>
 <loc>https://jokiv.fi/tags/nintendo/</loc>
+</url>
+<url>
+<loc>https://jokiv.fi/tags/ohjelmointi/</loc>
 </url>
 <url>
 <loc>https://jokiv.fi/tags/opettaminen/</loc>
@@ -260,6 +266,14 @@
 </url>
 <url>
 <loc>https://jokiv.fi/tags/yritae-edes/</loc>
+</url>
+<url>
+<loc>https://jokiv.fi/tilasin-kirjan/</loc>
+<lastmod>2023-12-30T14:19:32+02:00</lastmod>
+<image:image>
+<image:loc>https://jokiv.fi/media/posts/65/c64prg.png</image:loc>
+<image:title><![CDATA[Commodore 64 Programmer's Reference Guide]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://jokiv.fi/twitch-ja-sata-subaajaa/</loc>

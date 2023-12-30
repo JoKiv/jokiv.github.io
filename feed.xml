@@ -3,12 +3,41 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-12-08T19:17:35+02:00</updated>
+    <updated>2023-12-30T14:19:32+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Tilasin kirjan</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/tilasin-kirjan/"/>
+        <id>https://jokiv.fi/tilasin-kirjan/</id>
+            <category term="retro"/>
+            <category term="ohjelmointi"/>
+            <category term="kirja"/>
+            <category term="c64"/>
+
+        <updated>2023-12-30T14:19:32+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Tuli tilattua "Commodore 64 Programmer's Reference Guide". Toki kyseinen löytyy kaivamalla <em>archive.org</em> ainaki <a href="https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore" title="Commodore C64 Manual: Commodore 64 Programmers Reference Guide" target="_blank" rel="nofollow noopener noreferrer">parina</a> <a href="https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore_a/" title="Commodore C64 Manual: Commodore 64 Programmers Reference Guide (alt)" target="_blank" rel="nofollow noopener noreferrer">versiona</a>.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tuli tilattua "Commodore 64 Programmer's Reference Guide". Toki kyseinen löytyy kaivamalla <em>archive.org</em> ainaki <a href="https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore" title="Commodore C64 Manual: Commodore 64 Programmers Reference Guide" target="_blank" rel="nofollow noopener noreferrer">parina</a> <a href="https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore_a/" title="Commodore C64 Manual: Commodore 64 Programmers Reference Guide (alt)" target="_blank" rel="nofollow noopener noreferrer">versiona</a>.</p>
+
+<p>Kirjan fyysiseen versioon minun on ehkä helpompi keskittyä. Jospa tämä vain innostaisi oppimaan enemmän. Ostoslistalla on tietysti muitakin suositeltavia kirjoja. Saa nähdä missä vaiheessa tilaan niitä. Pitäisi saapua tammikuun lopussa.</p>
+<figure class="post__image align-center"><img loading="lazy"  src="https://jokiv.fi/media/posts/65/c64prg.png" alt="Commodore 64 Programmer's Reference Guide" width="265" height="400" sizes="(max-width: 48em) 100vw, 768px" srcset="https://jokiv.fi/media/posts/65/responsive/c64prg-xs.png 300w ,https://jokiv.fi/media/posts/65/responsive/c64prg-sm.png 480w ,https://jokiv.fi/media/posts/65/responsive/c64prg-md.png 768w ,https://jokiv.fi/media/posts/65/responsive/c64prg-lg.png 1024w ,https://jokiv.fi/media/posts/65/responsive/c64prg-xl.png 1360w ,https://jokiv.fi/media/posts/65/responsive/c64prg-2xl.png 1600w"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ohjelmointi jatkuu</title>
         <author>
@@ -246,35 +275,6 @@
 
 <p>Vaikka osa vaatimuksista sen jälkeen täyttyisi, katsontamäärät jäävät silti vielä niin vähäiselle tasolle, että asiaan muutosta ei vielä tule. Todennäköisesti myöhemmin.</p>
 <p>Päivitys: kirjoitusvirheen korjaaminen.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Opettamisesta</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/opettamisesta/"/>
-        <id>https://jokiv.fi/opettamisesta/</id>
-            <category term="opettaminen"/>
-            <category term="mene töihin"/>
-            <category term="laitteet"/>
-            <category term="ko-fi"/>
-
-        <updated>2023-07-03T13:02:49+03:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Ajattelin muutamien katsojien kommentteja siitä, että voisin opettaa asioita ja he olisivat jopa valmiita tukemaan sitä taloudellisesti. Tällä hetkellä kun ajattelee, niin minulla on kyllä <a href="https://ko-fi.com/jokiv" target="_blank" rel="noopener noreferrer">ko-fi</a>.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Ajattelin muutamien katsojien kommentteja siitä, että voisin opettaa asioita ja he olisivat jopa valmiita tukemaan sitä taloudellisesti. Tällä hetkellä kun ajattelee, niin minulla on kyllä <a href="https://ko-fi.com/jokiv" target="_blank" rel="noopener noreferrer">ko-fi</a>.</p>
-
-<p>Ihmiset, jotka ovat tukeneet minua siellä, ovat mahdolistaneet minua auttamaan, opastamaan, etsimään tietoa verkosta ja jopa koodaamaan esimerkkikoodin pätkiä heille. </p>
-<p>En pysty omistautumaan pelkästään opettamiseen, varsinkaan, kun mitään aiheita ei ole pyydetty. Eikä tällä maksa kaikkia maksuja. <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">En aio pitää luokkahuonetta.</span></p>
-<p>Sitten kun mahdolisuudet ovat paremmat, aion laajentaa tätä asiaa. Jos tämä tuottaisi enemmän, voisin ihan tätä varten panostaa enemmän sisätöä.</p>
             ]]>
         </content>
     </entry>
