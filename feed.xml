@@ -3,12 +3,49 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2023-12-30T14:19:32+02:00</updated>
+    <updated>2024-01-04T21:13:14+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Hyppy tuntemattomaan</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/hyppy-tuntemattomaan-2/"/>
+        <id>https://jokiv.fi/hyppy-tuntemattomaan-2/</id>
+            <category term="windows"/>
+            <category term="mac"/>
+            <category term="laitteet"/>
+
+        <updated>2024-01-04T21:13:14+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Tuossa tuli katsottua useampien artikkelien ilmaantumista, kun Steam lopetti vanhempien Windowsien tuen 1.1.2024. Samassa syssyssä monet uutiset sitten muistuttaa, että ensi vuonna Windows&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tuossa tuli katsottua useampien artikkelien ilmaantumista, kun <a href="https://help.steampowered.com/en/faqs/view/4784-4F2B-1321-800A" target="_blank" rel="noopener noreferrer">Steam lopetti vanhempien Windowsien tuen</a> 1.1.2024.</p>
+<p>Samassa syssyssä monet uutiset sitten muistuttaa, että ensi vuonna Windows 10 kokee pitkälti samaa kohtaloa Microsoftin puolelta. Tämä varmaankin heijastuu sovelluksiin samalla tavalla, kuin ennenkin.</p>
+<blockquote>
+<p>Tämä tietokone ei tällä hetkellä täytä kaikkia Windows 11:n järjestelmävaatimuksia</p>
+</blockquote>
+<p>Toisena ongelmana on, että iso osa käyttäjistä joutuu ostamaan uuden tietokoneen, koska vaatimukset nousevat. <em><strong>Sama olisi itsellä edessä.</strong></em> Muutaman vuoden vanha kone ei välttämättä kelpaakkaan. Toki rajoituksia voi jonkunverran kiertää ja YouTubessa onkin monta "<em>millaiseen perunaan saan asennettua Win11</em>" videoita.</p>
+<p>Itse en suosittele mitään tälläistä säätämistä. Ainakaan käyttäjälle, joka ei välttämättä tiedä, mistä syystä kyseiset vaatimukset ovat olemaassa. Paljon aikaisemmin kirjoittelin, että se olisi vain turhaan asioiden lykkäämistä. Oma suositus on tutustua Linuxiin, jos kone ei Windowsiin riitä. Linux tukee sen verran vanhempiakin koneita, että on jo haasteelliseta löytää enintään 10 vuotta vanha kone, jossa toimii Windows 7/8/10 mutta ei toimisi Linux.</p>
+<blockquote>
+<p>Linuxin valintojen maailmassa suosittelen <a href="https://www.linuxmint.com/" target="_blank" rel="noopener noreferrer">Linux Mint</a>. Toki muitakin hyviä vaihtoehtoja löytyy tutustumaan uuteen järjestelmään.</p>
+</blockquote>
+<p>Tosin, kun Windows 10:lle tarjotaan maksullista tukea (myös yksityisille) niin se toivottavasti viivyttää sovellusten puolelta tuen katoamista jonku aikaa kauemmin.</p>
+<p>Omalla kohdalla muutaman sovelluksen käyttämisen tarve on pistänyt miettimään vaihtoehtoja, jotka ovat itselle "valitse paras, vaikka kaikki ovat huonoja". Windows 11 eivät vaikuta edes vaihtoehdoilta.</p>
+<p>Apple ei omiin suosikkeihin kuulu. Silti se tuntuu paremmalta ajatukselta, kuin Windows 11. "Jos siihen joskus tutustuisi." Aika on tullut, jota en koskaan ajatellut tekeväni. Hommasin sellaisen minin.</p>
+<p>Kokemuksista kirjoitan enemmän, kun on enemmän kokemusta. Muutoin saan vihaista palautetta "et vaan osaa", "lue se ** ohjekirja" ja "kato ** googlesta". Ohjekirja tosin oli vain yhden aukeaman "<em>nämä ovat näitä liittimiä</em>". Ehkä se löytyy jostain sähköisesti.</p>
+<p>Toki tässäkin näyttää olevan omat ongelmansa, mutta katsoa miten mennään. Muutama ongelma on jo selätetty. Katsella, miten menee.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tilasin kirjan</title>
         <author>
@@ -250,31 +287,6 @@
 
 <p>Hieman yli tunti <a href="https://en.wikipedia.org/wiki/Out_Run" target="_blank" rel="nofollow noopener noreferrer">Out Runia</a>. Vaikka en mihinkään ollut ilmoitellut, kävi siellä pari katsojaa. Jäi selanen mielikuva siitä, että sinne saatan jatkaa aina välistä jotain pientä.</p>
 <p>Ainoa outous tuntui olevan, ettei siellä ole kaikkien vähän vanhempien pelien omia kategorioita, mutta onneksi voi laittaa "Retro games".</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>YouTube, muutoksia tulossa?</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/youtube-muutoksia-tuossa/"/>
-        <id>https://jokiv.fi/youtube-muutoksia-tuossa/</id>
-            <category term="youtube"/>
-
-        <updated>2023-07-02T01:09:45+03:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Moni video vihjaa, että youtube keventäisi vaatimuksia tulevaisuudessa kumppanuuden suhteen. Vielä itsellä ei näy mitään muutoksia, että varmaan kokeilevat muualla ensin.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Moni video vihjaa, että youtube keventäisi vaatimuksia tulevaisuudessa kumppanuuden suhteen. Vielä itsellä ei näy mitään muutoksia, että varmaan kokeilevat muualla ensin.</p>
-
-<p>Vaikka osa vaatimuksista sen jälkeen täyttyisi, katsontamäärät jäävät silti vielä niin vähäiselle tasolle, että asiaan muutosta ei vielä tule. Todennäköisesti myöhemmin.</p>
-<p>Päivitys: kirjoitusvirheen korjaaminen.</p>
             ]]>
         </content>
     </entry>
