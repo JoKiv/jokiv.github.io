@@ -3,12 +3,39 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2024-01-04T21:13:14+02:00</updated>
+    <updated>2024-01-29T03:25:23+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Kirja saapui</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/kirja-saapui/"/>
+        <id>https://jokiv.fi/kirja-saapui/</id>
+            <category term="retro"/>
+            <category term="ohjelmointi"/>
+            <category term="kirja"/>
+            <category term="c64"/>
+
+        <updated>2024-01-29T03:25:23+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Kuten aikaisemmin mainitsin, <a href="https://jokiv.fi/tilasin-kirjan/" target="_blank" rel="noopener noreferrer">tilasin kirjan</a>. Kirja saapui tänään. </p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Kuten aikaisemmin mainitsin, <a href="https://jokiv.fi/tilasin-kirjan/" target="_blank" rel="noopener noreferrer">tilasin kirjan</a>. Kirja saapui tänään. </p>
+
+<figure class="post__image"><img loading="lazy"  src="https://jokiv.fi/media/posts/68/5bf90fe9-153e-4206-82df-38fc22f4fd80.jpg" alt="Commodore 64: Programmer's reference guide" width="800" height="1422" sizes="(max-width: 48em) 100vw, 768px" srcset="https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-xs.jpg 300w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-sm.jpg 480w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-md.jpg 768w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-lg.jpg 1024w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-xl.jpg 1360w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hyppy tuntemattomaan</title>
         <author>
@@ -260,33 +287,6 @@
                 <p>Tuossa aikanaan kirjoittelin <a href="https://jokiv.fi/internet-radio/" target="_blank" rel="noopener noreferrer">ajatuksia internet radiosta</a> (enemmänkin joskus, mutta ne ovat kadonneet) ja katsojan komentista innostuin miettimään, jos vaikka sellaisen laittaisi tuohon <a href="https://jokiv.fi/alpine-linux-testausta/" target="_blank" rel="noopener noreferrer">miniläppärille</a>, onhan siinä jo käyttiski vamiina.</p>
 
 <p>Jossain vaiheessa tulee soimaan jotain, josta ei lisenssiongelmia tule. Katsella miten jatkuu myöhemmin.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Potkua striimeihin</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/potkua-striimeihin/"/>
-        <id>https://jokiv.fi/potkua-striimeihin/</id>
-            <category term="retro"/>
-            <category term="pelit"/>
-            <category term="kick"/>
-
-        <updated>2023-08-06T14:34:31+03:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Tuli ihan satunnaisesti testattua kick palveluun striimaamista, ihan hetken mielijohteesta. "öinen salainen striimi", kuten eräs katsoja huumorilla sanoi.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Tuli ihan satunnaisesti testattua kick palveluun striimaamista, ihan hetken mielijohteesta. "öinen salainen striimi", kuten eräs katsoja huumorilla sanoi.</p>
-
-<p>Hieman yli tunti <a href="https://en.wikipedia.org/wiki/Out_Run" target="_blank" rel="nofollow noopener noreferrer">Out Runia</a>. Vaikka en mihinkään ollut ilmoitellut, kävi siellä pari katsojaa. Jäi selanen mielikuva siitä, että sinne saatan jatkaa aina välistä jotain pientä.</p>
-<p>Ainoa outous tuntui olevan, ettei siellä ole kaikkien vähän vanhempien pelien omia kategorioita, mutta onneksi voi laittaa "Retro games".</p>
             ]]>
         </content>
     </entry>

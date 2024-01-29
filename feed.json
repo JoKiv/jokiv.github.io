@@ -10,6 +10,24 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/kirja-saapui/",
+            "url": "https://jokiv.fi/kirja-saapui/",
+            "title": "Kirja saapui",
+            "summary": "<p>Kuten aikaisemmin mainitsin, <a href=\"https://jokiv.fi/tilasin-kirjan/\" target=\"_blank\" rel=\"noopener noreferrer\">tilasin kirjan</a>. Kirja saapui tänään. </p>\n",
+            "content_html": "<p>Kuten aikaisemmin mainitsin, <a href=\"https://jokiv.fi/tilasin-kirjan/\" target=\"_blank\" rel=\"noopener noreferrer\">tilasin kirjan</a>. Kirja saapui tänään. </p>\n\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jokiv.fi/media/posts/68/5bf90fe9-153e-4206-82df-38fc22f4fd80.jpg\" alt=\"Commodore 64: Programmer's reference guide\" width=\"800\" height=\"1422\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-xs.jpg 300w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-sm.jpg 480w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-md.jpg 768w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-lg.jpg 1024w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-xl.jpg 1360w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "retro",
+                   "ohjelmointi",
+                   "kirja",
+                   "c64"
+            ],
+            "date_published": "2024-01-26T18:30:00+02:00",
+            "date_modified": "2024-01-29T03:25:23+02:00"
+        },
+        {
             "id": "https://jokiv.fi/hyppy-tuntemattomaan-2/",
             "url": "https://jokiv.fi/hyppy-tuntemattomaan-2/",
             "title": "Hyppy tuntemattomaan",
@@ -156,23 +174,6 @@
             ],
             "date_published": "2023-07-03T13:16:34+03:00",
             "date_modified": "2023-07-03T13:18:21+03:00"
-        },
-        {
-            "id": "https://jokiv.fi/potkua-striimeihin/",
-            "url": "https://jokiv.fi/potkua-striimeihin/",
-            "title": "Potkua striimeihin",
-            "summary": "<p>Tuli ihan satunnaisesti testattua kick palveluun striimaamista, ihan hetken mielijohteesta. \"öinen salainen striimi\", kuten eräs katsoja huumorilla sanoi.</p>\n",
-            "content_html": "<p>Tuli ihan satunnaisesti testattua kick palveluun striimaamista, ihan hetken mielijohteesta. \"öinen salainen striimi\", kuten eräs katsoja huumorilla sanoi.</p>\n\n<p>Hieman yli tunti <a href=\"https://en.wikipedia.org/wiki/Out_Run\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Out Runia</a>. Vaikka en mihinkään ollut ilmoitellut, kävi siellä pari katsojaa. Jäi selanen mielikuva siitä, että sinne saatan jatkaa aina välistä jotain pientä.</p>\n<p>Ainoa outous tuntui olevan, ettei siellä ole kaikkien vähän vanhempien pelien omia kategorioita, mutta onneksi voi laittaa \"Retro games\".</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "retro",
-                   "pelit",
-                   "kick"
-            ],
-            "date_published": "2023-07-03T12:57:27+03:00",
-            "date_modified": "2023-08-06T14:34:31+03:00"
         }
     ]
 }
