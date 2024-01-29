@@ -3,7 +3,7 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2024-01-29T03:25:23+02:00</updated>
+    <updated>2024-01-29T03:28:42+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -21,16 +21,16 @@
             <category term="kirja"/>
             <category term="c64"/>
 
-        <updated>2024-01-29T03:25:23+02:00</updated>
+        <updated>2024-01-29T03:28:42+02:00</updated>
             <summary>
                 <![CDATA[
-                    <p>Kuten aikaisemmin mainitsin, <a href="https://jokiv.fi/tilasin-kirjan/" target="_blank" rel="noopener noreferrer">tilasin kirjan</a>. Kirja saapui tänään. </p>
+                    <p>Kuten aikaisemmin mainitsin, <a href="https://jokiv.fi/tilasin-kirjan/" target="_blank" rel="noopener noreferrer">tilasin kirjan</a>. Kirja saapui tänään. Tämän lisäksi ainakin pitäisi löytää <a href="https://archive.org/details/Commodore_64_Users_Guide_1984_Commodore" target="_blank" rel="noopener noreferrer">Commmodore 64: User's guide</a> ja muutama muu.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Kuten aikaisemmin mainitsin, <a href="https://jokiv.fi/tilasin-kirjan/" target="_blank" rel="noopener noreferrer">tilasin kirjan</a>. Kirja saapui tänään. </p>
+                <p>Kuten aikaisemmin mainitsin, <a href="https://jokiv.fi/tilasin-kirjan/" target="_blank" rel="noopener noreferrer">tilasin kirjan</a>. Kirja saapui tänään. Tämän lisäksi ainakin pitäisi löytää <a href="https://archive.org/details/Commodore_64_Users_Guide_1984_Commodore" target="_blank" rel="noopener noreferrer">Commmodore 64: User's guide</a> ja muutama muu.</p>
 
 <figure class="post__image"><img loading="lazy"  src="https://jokiv.fi/media/posts/68/5bf90fe9-153e-4206-82df-38fc22f4fd80.jpg" alt="Commodore 64: Programmer's reference guide" width="800" height="1422" sizes="(max-width: 48em) 100vw, 768px" srcset="https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-xs.jpg 300w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-sm.jpg 480w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-md.jpg 768w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-lg.jpg 1024w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-xl.jpg 1360w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-2xl.jpg 1600w"></figure>
             ]]>
