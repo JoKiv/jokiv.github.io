@@ -3,12 +3,36 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2024-01-29T03:28:42+02:00</updated>
+    <updated>2024-03-03T16:29:54+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Takaisin tauolta</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/takaisin-tauolta/"/>
+        <id>https://jokiv.fi/takaisin-tauolta/</id>
+            <category term="youtube"/>
+            <category term="twitch"/>
+            <category term="tiktok"/>
+            <category term="kick"/>
+
+        <updated>2024-03-03T16:29:54+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Sitä piti hieman taukoa kaikesta ja piti ns. "hermoloman", vaikka mikään ei stressaa. Tauko on kuitenki aina hyvä pitää joskus. Striimit ja videot&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Sitä piti hieman taukoa kaikesta ja piti ns. "hermoloman", vaikka mikään ei stressaa. Tauko on kuitenki aina hyvä pitää joskus. Striimit ja videot jatkuvat fiiliksen mukaan.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Kirja saapui</title>
         <author>
@@ -261,32 +285,6 @@
                 <p>Olen vaihtanut PayPal-osoitteeni. Vanha osoite toimii vielä ainakin muutaman kuukauden ajan.</p>
 
 <p>Sähköpostipalvelut nostavat hintoja ja siirryn edullisempiin. Toki pyrin mahdollisuuksien mukaan edelleenojaamaan postin, joten suurempia katkoksia mihinkään ei pitäisi tulla.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Internet radiosta</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/internet-radiosta/"/>
-        <id>https://jokiv.fi/internet-radiosta/</id>
-            <category term="radio"/>
-            <category term="linux"/>
-            <category term="alpine"/>
-
-        <updated>2023-07-03T13:18:21+03:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Tuossa aikanaan kirjoittelin <a href="https://jokiv.fi/internet-radio/" target="_blank" rel="noopener noreferrer">ajatuksia internet radiosta</a> (enemmänkin joskus, mutta ne ovat kadonneet) ja katsojan komentista innostuin miettimään, jos vaikka sellaisen laittaisi tuohon <a href="https://jokiv.fi/alpine-linux-testausta/" target="_blank" rel="noopener noreferrer">miniläppärille</a>, onhan siinä jo käyttiski vamiina.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Tuossa aikanaan kirjoittelin <a href="https://jokiv.fi/internet-radio/" target="_blank" rel="noopener noreferrer">ajatuksia internet radiosta</a> (enemmänkin joskus, mutta ne ovat kadonneet) ja katsojan komentista innostuin miettimään, jos vaikka sellaisen laittaisi tuohon <a href="https://jokiv.fi/alpine-linux-testausta/" target="_blank" rel="noopener noreferrer">miniläppärille</a>, onhan siinä jo käyttiski vamiina.</p>
-
-<p>Jossain vaiheessa tulee soimaan jotain, josta ei lisenssiongelmia tule. Katsella miten jatkuu myöhemmin.</p>
             ]]>
         </content>
     </entry>
