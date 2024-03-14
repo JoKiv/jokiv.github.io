@@ -3,12 +3,36 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2024-03-03T16:29:54+02:00</updated>
+    <updated>2024-03-14T15:40:18+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Harkinnassa Steam Deck Docking Station</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/harkinnassa-steam-deck-docking-station/"/>
+        <id>https://jokiv.fi/harkinnassa-steam-deck-docking-station/</id>
+            <category term="steam deck"/>
+
+        <updated>2024-03-14T15:00:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Ajattelin säästää <a href="https://store.steampowered.com/steamdeck" target="_blank" rel="noopener noreferrer">Steam Deckin</a> <a href="https://store.steampowered.com/steamdeckdock" target="_blank" rel="noopener noreferrer">Docking Stationiin</a>. Nykyinen ratkaisu tuntuu pätkivän hieman ja nykyhinta tuolle dockille on edullisempi, kuin uusi nykyisen kamppeen ostaminen.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ajattelin säästää <a href="https://store.steampowered.com/steamdeck" target="_blank" rel="noopener noreferrer">Steam Deckin</a> <a href="https://store.steampowered.com/steamdeckdock" target="_blank" rel="noopener noreferrer">Docking Stationiin</a>. Nykyinen ratkaisu tuntuu pätkivän hieman ja nykyhinta tuolle dockille on edullisempi, kuin uusi nykyisen kamppeen ostaminen.</p>
+
+<p>Kuitenki jos tuon dockin hommaa, täytyy miettiä noiden nykyisten ulkoisten ohjaimien kuntoa. Dock ku on hankalampi pitää pelatessa kädessä, sitä ei ole siihen suunniteltu. Vaihtoehtoja kuitenki löytyy, eikä tietääkseni liian heikossa kunnossa ole nuo vuosia sitten hommatut ohjaimet.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Takaisin tauolta</title>
         <author>
@@ -21,7 +45,7 @@
             <category term="tiktok"/>
             <category term="kick"/>
 
-        <updated>2024-03-03T16:29:54+02:00</updated>
+        <updated>2024-03-03T12:00:00+02:00</updated>
             <summary>
                 <![CDATA[
                     Sitä piti hieman taukoa kaikesta ja piti ns. "hermoloman", vaikka mikään ei stressaa. Tauko on kuitenki aina hyvä pitää joskus. Striimit ja videot&hellip;
@@ -45,7 +69,7 @@
             <category term="kirja"/>
             <category term="c64"/>
 
-        <updated>2024-01-29T03:28:42+02:00</updated>
+        <updated>2024-01-26T18:30:00+02:00</updated>
             <summary>
                 <![CDATA[
                     <p>Kuten aikaisemmin mainitsin, <a href="https://jokiv.fi/tilasin-kirjan/" target="_blank" rel="noopener noreferrer">tilasin kirjan</a>. Kirja saapui tänään. Tämän lisäksi ainakin pitäisi löytää <a href="https://archive.org/details/Commodore_64_Users_Guide_1984_Commodore" target="_blank" rel="noopener noreferrer">Commmodore 64: User's guide</a> ja muutama muu.</p>
@@ -71,7 +95,7 @@
             <category term="mac"/>
             <category term="laitteet"/>
 
-        <updated>2024-01-04T21:13:14+02:00</updated>
+        <updated>2024-01-04T09:00:00+02:00</updated>
             <summary>
                 <![CDATA[
                     Tuossa tuli katsottua useampien artikkelien ilmaantumista, kun Steam lopetti vanhempien Windowsien tuen 1.1.2024. Samassa syssyssä monet uutiset sitten muistuttaa, että ensi vuonna Windows&hellip;
@@ -109,7 +133,7 @@
             <category term="kirja"/>
             <category term="c64"/>
 
-        <updated>2023-12-30T14:19:32+02:00</updated>
+        <updated>2023-12-28T18:00:00+02:00</updated>
             <summary>
                 <![CDATA[
                     <p>Tuli tilattua "Commodore 64 Programmer's Reference Guide". Toki kyseinen löytyy kaivamalla <em>archive.org</em> ainaki <a href="https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore" title="Commodore C64 Manual: Commodore 64 Programmers Reference Guide" target="_blank" rel="nofollow noopener noreferrer">parina</a> <a href="https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore_a/" title="Commodore C64 Manual: Commodore 64 Programmers Reference Guide (alt)" target="_blank" rel="nofollow noopener noreferrer">versiona</a>.</p>
@@ -137,7 +161,7 @@
             <category term="retro"/>
             <category term="pelit"/>
 
-        <updated>2023-12-08T19:17:35+02:00</updated>
+        <updated>2023-12-08T19:15:00+02:00</updated>
             <summary>
                 <![CDATA[
                     <p>Mietin jo jonkin aikaa, julkaisisitteko maksullisen pelin. Jos pelin tuotot kuitenkin ylittäisivät tietyn rajan, pelistä tulisi avointa lähdekoodia.</p>
@@ -161,7 +185,7 @@
         <id>https://jokiv.fi/pientae-saeaetoeae/</id>
             <category term="yritä edes"/>
 
-        <updated>2023-11-20T18:16:22+02:00</updated>
+        <updated>2023-11-20T18:14:21+02:00</updated>
             <summary>
                 <![CDATA[
                     <p>Sivut kävivät alhaalla noin 15 min. Vaikka varmaan kukaan ei huomannut asiaa, komentoin syytä siitä huolimatta. </p>
@@ -189,7 +213,7 @@
             <category term="youtube"/>
             <category term="flipper zero"/>
 
-        <updated>2023-11-07T15:56:58+02:00</updated>
+        <updated>2023-11-06T18:00:00+02:00</updated>
             <summary>
                 <![CDATA[
                     <figure class="post__image align-center"><img loading="lazy"  src="https://jokiv.fi/media/posts/62/flipper.png" alt="Flipper Zero" width="640" height="331" sizes="(max-width: 48em) 100vw, 768px" srcset="https://jokiv.fi/media/posts/62/responsive/flipper-xs.png 300w ,https://jokiv.fi/media/posts/62/responsive/flipper-sm.png 480w ,https://jokiv.fi/media/posts/62/responsive/flipper-md.png 768w ,https://jokiv.fi/media/posts/62/responsive/flipper-lg.png 1024w ,https://jokiv.fi/media/posts/62/responsive/flipper-xl.png 1360w ,https://jokiv.fi/media/posts/62/responsive/flipper-2xl.png 1600w"></figure>
@@ -217,7 +241,7 @@
             <category term="youtube"/>
             <category term="twitch"/>
 
-        <updated>2023-09-22T21:31:37+03:00</updated>
+        <updated>2023-09-22T14:20:53+03:00</updated>
             <summary>
                 <![CDATA[
                     <p>Videoiden puute YouTubessa johtuu pääasiassa siitä, että "myrkylliset ihmiset" ovat alkaneet häiritsemään elämääni. Tämä vaikuttaa myös striimien aikatauluihin.</p>
@@ -242,7 +266,7 @@
             <category term="sdr"/>
             <category term="radio"/>
 
-        <updated>2023-08-04T14:41:30+03:00</updated>
+        <updated>2023-08-04T14:15:30+03:00</updated>
             <summary>
                 <![CDATA[
                     <p class="align-left">Tuli edullisesti hommattua amazonista SDR-tikku. Vaikka todennäköisesti kyseinen tikku on vähemmän tai enemmän kloonitikku, toimii se ainakin radion kuuntelussa. Tätä testaamista ei tule sekoittaa aikaisempaan <a href="https://jokiv.fi/internet-radiosta/" target="_blank" rel="noopener noreferrer">internet radion</a> tekemiseen. Tämä on ihan erillinen asia.</p>
@@ -260,31 +284,6 @@
 <p class="align-left">Laitoin myös käyttäjän ryhmään <code>video</code>. En varma ole onko se radion kuunteluun tarpeellista, mutta <a href="https://www.videolan.org/" target="_blank" rel="noopener noreferrer">vlc</a> ainakin tykkäsi skannata sen jälkeen DVB-T signaaleja.</p>
 <p class="align-left">Koska tämä olisi kestänyt hieman (yli 25 min arvion mukaan) pidempään, en alkanut testaaaman sen toivuutta. Varsinkaan mun yksinkertaisella antennilla, jolla ei välttämättä mitään olisi löytynyt.</p>
 <p class="align-left">En saanut samoilla ohjeilla suoraan toimimaan <a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer">arch linuxilla</a>, mutta <a href="https://linuxmint.com/" target="_blank" rel="noopener noreferrer">mint</a> löysi aika laitteen suoraan. Uskoisin archin haluavan udev määrityksiä ja se voisi toimia. Tämä kuitenkin riittää minulle tällä hetkellä.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>PayPal ja sähköpostin osoite</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/paypal-osoite/"/>
-        <id>https://jokiv.fi/paypal-osoite/</id>
-            <category term="paypal"/>
-            <category term="ko-fi"/>
-
-        <updated>2023-08-06T14:38:47+03:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Olen vaihtanut PayPal-osoitteeni. Vanha osoite toimii vielä ainakin muutaman kuukauden ajan.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Olen vaihtanut PayPal-osoitteeni. Vanha osoite toimii vielä ainakin muutaman kuukauden ajan.</p>
-
-<p>Sähköpostipalvelut nostavat hintoja ja siirryn edullisempiin. Toki pyrin mahdollisuuksien mukaan edelleenojaamaan postin, joten suurempia katkoksia mihinkään ei pitäisi tulla.</p>
             ]]>
         </content>
     </entry>
