@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/airtag-testiae/",
+            "url": "https://jokiv.fi/airtag-testiae/",
+            "title": "AirTag tutustumista",
+            "summary": "<p>Hommasin Applen <a href=\"https://fi.wikipedia.org/wiki/AirTag\" title=\"AirTag Wikipedia\" target=\"_blank\" rel=\"noopener noreferrer\">AirTagin</a>. Ajatuksena tutustua, mitä tuolla keksisi tehdä.</p>\n",
+            "content_html": "<p>Hommasin Applen <a href=\"https://fi.wikipedia.org/wiki/AirTag\" title=\"AirTag Wikipedia\" target=\"_blank\" rel=\"noopener noreferrer\">AirTagin</a>. Ajatuksena tutustua, mitä tuolla keksisi tehdä.</p>\n\n<p>Toki ajatuksena kävi lähettää se jonnekkin postissa ja seurata lähetystä. Youtubessa on näitä videoita enemmän kuin tarpeeksi. Viimestään silloin, kun jossain kauempana käyn, tulee laitettua tuo tavaroiden sekaan.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "youtube",
+                   "airtag"
+            ],
+            "date_published": "2024-03-20T12:00:00+02:00",
+            "date_modified": "2024-03-22T11:13:48+02:00"
+        },
+        {
             "id": "https://jokiv.fi/harkinnassa-steam-deck-docking-station/",
             "url": "https://jokiv.fi/harkinnassa-steam-deck-docking-station/",
             "title": "Harkinnassa Steam Deck Docking Station",
@@ -158,22 +174,6 @@
             ],
             "date_published": "2023-09-22T14:20:53+03:00",
             "date_modified": "2023-09-22T21:31:37+03:00"
-        },
-        {
-            "id": "https://jokiv.fi/sdr-ja-radion-kuuntelu/",
-            "url": "https://jokiv.fi/sdr-ja-radion-kuuntelu/",
-            "title": "SDR ja radion kuuntelu",
-            "summary": "<p class=\"align-left\">Tuli edullisesti hommattua amazonista SDR-tikku. Vaikka todennäköisesti kyseinen tikku on vähemmän tai enemmän kloonitikku, toimii se ainakin radion kuuntelussa. Tätä testaamista ei tule sekoittaa aikaisempaan <a href=\"https://jokiv.fi/internet-radiosta/\" target=\"_blank\" rel=\"noopener noreferrer\">internet radion</a> tekemiseen. Tämä on ihan erillinen asia.</p>\n",
-            "content_html": "<p class=\"align-left\">Tuli edullisesti hommattua amazonista SDR-tikku. Vaikka todennäköisesti kyseinen tikku on vähemmän tai enemmän kloonitikku, toimii se ainakin radion kuuntelussa. Tätä testaamista ei tule sekoittaa aikaisempaan <a href=\"https://jokiv.fi/internet-radiosta/\" target=\"_blank\" rel=\"noopener noreferrer\">internet radion</a> tekemiseen. Tämä on ihan erillinen asia.</p>\n\n<figure class=\"post__image align-left\"><img loading=\"lazy\"  src=\"https://jokiv.fi/media/posts/60/sdr.jpg\" alt=\"SDR-usb tikku\" width=\"800\" height=\"711\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://jokiv.fi/media/posts/60/responsive/sdr-xs.jpg 300w ,https://jokiv.fi/media/posts/60/responsive/sdr-sm.jpg 480w ,https://jokiv.fi/media/posts/60/responsive/sdr-md.jpg 768w ,https://jokiv.fi/media/posts/60/responsive/sdr-lg.jpg 1024w ,https://jokiv.fi/media/posts/60/responsive/sdr-xl.jpg 1360w ,https://jokiv.fi/media/posts/60/responsive/sdr-2xl.jpg 1600w\"></figure>\n<p class=\"align-left\">Pääasiassa tikun toimintaa jumi ajuri, joka piti estää toimimasta. Tähän netistä löysin ohjeen, joka auttoi. Luodaan tiedosto <code>/etc/modprobe.d/blacklist-rtl.conf</code>, jonka sisällöksi laitettiin seuraava teksti.</p>\n<pre>blacklist dvb_usb_rtl28xxu</pre>\n<p class=\"align-left\">Tämän jälkeen vain rebootata kone ja <a href=\"https://github.com/gqrx-sdr/gqrx\" target=\"_blank\" rel=\"noopener noreferrer\">gqrx</a> löysi laitteen. </p>\n<p class=\"align-left\">Laitoin myös käyttäjän ryhmään <code>video</code>. En varma ole onko se radion kuunteluun tarpeellista, mutta <a href=\"https://www.videolan.org/\" target=\"_blank\" rel=\"noopener noreferrer\">vlc</a> ainakin tykkäsi skannata sen jälkeen DVB-T signaaleja.</p>\n<p class=\"align-left\">Koska tämä olisi kestänyt hieman (yli 25 min arvion mukaan) pidempään, en alkanut testaaaman sen toivuutta. Varsinkaan mun yksinkertaisella antennilla, jolla ei välttämättä mitään olisi löytynyt.</p>\n<p class=\"align-left\">En saanut samoilla ohjeilla suoraan toimimaan <a href=\"https://archlinux.org/\" target=\"_blank\" rel=\"noopener noreferrer\">arch linuxilla</a>, mutta <a href=\"https://linuxmint.com/\" target=\"_blank\" rel=\"noopener noreferrer\">mint</a> löysi aika laitteen suoraan. Uskoisin archin haluavan udev määrityksiä ja se voisi toimia. Tämä kuitenkin riittää minulle tällä hetkellä.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "sdr",
-                   "radio"
-            ],
-            "date_published": "2023-08-04T14:15:30+03:00",
-            "date_modified": "2023-08-04T14:41:30+03:00"
         }
     ]
 }
