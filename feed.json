@@ -10,6 +10,24 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/pieniae-ja-pidempiae-taukoja/",
+            "url": "https://jokiv.fi/pieniae-ja-pidempiae-taukoja/",
+            "title": "Pieniä ja pidempiä taukoja",
+            "summary": "<p>Striimeissä on ollu pidempiä ja lyhyempiä taukoja. Inspiraatio hieman tipahti useamman vastoinkäymisen kanssa. En mene tarkemmin siihen, mitkä olivat häiritsevät tekijät. </p>\n",
+            "content_html": "<p>Striimeissä on ollu pidempiä ja lyhyempiä taukoja. Inspiraatio hieman tipahti useamman vastoinkäymisen kanssa. En mene tarkemmin siihen, mitkä olivat häiritsevät tekijät. </p>\n\n<p>Striimin suhteen ajatuksena on ollut pyrkiä inspiroimaan itseäni tai sitten odotella kesää ja striimata enemmän ulkona. Katsoa nyt kumpi tulee ensin. </p>\n<p>Discordissa on tullut striimattua ajoittain. Ehkä se siitä lähtee Twitchin ja YouTuben puolelle jossain välissä. Tiedän, että useampi kyselee välistä, että missä striimit viipyvät. Vaikka tällä hetkellä ns. kevyeen striimaamiseen (ei suuria efektejä ja ilman kameraa) minulla on mahdollisuudet varmaan vuoksi eteenpäin, taukoja joutuu joskus vaan pitämään. </p>\n<p>Suunnitelmissa muuttaa hieman setuppia ulkona striimaamisen suhteen. Varallisuutta vaatisi ja sitä ei oikein satu olemaan. Katsellaan saako setuppiin muutosta kesällä tai loppuvuodesta. </p>\n<p>Nykyisen puhelimen tehot eivät sovi striimaamiseen. Edullisuuteen vaikutti varallisuuden puute. Jotku saattavat muistaa, että minulla oli toinen puhelin, jolla striimasin enemmän. Sen puhelimen akku ei pidä virtaa striimaamiseen.</p>\n<p>Virtapankit ovat näyttäneet vanhuuden merkkejä jo pidemmän aikaa. Ovat olleet käytössä muuallakin, kuin striimaamisessa. Ostettu edellisen vuoden aikana, ennen ekaa assembly striimiä. Testailin silloin sitä ulkona striimaamista. Assemblyssä kävin 2018 ja 2019.</p>\n<p>Ei olla vanhainkodissa striimaamassa, joten ei voi vielä lopettaa 😄</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "youtube",
+                   "twitch",
+                   "laitteet",
+                   "discord"
+            ],
+            "date_published": "2024-04-28T16:39:44+03:00",
+            "date_modified": "2024-04-28T16:39:44+03:00"
+        },
+        {
             "id": "https://jokiv.fi/airtag-testiae/",
             "url": "https://jokiv.fi/airtag-testiae/",
             "title": "AirTag tutustumista",
@@ -158,22 +176,6 @@
             ],
             "date_published": "2023-11-06T18:00:00+02:00",
             "date_modified": "2023-11-07T15:56:58+02:00"
-        },
-        {
-            "id": "https://jokiv.fi/asiat-ovat-hieman-tauolla/",
-            "url": "https://jokiv.fi/asiat-ovat-hieman-tauolla/",
-            "title": "Asiat ovat hieman tauolla",
-            "summary": "<p>Videoiden puute YouTubessa johtuu pääasiassa siitä, että \"myrkylliset ihmiset\" ovat alkaneet häiritsemään elämääni. Tämä vaikuttaa myös striimien aikatauluihin.</p>\n",
-            "content_html": "<p>Videoiden puute YouTubessa johtuu pääasiassa siitä, että \"myrkylliset ihmiset\" ovat alkaneet häiritsemään elämääni. Tämä vaikuttaa myös striimien aikatauluihin.</p>\n\n<p>Asia on hallinnassa. Se vain vie aikaa. </p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "youtube",
-                   "twitch"
-            ],
-            "date_published": "2023-09-22T14:20:53+03:00",
-            "date_modified": "2023-09-22T21:31:37+03:00"
         }
     ]
 }

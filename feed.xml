@@ -3,12 +3,44 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2024-03-22T11:13:48+02:00</updated>
+    <updated>2024-04-28T16:39:44+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Pieniä ja pidempiä taukoja</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/pieniae-ja-pidempiae-taukoja/"/>
+        <id>https://jokiv.fi/pieniae-ja-pidempiae-taukoja/</id>
+            <category term="youtube"/>
+            <category term="twitch"/>
+            <category term="laitteet"/>
+            <category term="discord"/>
+
+        <updated>2024-04-28T16:39:44+03:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Striimeissä on ollu pidempiä ja lyhyempiä taukoja. Inspiraatio hieman tipahti useamman vastoinkäymisen kanssa. En mene tarkemmin siihen, mitkä olivat häiritsevät tekijät. </p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Striimeissä on ollu pidempiä ja lyhyempiä taukoja. Inspiraatio hieman tipahti useamman vastoinkäymisen kanssa. En mene tarkemmin siihen, mitkä olivat häiritsevät tekijät. </p>
+
+<p>Striimin suhteen ajatuksena on ollut pyrkiä inspiroimaan itseäni tai sitten odotella kesää ja striimata enemmän ulkona. Katsoa nyt kumpi tulee ensin. </p>
+<p>Discordissa on tullut striimattua ajoittain. Ehkä se siitä lähtee Twitchin ja YouTuben puolelle jossain välissä. Tiedän, että useampi kyselee välistä, että missä striimit viipyvät. Vaikka tällä hetkellä ns. kevyeen striimaamiseen (ei suuria efektejä ja ilman kameraa) minulla on mahdollisuudet varmaan vuoksi eteenpäin, taukoja joutuu joskus vaan pitämään. </p>
+<p>Suunnitelmissa muuttaa hieman setuppia ulkona striimaamisen suhteen. Varallisuutta vaatisi ja sitä ei oikein satu olemaan. Katsellaan saako setuppiin muutosta kesällä tai loppuvuodesta. </p>
+<p>Nykyisen puhelimen tehot eivät sovi striimaamiseen. Edullisuuteen vaikutti varallisuuden puute. Jotku saattavat muistaa, että minulla oli toinen puhelin, jolla striimasin enemmän. Sen puhelimen akku ei pidä virtaa striimaamiseen.</p>
+<p>Virtapankit ovat näyttäneet vanhuuden merkkejä jo pidemmän aikaa. Ovat olleet käytössä muuallakin, kuin striimaamisessa. Ostettu edellisen vuoden aikana, ennen ekaa assembly striimiä. Testailin silloin sitä ulkona striimaamista. Assemblyssä kävin 2018 ja 2019.</p>
+<p>Ei olla vanhainkodissa striimaamassa, joten ei voi vielä lopettaa 😄</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>AirTag tutustumista</title>
         <author>
@@ -253,31 +285,6 @@
 
 <p>Olen tähän mennessä tutkinut, miten laitteelle käntää firmwaren ja omia ohjelmia.</p>
 <p>Kiitokset tukijoille, jotka mahdollistivat tämän hankkimisen.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Asiat ovat hieman tauolla</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/asiat-ovat-hieman-tauolla/"/>
-        <id>https://jokiv.fi/asiat-ovat-hieman-tauolla/</id>
-            <category term="youtube"/>
-            <category term="twitch"/>
-
-        <updated>2023-09-22T14:20:53+03:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Videoiden puute YouTubessa johtuu pääasiassa siitä, että "myrkylliset ihmiset" ovat alkaneet häiritsemään elämääni. Tämä vaikuttaa myös striimien aikatauluihin.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Videoiden puute YouTubessa johtuu pääasiassa siitä, että "myrkylliset ihmiset" ovat alkaneet häiritsemään elämääni. Tämä vaikuttaa myös striimien aikatauluihin.</p>
-
-<p>Asia on hallinnassa. Se vain vie aikaa. </p>
             ]]>
         </content>
     </entry>
