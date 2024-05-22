@@ -3,12 +3,36 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2024-04-28T16:39:44+03:00</updated>
+    <updated>2024-05-22T18:15:17+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Striimatessa sattuu</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/striimatessa-sattuu/"/>
+        <id>https://jokiv.fi/striimatessa-sattuu/</id>
+            <category term="youtube"/>
+
+        <updated>2024-05-22T18:15:17+03:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Pientä päivitystä maanantain striimin aikana sattuneesta kolauksesta.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Pientä päivitystä maanantain striimin aikana sattuneesta kolauksesta.</p>
+
+<p>Kuten jotkut teistä ehkä muistavat, kolautin polven alapuolelle. Vamma paranee hyvin. Uskon, että viikon loppuun mennessä en tarvitse lisähoitoa.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Pieniä ja pidempiä taukoja</title>
         <author>
@@ -257,34 +281,6 @@
 <p>Dokumentaatiossa oli ihan kommentti <em>CNAME</em> tiedostosta, että varmistaa, yms jos käyttää omaa domainia. En sitten sen tarkemmin perehtyny siihen ja ensimmäinen päivitys kadotti tuon tiedoston. Githubille se on tärkeä tiedosto ja sivuston näkyvyys kärsi. </p>
 <p>Palautettua tuon tiedoston, asia oli korjattu. Publiissa on omien tiedostojen lisääminen sinne vaan sekaan.</p>
 <p>Päivitykset tuntuvat toimivan nyt nopeammin.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Flipper Zero</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/flipper-zero/"/>
-        <id>https://jokiv.fi/flipper-zero/</id>
-            <category term="youtube"/>
-            <category term="flipper zero"/>
-
-        <updated>2023-11-06T18:00:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                    <figure class="post__image align-center"><img loading="lazy"  src="https://jokiv.fi/media/posts/62/flipper.png" alt="Flipper Zero" width="640" height="331" sizes="(max-width: 48em) 100vw, 768px" srcset="https://jokiv.fi/media/posts/62/responsive/flipper-xs.png 300w ,https://jokiv.fi/media/posts/62/responsive/flipper-sm.png 480w ,https://jokiv.fi/media/posts/62/responsive/flipper-md.png 768w ,https://jokiv.fi/media/posts/62/responsive/flipper-lg.png 1024w ,https://jokiv.fi/media/posts/62/responsive/flipper-xl.png 1360w ,https://jokiv.fi/media/posts/62/responsive/flipper-2xl.png 1600w"></figure>
-<p>Tuli hommattua <a href="https://flipperzero.one/" title="Flipper Zero" target="null">Flipper Zero</a>. Jos on kiinnostusta, voin tehdä videoita aiheesta. Striimeihin tämä saattaa ilmestyä, sitten kun on enemmän osaa ja tietää, mitä tekee.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image align-center"><img loading="lazy"  src="https://jokiv.fi/media/posts/62/flipper.png" alt="Flipper Zero" width="640" height="331" sizes="(max-width: 48em) 100vw, 768px" srcset="https://jokiv.fi/media/posts/62/responsive/flipper-xs.png 300w ,https://jokiv.fi/media/posts/62/responsive/flipper-sm.png 480w ,https://jokiv.fi/media/posts/62/responsive/flipper-md.png 768w ,https://jokiv.fi/media/posts/62/responsive/flipper-lg.png 1024w ,https://jokiv.fi/media/posts/62/responsive/flipper-xl.png 1360w ,https://jokiv.fi/media/posts/62/responsive/flipper-2xl.png 1600w"></figure>
-<p>Tuli hommattua <a href="https://flipperzero.one/" title="Flipper Zero" target="null">Flipper Zero</a>. Jos on kiinnostusta, voin tehdä videoita aiheesta. Striimeihin tämä saattaa ilmestyä, sitten kun on enemmän osaa ja tietää, mitä tekee.</p>
-
-<p>Olen tähän mennessä tutkinut, miten laitteelle käntää firmwaren ja omia ohjelmia.</p>
-<p>Kiitokset tukijoille, jotka mahdollistivat tämän hankkimisen.</p>
             ]]>
         </content>
     </entry>
