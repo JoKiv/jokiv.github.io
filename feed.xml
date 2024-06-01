@@ -3,7 +3,7 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2024-06-01T17:52:07+03:00</updated>
+    <updated>2024-06-01T17:56:34+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -30,10 +30,10 @@
             <![CDATA[
                 <p>Tänään oli striimissä testissä <a href="https://prismlive.com/" target="_blank" rel="noopener noreferrer">Prism Live Studio</a> kännykällä. </p>
 
-<p>Hyvinä puolina voi sanoa, että ohjelma toimi ongelmitta ja striimaus sujui hyvin. Myöskään mitään ylimääräisiä logoja, yms ei näkynyt lähetyskuvassa. Lähetyksen loputtua tuli pieni lopetusanimaatio, joka mainitsi softasta, joka nyt ei ole mitenkään ongelma.</p>
-<p>Myöskin hyvä lisä oli, että lähetyksen sai tallennettua puhelimelle. Iso yllätys oli, että vaikka lähetys oli 720p, niin tallenne oli 1080p. Tätä ei millään tasolla Twitchin ja YouTuben appi osaa tehdä. Jos haluat kopion, sinun tulee ladata lähetetty video, joka ei ole alkuperäisen tasolla. Jos lähetys on mutetettu joko virheellisesti tai aiheesta, et saa haettua alkuperäistä ääntä.</p>
-<p>Huonoina puolina voisi sanoa, että ainakin oletuksena (en tiedä voiko asiaa muuttaa) chatin tekstin tyyli ja väri oli valittu sellaiseksi, että jos aurinko paistoi sopivasta suunnasta, siitä ei ottanut mitään selvää. Tähän voi myös vaikuttaa puhelimen näyttö ja himmennysasetukset, joten en suoraan leimaa sovelluksen syyksi.</p>
-<p>Neutraalina puolena voi sanoa, että akun kulutus oli suurempi, kuin, mitä Twitchin oma. Tosin tässä kohtaa annan anteeksi, kun kuitenkin tallennetaan videota paremmalla laadulla puhelimelle. Youtuben omaan appiin verrattuna kulutus on suunnilleen sama, vaikka youtuben laatu jäi todella huonoksi.</p>
+<p>Hyvinä puolina voi sanoa, että ohjelma toimi ongelmitta ja striimaus sujui hyvin. Myöskään mitään ylimääräisiä logoja yms. ei näkynyt lähetyskuvassa. Lähetyksen loputtua tuli pieni lopetusanimaatio, joka mainitsi softasta, mutta tämä ei ollut mitenkään ongelma.</p>
+<p>Hyvä lisä oli myös, että lähetyksen sai tallennettua puhelimelle. Iso yllätys oli, että vaikka lähetys oli 720p, tallenne oli 1080p. Tätä Twitchin ja YouTuben sovellukset eivät osaa tehdä. Jos haluat kopion, sinun tulee ladata lähetetty video, joka ei ole alkuperäisen tasolla. Jos lähetys on mutetettu joko virheellisesti tai aiheesta, et saa haettua alkuperäistä ääntä.</p>
+<p>Huonoina puolina voisi sanoa, että ainakin oletuksena (en tiedä voiko asiaa muuttaa) chatin tekstin tyyli ja väri oli valittu sellaisiksi, että jos aurinko paistoi sopivasta suunnasta, siitä ei saanut mitään selvää. Tähän voivat myös vaikuttaa puhelimen näyttö ja himmennysasetukset, joten en suoraan leimaa sovelluksen syyksi.</p>
+<p>Neutraalina puolena voi sanoa, että akun kulutus oli suurempi kuin Twitchin oman sovelluksen. Tosin tässä kohtaa annan anteeksi, kun kuitenkin tallennetaan videota paremmalla laadulla puhelimelle. YouTuben omaan sovellukseen verrattuna kulutus on suunnilleen sama, vaikka YouTuben laatu jäi todella huonoksi.</p>
             ]]>
         </content>
     </entry>
