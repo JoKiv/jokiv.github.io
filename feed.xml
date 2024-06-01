@@ -3,12 +3,40 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2024-05-22T18:16:20+03:00</updated>
+    <updated>2024-06-01T17:52:07+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Toista striimaus softaa</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/toista-striimaus-softaa/"/>
+        <id>https://jokiv.fi/toista-striimaus-softaa/</id>
+            <category term="video"/>
+            <category term="twitch"/>
+
+        <updated>2024-06-01T17:51:56+03:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Tänään oli striimissä testissä <a href="https://prismlive.com/" target="_blank" rel="noopener noreferrer">Prism Live Studio</a> kännykällä. </p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tänään oli striimissä testissä <a href="https://prismlive.com/" target="_blank" rel="noopener noreferrer">Prism Live Studio</a> kännykällä. </p>
+
+<p>Hyvinä puolina voi sanoa, että ohjelma toimi ongelmitta ja striimaus sujui hyvin. Myöskään mitään ylimääräisiä logoja, yms ei näkynyt lähetyskuvassa. Lähetyksen loputtua tuli pieni lopetusanimaatio, joka mainitsi softasta, joka nyt ei ole mitenkään ongelma.</p>
+<p>Myöskin hyvä lisä oli, että lähetyksen sai tallennettua puhelimelle. Iso yllätys oli, että vaikka lähetys oli 720p, niin tallenne oli 1080p. Tätä ei millään tasolla Twitchin ja YouTuben appi osaa tehdä. Jos haluat kopion, sinun tulee ladata lähetetty video, joka ei ole alkuperäisen tasolla. Jos lähetys on mutetettu joko virheellisesti tai aiheesta, et saa haettua alkuperäistä ääntä.</p>
+<p>Huonoina puolina voisi sanoa, että ainakin oletuksena (en tiedä voiko asiaa muuttaa) chatin tekstin tyyli ja väri oli valittu sellaiseksi, että jos aurinko paistoi sopivasta suunnasta, siitä ei ottanut mitään selvää. Tähän voi myös vaikuttaa puhelimen näyttö ja himmennysasetukset, joten en suoraan leimaa sovelluksen syyksi.</p>
+<p>Neutraalina puolena voi sanoa, että akun kulutus oli suurempi, kuin, mitä Twitchin oma. Tosin tässä kohtaa annan anteeksi, kun kuitenkin tallennetaan videota paremmalla laadulla puhelimelle. Youtuben omaan appiin verrattuna kulutus on suunnilleen sama, vaikka youtuben laatu jäi todella huonoksi.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Striimatessa sattuu</title>
         <author>
@@ -254,33 +282,6 @@
                 <p>Mietin jo jonkin aikaa, julkaisisitteko maksullisen pelin. Jos pelin tuotot kuitenkin ylittäisivät tietyn rajan, pelistä tulisi avointa lähdekoodia.</p>
 
 <p>Koodaus on pikkuhiljaa alkanut taas ja olen testannut myös muita pelimoottoreita. Silti Godot tuntuu edelleen parhaalta vaihtoehdolta.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Pientä säätöä</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/pientae-saeaetoeae/"/>
-        <id>https://jokiv.fi/pientae-saeaetoeae/</id>
-            <category term="yritä edes"/>
-
-        <updated>2023-11-20T18:14:21+02:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Sivut kävivät alhaalla noin 15 min. Vaikka varmaan kukaan ei huomannut asiaa, komentoin syytä siitä huolimatta. </p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Sivut kävivät alhaalla noin 15 min. Vaikka varmaan kukaan ei huomannut asiaa, komentoin syytä siitä huolimatta. </p>
-
-<p>Päivitin <a href="https://getpublii.com/" title="getpulii.com" target="_blank" rel="noopener noreferrer">Publiin</a> uusimpaan versioon (kirjoitushetkellä 0.44.1) ja päivityksessä mainittiin, että github pages suora uploadaaminen tulee katoamaan myöhemmässä versiossa. Suositeltiin vaihtamaan git uploadiin. Serveri tyypin vaihto siis. Uudet tokenit ja tarkistaa asetukset.</p>
-<p>Dokumentaatiossa oli ihan kommentti <em>CNAME</em> tiedostosta, että varmistaa, yms jos käyttää omaa domainia. En sitten sen tarkemmin perehtyny siihen ja ensimmäinen päivitys kadotti tuon tiedoston. Githubille se on tärkeä tiedosto ja sivuston näkyvyys kärsi. </p>
-<p>Palautettua tuon tiedoston, asia oli korjattu. Publiissa on omien tiedostojen lisääminen sinne vaan sekaan.</p>
-<p>Päivitykset tuntuvat toimivan nyt nopeammin.</p>
             ]]>
         </content>
     </entry>

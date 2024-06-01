@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/toista-striimaus-softaa/",
+            "url": "https://jokiv.fi/toista-striimaus-softaa/",
+            "title": "Toista striimaus softaa",
+            "summary": "<p>Tänään oli striimissä testissä <a href=\"https://prismlive.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Prism Live Studio</a> kännykällä. </p>\n",
+            "content_html": "<p>Tänään oli striimissä testissä <a href=\"https://prismlive.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Prism Live Studio</a> kännykällä. </p>\n\n<p>Hyvinä puolina voi sanoa, että ohjelma toimi ongelmitta ja striimaus sujui hyvin. Myöskään mitään ylimääräisiä logoja, yms ei näkynyt lähetyskuvassa. Lähetyksen loputtua tuli pieni lopetusanimaatio, joka mainitsi softasta, joka nyt ei ole mitenkään ongelma.</p>\n<p>Myöskin hyvä lisä oli, että lähetyksen sai tallennettua puhelimelle. Iso yllätys oli, että vaikka lähetys oli 720p, niin tallenne oli 1080p. Tätä ei millään tasolla Twitchin ja YouTuben appi osaa tehdä. Jos haluat kopion, sinun tulee ladata lähetetty video, joka ei ole alkuperäisen tasolla. Jos lähetys on mutetettu joko virheellisesti tai aiheesta, et saa haettua alkuperäistä ääntä.</p>\n<p>Huonoina puolina voisi sanoa, että ainakin oletuksena (en tiedä voiko asiaa muuttaa) chatin tekstin tyyli ja väri oli valittu sellaiseksi, että jos aurinko paistoi sopivasta suunnasta, siitä ei ottanut mitään selvää. Tähän voi myös vaikuttaa puhelimen näyttö ja himmennysasetukset, joten en suoraan leimaa sovelluksen syyksi.</p>\n<p>Neutraalina puolena voi sanoa, että akun kulutus oli suurempi, kuin, mitä Twitchin oma. Tosin tässä kohtaa annan anteeksi, kun kuitenkin tallennetaan videota paremmalla laadulla puhelimelle. Youtuben omaan appiin verrattuna kulutus on suunnilleen sama, vaikka youtuben laatu jäi todella huonoksi.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "video",
+                   "twitch"
+            ],
+            "date_published": "2024-06-01T17:51:56+03:00",
+            "date_modified": "2024-06-01T17:52:07+03:00"
+        },
+        {
             "id": "https://jokiv.fi/striimatessa-sattuu/",
             "url": "https://jokiv.fi/striimatessa-sattuu/",
             "title": "Striimatessa sattuu",
@@ -160,21 +176,6 @@
             ],
             "date_published": "2023-12-08T19:15:00+02:00",
             "date_modified": "2023-12-08T19:17:35+02:00"
-        },
-        {
-            "id": "https://jokiv.fi/pientae-saeaetoeae/",
-            "url": "https://jokiv.fi/pientae-saeaetoeae/",
-            "title": "Pientä säätöä",
-            "summary": "<p>Sivut kävivät alhaalla noin 15 min. Vaikka varmaan kukaan ei huomannut asiaa, komentoin syytä siitä huolimatta. </p>\n",
-            "content_html": "<p>Sivut kävivät alhaalla noin 15 min. Vaikka varmaan kukaan ei huomannut asiaa, komentoin syytä siitä huolimatta. </p>\n\n<p>Päivitin <a href=\"https://getpublii.com/\" title=\"getpulii.com\" target=\"_blank\" rel=\"noopener noreferrer\">Publiin</a> uusimpaan versioon (kirjoitushetkellä 0.44.1) ja päivityksessä mainittiin, että github pages suora uploadaaminen tulee katoamaan myöhemmässä versiossa. Suositeltiin vaihtamaan git uploadiin. Serveri tyypin vaihto siis. Uudet tokenit ja tarkistaa asetukset.</p>\n<p>Dokumentaatiossa oli ihan kommentti <em>CNAME</em> tiedostosta, että varmistaa, yms jos käyttää omaa domainia. En sitten sen tarkemmin perehtyny siihen ja ensimmäinen päivitys kadotti tuon tiedoston. Githubille se on tärkeä tiedosto ja sivuston näkyvyys kärsi. </p>\n<p>Palautettua tuon tiedoston, asia oli korjattu. Publiissa on omien tiedostojen lisääminen sinne vaan sekaan.</p>\n<p>Päivitykset tuntuvat toimivan nyt nopeammin.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "yritä edes"
-            ],
-            "date_published": "2023-11-20T18:14:21+02:00",
-            "date_modified": "2023-11-20T18:16:22+02:00"
         }
     ]
 }

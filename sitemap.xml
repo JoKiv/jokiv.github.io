@@ -122,6 +122,9 @@
 <loc>https://jokiv.fi/page/8/</loc>
 </url>
 <url>
+<loc>https://jokiv.fi/page/9/</loc>
+</url>
+<url>
 <loc>https://jokiv.fi/partner-2021-jatkot/</loc>
 <lastmod>2023-03-18T12:39:04+02:00</lastmod>
 </url>
@@ -293,6 +296,9 @@
 <loc>https://jokiv.fi/tags/twitch/</loc>
 </url>
 <url>
+<loc>https://jokiv.fi/tags/video/</loc>
+</url>
+<url>
 <loc>https://jokiv.fi/tags/vimeo/</loc>
 </url>
 <url>
@@ -321,6 +327,10 @@
 <image:loc>https://jokiv.fi/media/posts/65/c64prg.png</image:loc>
 <image:title><![CDATA[Commodore 64 Programmer's Reference Guide]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://jokiv.fi/toista-striimaus-softaa/</loc>
+<lastmod>2024-06-01T17:52:07+03:00</lastmod>
 </url>
 <url>
 <loc>https://jokiv.fi/twitch-ja-sata-subaajaa/</loc>
