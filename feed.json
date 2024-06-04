@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/muutoksia-ko-fi-suhteen/",
+            "url": "https://jokiv.fi/muutoksia-ko-fi-suhteen/",
+            "title": "Muutoksia ko-fi suhteen",
+            "summary": "<p><strong>Lyhyt versio</strong>: jotku maksutavat ovat väliaikaisesti (jos ei pysyvästi) pois ko-fi:n maksuista ja lahjoituksista.</p>\n",
+            "content_html": "<p><strong>Lyhyt versio</strong>: jotku maksutavat ovat väliaikaisesti (jos ei pysyvästi) pois ko-fi:n maksuista ja lahjoituksista.</p>\n\n<p>Otin osan maksutavoista käytöstä, kun niiden kolmannen osapuolen käsittelijä (Stripe) on nähtävästi vaihtanut ehtoja, millaisia maksuja he välittävät tänä vuonna. <em>Sisällöntuottaminen ja striimaaminen</em> on yksiä aiheita, joista ne eivät nähtävästi liikaa pidä. Ko-fi tunnetaan juuri näistä parhaiten, vaikka se ei pelkästään niihin keskity.</p>\n<p>Tämä ei estä palvelun käyttämistä lahjoituksiin, mutta jotku maksamisen vaihtoehdot voivat olla kadoksissa.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "ko-fi"
+            ],
+            "date_published": "2024-06-04T10:49:46+03:00",
+            "date_modified": "2024-06-04T10:52:22+03:00"
+        },
+        {
             "id": "https://jokiv.fi/toista-striimaus-softaa/",
             "url": "https://jokiv.fi/toista-striimaus-softaa/",
             "title": "Toista striimaus softaa",
@@ -159,23 +174,6 @@
             ],
             "date_published": "2023-12-28T18:00:00+02:00",
             "date_modified": "2023-12-30T14:19:32+02:00"
-        },
-        {
-            "id": "https://jokiv.fi/ohjelmointi-jatkuu/",
-            "url": "https://jokiv.fi/ohjelmointi-jatkuu/",
-            "title": "Ohjelmointi jatkuu",
-            "summary": "<p>Mietin jo jonkin aikaa, julkaisisitteko maksullisen pelin. Jos pelin tuotot kuitenkin ylittäisivät tietyn rajan, pelistä tulisi avointa lähdekoodia.</p>\n",
-            "content_html": "<p>Mietin jo jonkin aikaa, julkaisisitteko maksullisen pelin. Jos pelin tuotot kuitenkin ylittäisivät tietyn rajan, pelistä tulisi avointa lähdekoodia.</p>\n\n<p>Koodaus on pikkuhiljaa alkanut taas ja olen testannut myös muita pelimoottoreita. Silti Godot tuntuu edelleen parhaalta vaihtoehdolta.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "steam deck",
-                   "retro",
-                   "pelit"
-            ],
-            "date_published": "2023-12-08T19:15:00+02:00",
-            "date_modified": "2023-12-08T19:17:35+02:00"
         }
     ]
 }

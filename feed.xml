@@ -3,12 +3,37 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2024-06-01T17:56:34+03:00</updated>
+    <updated>2024-06-04T10:52:22+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Muutoksia ko-fi suhteen</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/muutoksia-ko-fi-suhteen/"/>
+        <id>https://jokiv.fi/muutoksia-ko-fi-suhteen/</id>
+            <category term="ko-fi"/>
+
+        <updated>2024-06-04T10:49:46+03:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><strong>Lyhyt versio</strong>: jotku maksutavat ovat väliaikaisesti (jos ei pysyvästi) pois ko-fi:n maksuista ja lahjoituksista.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Lyhyt versio</strong>: jotku maksutavat ovat väliaikaisesti (jos ei pysyvästi) pois ko-fi:n maksuista ja lahjoituksista.</p>
+
+<p>Otin osan maksutavoista käytöstä, kun niiden kolmannen osapuolen käsittelijä (Stripe) on nähtävästi vaihtanut ehtoja, millaisia maksuja he välittävät tänä vuonna. <em>Sisällöntuottaminen ja striimaaminen</em> on yksiä aiheita, joista ne eivät nähtävästi liikaa pidä. Ko-fi tunnetaan juuri näistä parhaiten, vaikka se ei pelkästään niihin keskity.</p>
+<p>Tämä ei estä palvelun käyttämistä lahjoituksiin, mutta jotku maksamisen vaihtoehdot voivat olla kadoksissa.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Toista striimaus softaa</title>
         <author>
@@ -256,32 +281,6 @@
 <p>Kirjan fyysiseen versioon minun on ehkä helpompi keskittyä. Jospa tämä vain innostaisi oppimaan enemmän. Ostoslistalla on tietysti muitakin suositeltavia kirjoja. Saa nähdä missä vaiheessa tilaan niitä. Pitäisi saapua tammikuun lopussa.</p>
 <figure class="post__image align-center"><img loading="lazy"  src="https://jokiv.fi/media/posts/65/c64prg.png" alt="Commodore 64 Programmer's Reference Guide" width="265" height="400" sizes="(max-width: 48em) 100vw, 768px" srcset="https://jokiv.fi/media/posts/65/responsive/c64prg-xs.png 300w ,https://jokiv.fi/media/posts/65/responsive/c64prg-sm.png 480w ,https://jokiv.fi/media/posts/65/responsive/c64prg-md.png 768w ,https://jokiv.fi/media/posts/65/responsive/c64prg-lg.png 1024w ,https://jokiv.fi/media/posts/65/responsive/c64prg-xl.png 1360w ,https://jokiv.fi/media/posts/65/responsive/c64prg-2xl.png 1600w"></figure>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ohjelmointi jatkuu</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/ohjelmointi-jatkuu/"/>
-        <id>https://jokiv.fi/ohjelmointi-jatkuu/</id>
-            <category term="steam deck"/>
-            <category term="retro"/>
-            <category term="pelit"/>
-
-        <updated>2023-12-08T19:15:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Mietin jo jonkin aikaa, julkaisisitteko maksullisen pelin. Jos pelin tuotot kuitenkin ylittäisivät tietyn rajan, pelistä tulisi avointa lähdekoodia.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Mietin jo jonkin aikaa, julkaisisitteko maksullisen pelin. Jos pelin tuotot kuitenkin ylittäisivät tietyn rajan, pelistä tulisi avointa lähdekoodia.</p>
-
-<p>Koodaus on pikkuhiljaa alkanut taas ja olen testannut myös muita pelimoottoreita. Silti Godot tuntuu edelleen parhaalta vaihtoehdolta.</p>
             ]]>
         </content>
     </entry>
