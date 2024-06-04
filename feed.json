@@ -25,6 +25,22 @@
             "date_modified": "2024-06-04T10:52:22+03:00"
         },
         {
+            "id": "https://jokiv.fi/guilded-tunnuksen-poistaminen/",
+            "url": "https://jokiv.fi/guilded-tunnuksen-poistaminen/",
+            "title": "Guilded tunnuksen poistaminen",
+            "summary": "<p>Päätin poistaa Guilded tunnuksen. Siellä minulla ei ollut yhteyksiä keneenkään. Syyn voi lukea alla olevasta <a href=\"https://en.wikipedia.org/wiki/Guilded\" target=\"_blank\" rel=\"noopener noreferrer\">wikipedian lainauksesta</a>.</p>\n",
+            "content_html": "<p>Päätin poistaa Guilded tunnuksen. Siellä minulla ei ollut yhteyksiä keneenkään. Syyn voi lukea alla olevasta <a href=\"https://en.wikipedia.org/wiki/Guilded\" target=\"_blank\" rel=\"noopener noreferrer\">wikipedian lainauksesta</a>.</p>\n\n<blockquote>\n<p>On May 31st, 2024, Guilded announced that all current and future accounts will be required to have a Roblox account linked before July 15th, 2024 in order to continue using their account with new accounts only having the option to sign up with Roblox.  -- Wikipedia</p>\n</blockquote>\n<p>Minulla oli näköjään myös vanha Roblox tunnus, jota he eivät olleet poistaneet käyttämättömyydestä huolimatta. Tein myös sille poistopyynnön.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "roblox",
+                   "guilded"
+            ],
+            "date_published": "2024-06-03T13:16:00+03:00",
+            "date_modified": "2024-06-04T13:17:24+03:00"
+        },
+        {
             "id": "https://jokiv.fi/toista-striimaus-softaa/",
             "url": "https://jokiv.fi/toista-striimaus-softaa/",
             "title": "Toista striimaus softaa",
@@ -156,24 +172,6 @@
             ],
             "date_published": "2024-01-04T09:00:00+02:00",
             "date_modified": "2024-01-04T21:13:14+02:00"
-        },
-        {
-            "id": "https://jokiv.fi/tilasin-kirjan/",
-            "url": "https://jokiv.fi/tilasin-kirjan/",
-            "title": "Tilasin kirjan",
-            "summary": "<p>Tuli tilattua \"Commodore 64 Programmer's Reference Guide\". Toki kyseinen löytyy kaivamalla <em>archive.org</em> ainaki <a href=\"https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore\" title=\"Commodore C64 Manual: Commodore 64 Programmers Reference Guide\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">parina</a> <a href=\"https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore_a/\" title=\"Commodore C64 Manual: Commodore 64 Programmers Reference Guide (alt)\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">versiona</a>.</p>\n",
-            "content_html": "<p>Tuli tilattua \"Commodore 64 Programmer's Reference Guide\". Toki kyseinen löytyy kaivamalla <em>archive.org</em> ainaki <a href=\"https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore\" title=\"Commodore C64 Manual: Commodore 64 Programmers Reference Guide\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">parina</a> <a href=\"https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore_a/\" title=\"Commodore C64 Manual: Commodore 64 Programmers Reference Guide (alt)\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">versiona</a>.</p>\n\n<p>Kirjan fyysiseen versioon minun on ehkä helpompi keskittyä. Jospa tämä vain innostaisi oppimaan enemmän. Ostoslistalla on tietysti muitakin suositeltavia kirjoja. Saa nähdä missä vaiheessa tilaan niitä. Pitäisi saapua tammikuun lopussa.</p>\n<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://jokiv.fi/media/posts/65/c64prg.png\" alt=\"Commodore 64 Programmer's Reference Guide\" width=\"265\" height=\"400\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://jokiv.fi/media/posts/65/responsive/c64prg-xs.png 300w ,https://jokiv.fi/media/posts/65/responsive/c64prg-sm.png 480w ,https://jokiv.fi/media/posts/65/responsive/c64prg-md.png 768w ,https://jokiv.fi/media/posts/65/responsive/c64prg-lg.png 1024w ,https://jokiv.fi/media/posts/65/responsive/c64prg-xl.png 1360w ,https://jokiv.fi/media/posts/65/responsive/c64prg-2xl.png 1600w\"></figure>\n<p> </p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "retro",
-                   "ohjelmointi",
-                   "kirja",
-                   "c64"
-            ],
-            "date_published": "2023-12-28T18:00:00+02:00",
-            "date_modified": "2023-12-30T14:19:32+02:00"
         }
     ]
 }

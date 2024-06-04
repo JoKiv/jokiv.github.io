@@ -3,7 +3,7 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2024-06-04T10:52:22+03:00</updated>
+    <updated>2024-06-04T13:17:24+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -31,6 +31,34 @@
 
 <p>Otin osan maksutavoista käytöstä, kun niiden kolmannen osapuolen käsittelijä (Stripe) on nähtävästi vaihtanut ehtoja, millaisia maksuja he välittävät tänä vuonna. <em>Sisällöntuottaminen ja striimaaminen</em> on yksiä aiheita, joista ne eivät nähtävästi liikaa pidä. Ko-fi tunnetaan juuri näistä parhaiten, vaikka se ei pelkästään niihin keskity.</p>
 <p>Tämä ei estä palvelun käyttämistä lahjoituksiin, mutta jotku maksamisen vaihtoehdot voivat olla kadoksissa.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Guilded tunnuksen poistaminen</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/guilded-tunnuksen-poistaminen/"/>
+        <id>https://jokiv.fi/guilded-tunnuksen-poistaminen/</id>
+            <category term="roblox"/>
+            <category term="guilded"/>
+
+        <updated>2024-06-03T13:16:00+03:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Päätin poistaa Guilded tunnuksen. Siellä minulla ei ollut yhteyksiä keneenkään. Syyn voi lukea alla olevasta <a href="https://en.wikipedia.org/wiki/Guilded" target="_blank" rel="noopener noreferrer">wikipedian lainauksesta</a>.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Päätin poistaa Guilded tunnuksen. Siellä minulla ei ollut yhteyksiä keneenkään. Syyn voi lukea alla olevasta <a href="https://en.wikipedia.org/wiki/Guilded" target="_blank" rel="noopener noreferrer">wikipedian lainauksesta</a>.</p>
+
+<blockquote>
+<p>On May 31st, 2024, Guilded announced that all current and future accounts will be required to have a Roblox account linked before July 15th, 2024 in order to continue using their account with new accounts only having the option to sign up with Roblox.  -- Wikipedia</p>
+</blockquote>
+<p>Minulla oli näköjään myös vanha Roblox tunnus, jota he eivät olleet poistaneet käyttämättömyydestä huolimatta. Tein myös sille poistopyynnön.</p>
             ]]>
         </content>
     </entry>
@@ -252,35 +280,6 @@
 <p>Apple ei omiin suosikkeihin kuulu. Silti se tuntuu paremmalta ajatukselta, kuin Windows 11. "Jos siihen joskus tutustuisi." Aika on tullut, jota en koskaan ajatellut tekeväni. Hommasin sellaisen minin.</p>
 <p>Kokemuksista kirjoitan enemmän, kun on enemmän kokemusta. Muutoin saan vihaista palautetta "et vaan osaa", "lue se ** ohjekirja" ja "kato ** googlesta". Ohjekirja tosin oli vain yhden aukeaman "<em>nämä ovat näitä liittimiä</em>". Ehkä se löytyy jostain sähköisesti.</p>
 <p>Toki tässäkin näyttää olevan omat ongelmansa, mutta katsoa miten mennään. Muutama ongelma on jo selätetty. Katsella, miten menee.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tilasin kirjan</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/tilasin-kirjan/"/>
-        <id>https://jokiv.fi/tilasin-kirjan/</id>
-            <category term="retro"/>
-            <category term="ohjelmointi"/>
-            <category term="kirja"/>
-            <category term="c64"/>
-
-        <updated>2023-12-28T18:00:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Tuli tilattua "Commodore 64 Programmer's Reference Guide". Toki kyseinen löytyy kaivamalla <em>archive.org</em> ainaki <a href="https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore" title="Commodore C64 Manual: Commodore 64 Programmers Reference Guide" target="_blank" rel="nofollow noopener noreferrer">parina</a> <a href="https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore_a/" title="Commodore C64 Manual: Commodore 64 Programmers Reference Guide (alt)" target="_blank" rel="nofollow noopener noreferrer">versiona</a>.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Tuli tilattua "Commodore 64 Programmer's Reference Guide". Toki kyseinen löytyy kaivamalla <em>archive.org</em> ainaki <a href="https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore" title="Commodore C64 Manual: Commodore 64 Programmers Reference Guide" target="_blank" rel="nofollow noopener noreferrer">parina</a> <a href="https://archive.org/details/Commodore_64_Programmers_Reference_Guide_1983_Commodore_a/" title="Commodore C64 Manual: Commodore 64 Programmers Reference Guide (alt)" target="_blank" rel="nofollow noopener noreferrer">versiona</a>.</p>
-
-<p>Kirjan fyysiseen versioon minun on ehkä helpompi keskittyä. Jospa tämä vain innostaisi oppimaan enemmän. Ostoslistalla on tietysti muitakin suositeltavia kirjoja. Saa nähdä missä vaiheessa tilaan niitä. Pitäisi saapua tammikuun lopussa.</p>
-<figure class="post__image align-center"><img loading="lazy"  src="https://jokiv.fi/media/posts/65/c64prg.png" alt="Commodore 64 Programmer's Reference Guide" width="265" height="400" sizes="(max-width: 48em) 100vw, 768px" srcset="https://jokiv.fi/media/posts/65/responsive/c64prg-xs.png 300w ,https://jokiv.fi/media/posts/65/responsive/c64prg-sm.png 480w ,https://jokiv.fi/media/posts/65/responsive/c64prg-md.png 768w ,https://jokiv.fi/media/posts/65/responsive/c64prg-lg.png 1024w ,https://jokiv.fi/media/posts/65/responsive/c64prg-xl.png 1360w ,https://jokiv.fi/media/posts/65/responsive/c64prg-2xl.png 1600w"></figure>
-<p> </p>
             ]]>
         </content>
     </entry>
