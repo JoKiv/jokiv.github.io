@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/vielae-steam-deck-dockista/",
+            "url": "https://jokiv.fi/vielae-steam-deck-dockista/",
+            "title": "Vielä Steam Deck Dockista",
+            "summary": "<p>Kirjoitin <a href=\"https://jokiv.fi/harkinnassa-steam-deck-docking-station/\" target=\"_blank\" rel=\"noopener noreferrer\">aiemmin</a> Steam Deck Docking Stationin hankkimisesta.</p>\n",
+            "content_html": "<p>Kirjoitin <a href=\"https://jokiv.fi/harkinnassa-steam-deck-docking-station/\" target=\"_blank\" rel=\"noopener noreferrer\">aiemmin</a> Steam Deck Docking Stationin hankkimisesta.</p>\n\n<p>Myin viime kuukausien aikana suurimman osan Steam-inventaarioni tavaroista. Nyt olen laskenut, että voin maksaa loppuosan summasta.</p>\n<p>Laitoin tilauksen kyseisestä laitteesta. Tämä korvaa rikkoutuneen HDMI-adapterin ja helpottaa striimaamista.</p>\n<p>Toivotaan, että tulee ensiviikolla.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "steam deck",
+                   "steam"
+            ],
+            "date_published": "2024-08-01T14:30:25+03:00",
+            "date_modified": "2024-08-01T14:30:25+03:00"
+        },
+        {
             "id": "https://jokiv.fi/muutoksia-ko-fi-suhteen/",
             "url": "https://jokiv.fi/muutoksia-ko-fi-suhteen/",
             "title": "Muutoksia ko-fi suhteen",
@@ -155,23 +171,6 @@
             ],
             "date_published": "2024-01-26T18:30:00+02:00",
             "date_modified": "2024-01-29T03:28:42+02:00"
-        },
-        {
-            "id": "https://jokiv.fi/hyppy-tuntemattomaan-2/",
-            "url": "https://jokiv.fi/hyppy-tuntemattomaan-2/",
-            "title": "Hyppy tuntemattomaan",
-            "summary": "Tuossa tuli katsottua useampien artikkelien ilmaantumista, kun Steam lopetti vanhempien Windowsien tuen 1.1.2024. Samassa syssyssä monet uutiset sitten muistuttaa, että ensi vuonna Windows&hellip;",
-            "content_html": "<p>Tuossa tuli katsottua useampien artikkelien ilmaantumista, kun <a href=\"https://help.steampowered.com/en/faqs/view/4784-4F2B-1321-800A\" target=\"_blank\" rel=\"noopener noreferrer\">Steam lopetti vanhempien Windowsien tuen</a> 1.1.2024.</p>\n<p>Samassa syssyssä monet uutiset sitten muistuttaa, että ensi vuonna Windows 10 kokee pitkälti samaa kohtaloa Microsoftin puolelta. Tämä varmaankin heijastuu sovelluksiin samalla tavalla, kuin ennenkin.</p>\n<blockquote>\n<p>Tämä tietokone ei tällä hetkellä täytä kaikkia Windows 11:n järjestelmävaatimuksia</p>\n</blockquote>\n<p>Toisena ongelmana on, että iso osa käyttäjistä joutuu ostamaan uuden tietokoneen, koska vaatimukset nousevat. <em><strong>Sama olisi itsellä edessä.</strong></em> Muutaman vuoden vanha kone ei välttämättä kelpaakkaan. Toki rajoituksia voi jonkunverran kiertää ja YouTubessa onkin monta \"<em>millaiseen perunaan saan asennettua Win11</em>\" videoita.</p>\n<p>Itse en suosittele mitään tälläistä säätämistä. Ainakaan käyttäjälle, joka ei välttämättä tiedä, mistä syystä kyseiset vaatimukset ovat olemaassa. Paljon aikaisemmin kirjoittelin, että se olisi vain turhaan asioiden lykkäämistä. Oma suositus on tutustua Linuxiin, jos kone ei Windowsiin riitä. Linux tukee sen verran vanhempiakin koneita, että on jo haasteelliseta löytää enintään 10 vuotta vanha kone, jossa toimii Windows 7/8/10 mutta ei toimisi Linux.</p>\n<blockquote>\n<p>Linuxin valintojen maailmassa suosittelen <a href=\"https://www.linuxmint.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Linux Mint</a>. Toki muitakin hyviä vaihtoehtoja löytyy tutustumaan uuteen järjestelmään.</p>\n</blockquote>\n<p>Tosin, kun Windows 10:lle tarjotaan maksullista tukea (myös yksityisille) niin se toivottavasti viivyttää sovellusten puolelta tuen katoamista jonku aikaa kauemmin.</p>\n<p>Omalla kohdalla muutaman sovelluksen käyttämisen tarve on pistänyt miettimään vaihtoehtoja, jotka ovat itselle \"valitse paras, vaikka kaikki ovat huonoja\". Windows 11 eivät vaikuta edes vaihtoehdoilta.</p>\n<p>Apple ei omiin suosikkeihin kuulu. Silti se tuntuu paremmalta ajatukselta, kuin Windows 11. \"Jos siihen joskus tutustuisi.\" Aika on tullut, jota en koskaan ajatellut tekeväni. Hommasin sellaisen minin.</p>\n<p>Kokemuksista kirjoitan enemmän, kun on enemmän kokemusta. Muutoin saan vihaista palautetta \"et vaan osaa\", \"lue se ** ohjekirja\" ja \"kato ** googlesta\". Ohjekirja tosin oli vain yhden aukeaman \"<em>nämä ovat näitä liittimiä</em>\". Ehkä se löytyy jostain sähköisesti.</p>\n<p>Toki tässäkin näyttää olevan omat ongelmansa, mutta katsoa miten mennään. Muutama ongelma on jo selätetty. Katsella, miten menee.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "windows",
-                   "mac",
-                   "laitteet"
-            ],
-            "date_published": "2024-01-04T09:00:00+02:00",
-            "date_modified": "2024-01-04T21:13:14+02:00"
         }
     ]
 }
