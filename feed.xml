@@ -3,12 +3,39 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2024-08-17T19:11:10+03:00</updated>
+    <updated>2024-09-30T08:57:12+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Kuukausi töitä takana</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/kuukausi-toeitae-takana/"/>
+        <id>https://jokiv.fi/kuukausi-toeitae-takana/</id>
+            <category term="twitch"/>
+            <category term="mene töihin"/>
+
+        <updated>2024-09-30T08:57:12+03:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Nyt kun on ollu töissä kuukauden, huomaan miten pirteys ja jaksaminen ovat parantuneet.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Nyt kun on ollu töissä kuukauden, huomaan miten pirteys ja jaksaminen ovat parantuneet.</p>
+
+<p>Säännöllinen rytmi on tuonut lisää energiaa päiviin, ja herään useammin virkeänä. Vaikka en ole erityisesti kärsinyt uniongelmista, nukkumaan meno on nyt helpompaa kuin ennen. Työpäivät antavat juuri sopivasti haastetta ja rasitusta, joka auttaa rentoutumaan illalla. Säännöllisyys ja tasapaino vaikuttaa hyvinvointiin.</p>
+<p>Striimaaminen on taas käynnistynyt pitkän tauon jälkeen, ja nyt takana on muutama kerta. Pidempi tauko piti homman poissa hetken aikaa. Katsella tuleeko millä aikataululla ja useammin kuin pari kertaa kuukaudessa. Jatkon näkee sitten.</p>
+<p>Myös YouTube on jäänyt vähän vähemmälle, mutta katsellaan mitä sinne saisi aikaan.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Vielä Steam Deck Dockista</title>
         <author>
@@ -244,33 +271,6 @@
         <content type="html">
             <![CDATA[
                 <p>Sitä piti hieman taukoa kaikesta ja piti ns. "hermoloman", vaikka mikään ei stressaa. Tauko on kuitenki aina hyvä pitää joskus. Striimit ja videot jatkuvat fiiliksen mukaan.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Kirja saapui</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/kirja-saapui/"/>
-        <id>https://jokiv.fi/kirja-saapui/</id>
-            <category term="retro"/>
-            <category term="ohjelmointi"/>
-            <category term="kirja"/>
-            <category term="c64"/>
-
-        <updated>2024-01-26T18:30:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Kuten aikaisemmin mainitsin, <a href="https://jokiv.fi/tilasin-kirjan/" target="_blank" rel="noopener noreferrer">tilasin kirjan</a>. Kirja saapui tänään. Tämän lisäksi ainakin pitäisi löytää <a href="https://archive.org/details/Commodore_64_Users_Guide_1984_Commodore" target="_blank" rel="noopener noreferrer">Commmodore 64: User's guide</a> ja muutama muu.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Kuten aikaisemmin mainitsin, <a href="https://jokiv.fi/tilasin-kirjan/" target="_blank" rel="noopener noreferrer">tilasin kirjan</a>. Kirja saapui tänään. Tämän lisäksi ainakin pitäisi löytää <a href="https://archive.org/details/Commodore_64_Users_Guide_1984_Commodore" target="_blank" rel="noopener noreferrer">Commmodore 64: User's guide</a> ja muutama muu.</p>
-
-<figure class="post__image"><img loading="lazy"  src="https://jokiv.fi/media/posts/68/5bf90fe9-153e-4206-82df-38fc22f4fd80.jpg" alt="Commodore 64: Programmer's reference guide" width="800" height="1422" sizes="100vw" srcset="https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-xs.jpg 300w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-sm.jpg 480w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-md.jpg 768w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-lg.jpg 1024w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-xl.jpg 1360w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>

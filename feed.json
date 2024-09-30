@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/kuukausi-toeitae-takana/",
+            "url": "https://jokiv.fi/kuukausi-toeitae-takana/",
+            "title": "Kuukausi töitä takana",
+            "summary": "<p>Nyt kun on ollu töissä kuukauden, huomaan miten pirteys ja jaksaminen ovat parantuneet.</p>\n",
+            "content_html": "<p>Nyt kun on ollu töissä kuukauden, huomaan miten pirteys ja jaksaminen ovat parantuneet.</p>\n\n<p>Säännöllinen rytmi on tuonut lisää energiaa päiviin, ja herään useammin virkeänä. Vaikka en ole erityisesti kärsinyt uniongelmista, nukkumaan meno on nyt helpompaa kuin ennen. Työpäivät antavat juuri sopivasti haastetta ja rasitusta, joka auttaa rentoutumaan illalla. Säännöllisyys ja tasapaino vaikuttaa hyvinvointiin.</p>\n<p>Striimaaminen on taas käynnistynyt pitkän tauon jälkeen, ja nyt takana on muutama kerta. Pidempi tauko piti homman poissa hetken aikaa. Katsella tuleeko millä aikataululla ja useammin kuin pari kertaa kuukaudessa. Jatkon näkee sitten.</p>\n<p>Myös YouTube on jäänyt vähän vähemmälle, mutta katsellaan mitä sinne saisi aikaan.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "twitch",
+                   "mene töihin"
+            ],
+            "date_published": "2024-09-30T08:57:12+03:00",
+            "date_modified": "2024-09-30T08:57:12+03:00"
+        },
+        {
             "id": "https://jokiv.fi/vielae-steam-deck-dockista/",
             "url": "https://jokiv.fi/vielae-steam-deck-dockista/",
             "title": "Vielä Steam Deck Dockista",
@@ -153,24 +169,6 @@
             ],
             "date_published": "2024-03-03T12:00:00+02:00",
             "date_modified": "2024-03-03T16:29:54+02:00"
-        },
-        {
-            "id": "https://jokiv.fi/kirja-saapui/",
-            "url": "https://jokiv.fi/kirja-saapui/",
-            "title": "Kirja saapui",
-            "summary": "<p>Kuten aikaisemmin mainitsin, <a href=\"https://jokiv.fi/tilasin-kirjan/\" target=\"_blank\" rel=\"noopener noreferrer\">tilasin kirjan</a>. Kirja saapui tänään. Tämän lisäksi ainakin pitäisi löytää <a href=\"https://archive.org/details/Commodore_64_Users_Guide_1984_Commodore\" target=\"_blank\" rel=\"noopener noreferrer\">Commmodore 64: User's guide</a> ja muutama muu.</p>\n",
-            "content_html": "<p>Kuten aikaisemmin mainitsin, <a href=\"https://jokiv.fi/tilasin-kirjan/\" target=\"_blank\" rel=\"noopener noreferrer\">tilasin kirjan</a>. Kirja saapui tänään. Tämän lisäksi ainakin pitäisi löytää <a href=\"https://archive.org/details/Commodore_64_Users_Guide_1984_Commodore\" target=\"_blank\" rel=\"noopener noreferrer\">Commmodore 64: User's guide</a> ja muutama muu.</p>\n\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jokiv.fi/media/posts/68/5bf90fe9-153e-4206-82df-38fc22f4fd80.jpg\" alt=\"Commodore 64: Programmer's reference guide\" width=\"800\" height=\"1422\" sizes=\"100vw\" srcset=\"https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-xs.jpg 300w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-sm.jpg 480w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-md.jpg 768w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-lg.jpg 1024w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-xl.jpg 1360w ,https://jokiv.fi/media/posts/68/responsive/5bf90fe9-153e-4206-82df-38fc22f4fd80-2xl.jpg 1600w\"></figure>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "retro",
-                   "ohjelmointi",
-                   "kirja",
-                   "c64"
-            ],
-            "date_published": "2024-01-26T18:30:00+02:00",
-            "date_modified": "2024-01-29T03:28:42+02:00"
         }
     ]
 }
