@@ -16,8 +16,6 @@
         </author>
         <link href="https://jokiv.fi/kuukausi-toeitae-takana/"/>
         <id>https://jokiv.fi/kuukausi-toeitae-takana/</id>
-            <category term="twitch"/>
-            <category term="mene töihin"/>
 
         <updated>2024-09-30T08:57:12+03:00</updated>
             <summary>
@@ -125,7 +123,6 @@
         <link href="https://jokiv.fi/toista-striimaus-softaa/"/>
         <id>https://jokiv.fi/toista-striimaus-softaa/</id>
             <category term="video"/>
-            <category term="twitch"/>
 
         <updated>2024-06-01T17:51:56+03:00</updated>
             <summary>
@@ -177,9 +174,7 @@
         <link href="https://jokiv.fi/pieniae-ja-pidempiae-taukoja/"/>
         <id>https://jokiv.fi/pieniae-ja-pidempiae-taukoja/</id>
             <category term="youtube"/>
-            <category term="twitch"/>
             <category term="laitteet"/>
-            <category term="discord"/>
 
         <updated>2024-04-28T16:39:44+03:00</updated>
             <summary>
@@ -258,7 +253,6 @@
         <link href="https://jokiv.fi/takaisin-tauolta/"/>
         <id>https://jokiv.fi/takaisin-tauolta/</id>
             <category term="youtube"/>
-            <category term="twitch"/>
             <category term="tiktok"/>
             <category term="kick"/>
 

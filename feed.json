@@ -19,8 +19,6 @@
                 "name": "JoKiv"
             },
             "tags": [
-                   "twitch",
-                   "mene töihin"
             ],
             "date_published": "2024-09-30T08:57:12+03:00",
             "date_modified": "2024-09-30T08:57:12+03:00"
@@ -82,8 +80,7 @@
                 "name": "JoKiv"
             },
             "tags": [
-                   "video",
-                   "twitch"
+                   "video"
             ],
             "date_published": "2024-06-01T17:51:56+03:00",
             "date_modified": "2024-06-01T17:56:34+03:00"
@@ -114,9 +111,7 @@
             },
             "tags": [
                    "youtube",
-                   "twitch",
-                   "laitteet",
-                   "discord"
+                   "laitteet"
             ],
             "date_published": "2024-04-28T16:39:44+03:00",
             "date_modified": "2024-04-28T16:39:44+03:00"
@@ -163,7 +158,6 @@
             },
             "tags": [
                    "youtube",
-                   "twitch",
                    "tiktok",
                    "kick"
             ],
