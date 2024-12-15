@@ -3,7 +3,7 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2024-12-15T13:58:08+02:00</updated>
+    <updated>2024-12-15T13:59:39+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -32,7 +32,7 @@
             <![CDATA[
                 <p>Otsikon mukainen sanonta on aika tunnettu. Tässä kuitenki voi joidenki mielestä olla joidenkin mielestä "mutta miksi..", varsinkin kun kyseessä on <a href="https://en.wikipedia.org/wiki/Adobe_Flash" target="_blank" rel="noopener noreferrer">flash</a>.</p>
 
-<p>Todellakin aloin tutkimaan, miten flash toimivat. Aihe lähti siitä, kun katselin youtubesta videoita pelimoottoreista ja jonkinverran ennestään tuttu <a href="https://haxe.org/" target="_blank" rel="noopener noreferrer">Haxe</a> tuli vastaan. Videossa myös mainittiin <a href="https://www.openfl.org/" target="_blank" rel="noopener noreferrer">OpenFL</a>. </p>
+<p>Todellakin aloin tutkimaan, miten flash toimiii. Aihe lähti siitä, kun katselin youtubesta videoita pelimoottoreista ja jonkinverran ennestään tuttu <a href="https://haxe.org/" target="_blank" rel="noopener noreferrer">Haxe</a> tuli vastaan. Videossa myös mainittiin <a href="https://www.openfl.org/" target="_blank" rel="noopener noreferrer">OpenFL</a>. </p>
 <p>Haxella jotku ovat flash pelejä tehneet, mitä olen ymmärtänyt. Tästä tuli mieleen muutama vanha flash peli, jotka kiiinnostivat minua, mutta niissä on jonkuverran ongelmia nyky koneilla. Joko ne eivät halua pyöriä ilman muutamaa nettipuolen asiaa tai sitten ne on kirjoitettu, etteivät ne pyörisi. Mahdollisesti pelaajien seuranta, jossa serverit eivät ole toiminnassa tai vain ettei niitä useampi kopioi. Toki tiedän, että <a href="https://archive.org" target="_blank" rel="noopener noreferrer">archive.org</a> sisältää useita kokoemia ja esimerkiksi <a href="https://flashpointarchive.org/" target="_blank" rel="noopener noreferrer">Flashpoint Archive</a> (aiemmin nimellä BlueMaxima Flashpoint), sekä muutama muu.</p>
 <p>Kuitenkin haluaa itse tutkia. Pelien ja ohjelmien toiminta on kiinnostava aihe itselle. Latasin <a href="https://github.com/jindrapetrik/jpexs-decompiler" target="_blank" rel="noopener noreferrer">JPEXS Free Flash Decompiler</a> ohjelman ja aloin tutkimaan swf tiedostojen sisältöä. Onneksi JPEXS osaa muokata koodia pelien sisällä. Osan pelistä sain toimimaan paremmin <a href="https://ruffle.rs/" target="_blank" rel="noopener noreferrer">Rufflella</a>. Aikaisemmin peli joko jumi, vilkkui toimimatta tai ei toiminut ollenkaan. Yleisimmät ongelmat tulivat tutuiksi.</p>
 <p>Asensin vanhemman Windowsin virtuaalikoneesen ja vanhan Macromedia Flashin testiversiolla avasin JPEXS puretun pelin, jos flashillä uudelleen muuttaisi uudempaan formaattiin. Onnituin pakkaamaan uudemmalle flash versiolle ja korjata koodista virheitä. Flash ohjelma osaa paremmin kertoa, jos koodissa on häikkää. En ole varma onko uudelleenpakkaaminen niin tarpeellistä, varmaan voisin korjata samat virheet suoraan JPEXSllä. Kuitenkin saa hieman kokemusta aiheesta.</p>
