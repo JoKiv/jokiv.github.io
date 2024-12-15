@@ -3,12 +3,46 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2024-09-30T08:57:12+03:00</updated>
+    <updated>2024-12-15T13:58:08+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Parempi myöhään, kuin ei milloinkaan</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/parempi-myoehaeaen-kuin-ei-milloinkaan/"/>
+        <id>https://jokiv.fi/parempi-myoehaeaen-kuin-ei-milloinkaan/</id>
+            <category term="virtuaalikone"/>
+            <category term="retro"/>
+            <category term="ohjelmointi"/>
+            <category term="flash"/>
+
+        <updated>2024-12-15T13:57:44+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Otsikon mukainen sanonta on aika tunnettu. Tässä kuitenki voi joidenki mielestä olla joidenkin mielestä "mutta miksi..", varsinkin kun kyseessä on <a href="https://en.wikipedia.org/wiki/Adobe_Flash" target="_blank" rel="noopener noreferrer">flash</a>.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Otsikon mukainen sanonta on aika tunnettu. Tässä kuitenki voi joidenki mielestä olla joidenkin mielestä "mutta miksi..", varsinkin kun kyseessä on <a href="https://en.wikipedia.org/wiki/Adobe_Flash" target="_blank" rel="noopener noreferrer">flash</a>.</p>
+
+<p>Todellakin aloin tutkimaan, miten flash toimivat. Aihe lähti siitä, kun katselin youtubesta videoita pelimoottoreista ja jonkinverran ennestään tuttu <a href="https://haxe.org/" target="_blank" rel="noopener noreferrer">Haxe</a> tuli vastaan. Videossa myös mainittiin <a href="https://www.openfl.org/" target="_blank" rel="noopener noreferrer">OpenFL</a>. </p>
+<p>Haxella jotku ovat flash pelejä tehneet, mitä olen ymmärtänyt. Tästä tuli mieleen muutama vanha flash peli, jotka kiiinnostivat minua, mutta niissä on jonkuverran ongelmia nyky koneilla. Joko ne eivät halua pyöriä ilman muutamaa nettipuolen asiaa tai sitten ne on kirjoitettu, etteivät ne pyörisi. Mahdollisesti pelaajien seuranta, jossa serverit eivät ole toiminnassa tai vain ettei niitä useampi kopioi. Toki tiedän, että <a href="https://archive.org" target="_blank" rel="noopener noreferrer">archive.org</a> sisältää useita kokoemia ja esimerkiksi <a href="https://flashpointarchive.org/" target="_blank" rel="noopener noreferrer">Flashpoint Archive</a> (aiemmin nimellä BlueMaxima Flashpoint), sekä muutama muu.</p>
+<p>Kuitenkin haluaa itse tutkia. Pelien ja ohjelmien toiminta on kiinnostava aihe itselle. Latasin <a href="https://github.com/jindrapetrik/jpexs-decompiler" target="_blank" rel="noopener noreferrer">JPEXS Free Flash Decompiler</a> ohjelman ja aloin tutkimaan swf tiedostojen sisältöä. Onneksi JPEXS osaa muokata koodia pelien sisällä. Osan pelistä sain toimimaan paremmin <a href="https://ruffle.rs/" target="_blank" rel="noopener noreferrer">Rufflella</a>. Aikaisemmin peli joko jumi, vilkkui toimimatta tai ei toiminut ollenkaan. Yleisimmät ongelmat tulivat tutuiksi.</p>
+<p>Asensin vanhemman Windowsin virtuaalikoneesen ja vanhan Macromedia Flashin testiversiolla avasin JPEXS puretun pelin, jos flashillä uudelleen muuttaisi uudempaan formaattiin. Onnituin pakkaamaan uudemmalle flash versiolle ja korjata koodista virheitä. Flash ohjelma osaa paremmin kertoa, jos koodissa on häikkää. En ole varma onko uudelleenpakkaaminen niin tarpeellistä, varmaan voisin korjata samat virheet suoraan JPEXSllä. Kuitenkin saa hieman kokemusta aiheesta.</p>
+<p>Loppujenlopuksi sain pelin toimimaan, Ruffle ei valita ongelmista ja pyörittää tasaisesti. Tähänkin näköjään joskus riittää, että koodista korjaa rivin tai kaksi koodia.</p>
+<p>Seuraavana ajatuksessa on mahdollisesti uudelleenkirjoittaa peli vaikka aloituksessa kommentoimallani Haxella. Mahdollisesti käyttäen <a href="https://haxeflixel.com/" target="_blank" rel="noopener noreferrer">HaxeFlixel</a> ja <a href="https://www.openfl.org/" target="_blank" rel="noopener noreferrer">OpenFL</a>. Tämä mahdollistaisi pelin pelaamisen ilman flashiä. Löysin myös keinoja muuntaa koodia kieleltä toiselle. Tästä kommentoin ehkä joskus toiste enemmän.</p>
+<p>Toki muitakin kieliä ja pelimoottoreita voisi käyttää. Onko kuitenkaan hyvä ajatus tehdä kymmenien tai satojen megojen kokoisen pelin alkuperäisestä puolen megan pelistä. Toki, jos remake tai remaster olisi mielessä. </p>
+<p>Katsotaan, mihin tämä (ehkä) johtaa. Nämä ovat näitä hitaasti eteneviä projekteja.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Kuukausi töitä takana</title>
         <author>
@@ -242,29 +276,6 @@
                 <p>Ajattelin säästää <a href="https://store.steampowered.com/steamdeck" target="_blank" rel="noopener noreferrer">Steam Deckin</a> <a href="https://store.steampowered.com/steamdeckdock" target="_blank" rel="noopener noreferrer">Docking Stationiin</a>. Nykyinen ratkaisu tuntuu pätkivän hieman ja nykyhinta tuolle dockille on edullisempi, kuin uusi nykyisen kamppeen ostaminen.</p>
 
 <p>Kuitenki jos tuon dockin hommaa, täytyy miettiä noiden nykyisten ulkoisten ohjaimien kuntoa. Dock ku on hankalampi pitää pelatessa kädessä, sitä ei ole siihen suunniteltu. Vaihtoehtoja kuitenki löytyy, eikä tietääkseni liian heikossa kunnossa ole nuo vuosia sitten hommatut ohjaimet.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Takaisin tauolta</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/takaisin-tauolta/"/>
-        <id>https://jokiv.fi/takaisin-tauolta/</id>
-            <category term="youtube"/>
-            <category term="tiktok"/>
-            <category term="kick"/>
-
-        <updated>2024-03-03T12:00:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Sitä piti hieman taukoa kaikesta ja piti ns. "hermoloman", vaikka mikään ei stressaa. Tauko on kuitenki aina hyvä pitää joskus. Striimit ja videot jatkuvat fiiliksen mukaan.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Sitä piti hieman taukoa kaikesta ja piti ns. "hermoloman", vaikka mikään ei stressaa. Tauko on kuitenki aina hyvä pitää joskus. Striimit ja videot jatkuvat fiiliksen mukaan.</p>
             ]]>
         </content>
     </entry>
