@@ -3,7 +3,7 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2024-12-15T14:13:12+02:00</updated>
+    <updated>2025-01-29T01:56:02+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -24,13 +24,13 @@
         <updated>2024-12-15T13:57:44+02:00</updated>
             <summary>
                 <![CDATA[
-                    <p>Otsikon mukainen sanonta on aika tunnettu. Tässä kuitenki voi joidenki mielestä olla joidenkin mielestä "mutta miksi..", varsinkin kun kyseessä on <a href="https://en.wikipedia.org/wiki/Adobe_Flash" target="_blank" rel="noopener noreferrer">flash</a>.</p>
+                    <p>Otsikon mukainen sanonta on aika tunnettu. Tässä kuitenki voi joidenki mielestä olla joidenkin mielestä "mutta miksi..", varsinkin kun kyseessä on <a href="https://en.wikipedia.org/wiki/Adobe_Flash" target="_blank" rel="noopener noreferrer">flash</a>. </p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Otsikon mukainen sanonta on aika tunnettu. Tässä kuitenki voi joidenki mielestä olla joidenkin mielestä "mutta miksi..", varsinkin kun kyseessä on <a href="https://en.wikipedia.org/wiki/Adobe_Flash" target="_blank" rel="noopener noreferrer">flash</a>.</p>
+                <p>Otsikon mukainen sanonta on aika tunnettu. Tässä kuitenki voi joidenki mielestä olla joidenkin mielestä "mutta miksi..", varsinkin kun kyseessä on <a href="https://en.wikipedia.org/wiki/Adobe_Flash" target="_blank" rel="noopener noreferrer">flash</a>. </p>
 
 <p>Todellakin aloin tutkimaan, miten flash toimiii. Aihe lähti siitä, kun katselin youtubesta videoita pelimoottoreista ja jonkinverran ennestään tuttu <a href="https://haxe.org/" target="_blank" rel="noopener noreferrer">Haxe</a> tuli vastaan. Videossa myös mainittiin <a href="https://www.openfl.org/" target="_blank" rel="noopener noreferrer">OpenFL</a>. </p>
 <p>Haxella on flash pelejä tehty, mitä olen ymmärtänyt. Tästä tuli mieleen muutama vanha flash peli, jotka kiinnostaa minua, mutta niissä on jonkuverran ongelmia nykykoneilla. Joko ne eivät halua pyöriä ilman muutamaa nettipuolen asiaa tai sitten ne on kirjoitettu, etteivät ne pyörisi. Mahdollisesti pelaajien seuranta, jossa serverit eivät ole toiminnassa tai vain ettei niitä useampi kopioi. Toki tiedän, että <a href="https://archive.org" target="_blank" rel="noopener noreferrer">archive.org</a> sisältää useita kokoemia ja esimerkiksi <a href="https://flashpointarchive.org/" target="_blank" rel="noopener noreferrer">Flashpoint Archive</a> (aiemmin nimellä BlueMaxima Flashpoint), sekä muutama muu.</p>
