@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/hyvaeae-uutta-vuotta/",
+            "url": "https://jokiv.fi/hyvaeae-uutta-vuotta/",
+            "title": "Hyvää uutta vuotta",
+            "summary": "Hyvää uutta vuotta kaikille! Uusi vuosi tuokoon mukanaan uusia mahdollisuuksia ja tavoitteita. Onnea, menestystä ja inspiraatiota tulevalle vuodelle.",
+            "content_html": "<p>Hyvää uutta vuotta kaikille! Uusi vuosi tuokoon mukanaan uusia mahdollisuuksia ja tavoitteita. Onnea, menestystä ja inspiraatiota tulevalle vuodelle.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-01T00:01:00+02:00",
+            "date_modified": "2025-01-31T19:06:25+02:00"
+        },
+        {
             "id": "https://jokiv.fi/parempi-myoehaeaen-kuin-ei-milloinkaan/",
             "url": "https://jokiv.fi/parempi-myoehaeaen-kuin-ei-milloinkaan/",
             "title": "Parempi myöhään, kuin ei milloinkaan",
@@ -149,21 +163,6 @@
             ],
             "date_published": "2024-03-20T12:00:00+02:00",
             "date_modified": "2024-03-22T11:13:48+02:00"
-        },
-        {
-            "id": "https://jokiv.fi/harkinnassa-steam-deck-docking-station/",
-            "url": "https://jokiv.fi/harkinnassa-steam-deck-docking-station/",
-            "title": "Harkinnassa Steam Deck Docking Station",
-            "summary": "<p>Ajattelin säästää <a href=\"https://store.steampowered.com/steamdeck\" target=\"_blank\" rel=\"noopener noreferrer\">Steam Deckin</a> <a href=\"https://store.steampowered.com/steamdeckdock\" target=\"_blank\" rel=\"noopener noreferrer\">Docking Stationiin</a>. Nykyinen ratkaisu tuntuu pätkivän hieman ja nykyhinta tuolle dockille on edullisempi, kuin uusi nykyisen kamppeen ostaminen.</p>\n",
-            "content_html": "<p>Ajattelin säästää <a href=\"https://store.steampowered.com/steamdeck\" target=\"_blank\" rel=\"noopener noreferrer\">Steam Deckin</a> <a href=\"https://store.steampowered.com/steamdeckdock\" target=\"_blank\" rel=\"noopener noreferrer\">Docking Stationiin</a>. Nykyinen ratkaisu tuntuu pätkivän hieman ja nykyhinta tuolle dockille on edullisempi, kuin uusi nykyisen kamppeen ostaminen.</p>\n\n<p>Kuitenki jos tuon dockin hommaa, täytyy miettiä noiden nykyisten ulkoisten ohjaimien kuntoa. Dock ku on hankalampi pitää pelatessa kädessä, sitä ei ole siihen suunniteltu. Vaihtoehtoja kuitenki löytyy, eikä tietääkseni liian heikossa kunnossa ole nuo vuosia sitten hommatut ohjaimet.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "steam deck"
-            ],
-            "date_published": "2024-03-14T15:00:00+02:00",
-            "date_modified": "2024-03-14T15:40:18+02:00"
         }
     ]
 }

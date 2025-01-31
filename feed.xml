@@ -3,12 +3,32 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2025-01-29T01:56:30+02:00</updated>
+    <updated>2025-01-31T19:06:25+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Hyvää uutta vuotta</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/hyvaeae-uutta-vuotta/"/>
+        <id>https://jokiv.fi/hyvaeae-uutta-vuotta/</id>
+
+        <updated>2025-01-01T00:01:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Hyvää uutta vuotta kaikille! Uusi vuosi tuokoon mukanaan uusia mahdollisuuksia ja tavoitteita. Onnea, menestystä ja inspiraatiota tulevalle vuodelle.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hyvää uutta vuotta kaikille! Uusi vuosi tuokoon mukanaan uusia mahdollisuuksia ja tavoitteita. Onnea, menestystä ja inspiraatiota tulevalle vuodelle.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Parempi myöhään, kuin ei milloinkaan</title>
         <author>
@@ -252,30 +272,6 @@
                 <p>Hommasin Applen <a href="https://fi.wikipedia.org/wiki/AirTag" title="AirTag Wikipedia" target="_blank" rel="noopener noreferrer">AirTagin</a>. Ajatuksena tutustua, mitä tuolla keksisi tehdä.</p>
 
 <p>Toki ajatuksena kävi lähettää se jonnekkin postissa ja seurata lähetystä. Youtubessa on näitä videoita enemmän kuin tarpeeksi. Viimestään silloin, kun jossain kauempana käyn, tulee laitettua tuo tavaroiden sekaan.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Harkinnassa Steam Deck Docking Station</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/harkinnassa-steam-deck-docking-station/"/>
-        <id>https://jokiv.fi/harkinnassa-steam-deck-docking-station/</id>
-            <category term="steam deck"/>
-
-        <updated>2024-03-14T15:00:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Ajattelin säästää <a href="https://store.steampowered.com/steamdeck" target="_blank" rel="noopener noreferrer">Steam Deckin</a> <a href="https://store.steampowered.com/steamdeckdock" target="_blank" rel="noopener noreferrer">Docking Stationiin</a>. Nykyinen ratkaisu tuntuu pätkivän hieman ja nykyhinta tuolle dockille on edullisempi, kuin uusi nykyisen kamppeen ostaminen.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Ajattelin säästää <a href="https://store.steampowered.com/steamdeck" target="_blank" rel="noopener noreferrer">Steam Deckin</a> <a href="https://store.steampowered.com/steamdeckdock" target="_blank" rel="noopener noreferrer">Docking Stationiin</a>. Nykyinen ratkaisu tuntuu pätkivän hieman ja nykyhinta tuolle dockille on edullisempi, kuin uusi nykyisen kamppeen ostaminen.</p>
-
-<p>Kuitenki jos tuon dockin hommaa, täytyy miettiä noiden nykyisten ulkoisten ohjaimien kuntoa. Dock ku on hankalampi pitää pelatessa kädessä, sitä ei ole siihen suunniteltu. Vaihtoehtoja kuitenki löytyy, eikä tietääkseni liian heikossa kunnossa ole nuo vuosia sitten hommatut ohjaimet.</p>
             ]]>
         </content>
     </entry>
