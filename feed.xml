@@ -3,12 +3,41 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2025-01-31T19:06:25+02:00</updated>
+    <updated>2025-10-05T16:04:41+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Hitaita päivityksiä</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/hitaita-paeivityksiae/"/>
+        <id>https://jokiv.fi/hitaita-paeivityksiae/</id>
+            <category term="retro"/>
+            <category term="pelit"/>
+            <category term="laitteet"/>
+
+        <updated>2025-10-05T16:04:41+03:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Tässä ollut elämän kanssa enemmän ja vähemmän kiireitä. Vaikka aikaa olisi ollut kirjoittaa päivityksiä, aina ei ole ollut aiheita, mistä voisi kirjoitella. Päivitetään nyt jotain.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tässä ollut elämän kanssa enemmän ja vähemmän kiireitä. Vaikka aikaa olisi ollut kirjoittaa päivityksiä, aina ei ole ollut aiheita, mistä voisi kirjoitella. Päivitetään nyt jotain.</p>
+
+<p>Työt loppuivat aikaisemmin, kesän aikana. Määräaikainen sopimus.</p>
+<p>Päätin nyt aluksi keskittyväni enemmän striimien puolella retro-, konsoli- ja steam deckillä pelattaviin peleihin. Jossain välissä palaan myös irl- ja ulkoilustriimeihin. Saisi helpommin sisältöä useammalel päivälle striimeihin. Toki nykyisellä sisällöllä on helppo jaotella päiväkohtaiset aiheet, kuten olen discordissa listannut.</p>
+<p>Retron puolelle olen tilannut muutaman pelin, pari konetta ja muuta pientä. Sellaista, jotka omassa nuoruudessa ja aikana nuoruuden jälkeen ovat vaikuttaneet pelivalintoihin aikanaan. Niistä tulee enemmän discordissa ja striimissä.</p>
+<p>Aatoksissa on myös ollut muuttaa tätä blogia ja sivua jollain lailla. Vielä en ole mitään päättänyt, mutta katsellaan jos muutosta tulee jossain välissä. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hyvää uutta vuotta</title>
         <author>
@@ -247,31 +276,6 @@
 <p>Nykyisen puhelimen tehot eivät sovi striimaamiseen. Edullisuuteen vaikutti varallisuuden puute. Jotku saattavat muistaa, että minulla oli toinen puhelin, jolla striimasin enemmän. Sen puhelimen akku ei pidä virtaa striimaamiseen.</p>
 <p>Virtapankit ovat näyttäneet vanhuuden merkkejä jo pidemmän aikaa. Ovat olleet käytössä muuallakin, kuin striimaamisessa. Ostettu edellisen vuoden aikana, ennen ekaa assembly striimiä. Testailin silloin sitä ulkona striimaamista. Assemblyssä kävin 2018 ja 2019.</p>
 <p>Ei olla vanhainkodissa striimaamassa, joten ei voi vielä lopettaa 😄</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>AirTag tutustumista</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/airtag-testiae/"/>
-        <id>https://jokiv.fi/airtag-testiae/</id>
-            <category term="youtube"/>
-            <category term="airtag"/>
-
-        <updated>2024-03-20T12:00:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Hommasin Applen <a href="https://fi.wikipedia.org/wiki/AirTag" title="AirTag Wikipedia" target="_blank" rel="noopener noreferrer">AirTagin</a>. Ajatuksena tutustua, mitä tuolla keksisi tehdä.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Hommasin Applen <a href="https://fi.wikipedia.org/wiki/AirTag" title="AirTag Wikipedia" target="_blank" rel="noopener noreferrer">AirTagin</a>. Ajatuksena tutustua, mitä tuolla keksisi tehdä.</p>
-
-<p>Toki ajatuksena kävi lähettää se jonnekkin postissa ja seurata lähetystä. Youtubessa on näitä videoita enemmän kuin tarpeeksi. Viimestään silloin, kun jossain kauempana käyn, tulee laitettua tuo tavaroiden sekaan.</p>
             ]]>
         </content>
     </entry>

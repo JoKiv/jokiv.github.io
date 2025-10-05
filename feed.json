@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/hitaita-paeivityksiae/",
+            "url": "https://jokiv.fi/hitaita-paeivityksiae/",
+            "title": "Hitaita päivityksiä",
+            "summary": "<p>Tässä ollut elämän kanssa enemmän ja vähemmän kiireitä. Vaikka aikaa olisi ollut kirjoittaa päivityksiä, aina ei ole ollut aiheita, mistä voisi kirjoitella. Päivitetään nyt jotain.</p>\n",
+            "content_html": "<p>Tässä ollut elämän kanssa enemmän ja vähemmän kiireitä. Vaikka aikaa olisi ollut kirjoittaa päivityksiä, aina ei ole ollut aiheita, mistä voisi kirjoitella. Päivitetään nyt jotain.</p>\n\n<p>Työt loppuivat aikaisemmin, kesän aikana. Määräaikainen sopimus.</p>\n<p>Päätin nyt aluksi keskittyväni enemmän striimien puolella retro-, konsoli- ja steam deckillä pelattaviin peleihin. Jossain välissä palaan myös irl- ja ulkoilustriimeihin. Saisi helpommin sisältöä useammalel päivälle striimeihin. Toki nykyisellä sisällöllä on helppo jaotella päiväkohtaiset aiheet, kuten olen discordissa listannut.</p>\n<p>Retron puolelle olen tilannut muutaman pelin, pari konetta ja muuta pientä. Sellaista, jotka omassa nuoruudessa ja aikana nuoruuden jälkeen ovat vaikuttaneet pelivalintoihin aikanaan. Niistä tulee enemmän discordissa ja striimissä.</p>\n<p>Aatoksissa on myös ollut muuttaa tätä blogia ja sivua jollain lailla. Vielä en ole mitään päättänyt, mutta katsellaan jos muutosta tulee jossain välissä. </p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "retro",
+                   "pelit",
+                   "laitteet"
+            ],
+            "date_published": "2025-10-05T16:04:41+03:00",
+            "date_modified": "2025-10-05T16:04:41+03:00"
+        },
+        {
             "id": "https://jokiv.fi/hyvaeae-uutta-vuotta/",
             "url": "https://jokiv.fi/hyvaeae-uutta-vuotta/",
             "title": "Hyvää uutta vuotta",
@@ -147,22 +164,6 @@
             ],
             "date_published": "2024-04-28T16:39:44+03:00",
             "date_modified": "2024-04-28T16:39:44+03:00"
-        },
-        {
-            "id": "https://jokiv.fi/airtag-testiae/",
-            "url": "https://jokiv.fi/airtag-testiae/",
-            "title": "AirTag tutustumista",
-            "summary": "<p>Hommasin Applen <a href=\"https://fi.wikipedia.org/wiki/AirTag\" title=\"AirTag Wikipedia\" target=\"_blank\" rel=\"noopener noreferrer\">AirTagin</a>. Ajatuksena tutustua, mitä tuolla keksisi tehdä.</p>\n",
-            "content_html": "<p>Hommasin Applen <a href=\"https://fi.wikipedia.org/wiki/AirTag\" title=\"AirTag Wikipedia\" target=\"_blank\" rel=\"noopener noreferrer\">AirTagin</a>. Ajatuksena tutustua, mitä tuolla keksisi tehdä.</p>\n\n<p>Toki ajatuksena kävi lähettää se jonnekkin postissa ja seurata lähetystä. Youtubessa on näitä videoita enemmän kuin tarpeeksi. Viimestään silloin, kun jossain kauempana käyn, tulee laitettua tuo tavaroiden sekaan.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "youtube",
-                   "airtag"
-            ],
-            "date_published": "2024-03-20T12:00:00+02:00",
-            "date_modified": "2024-03-22T11:13:48+02:00"
         }
     ]
 }
