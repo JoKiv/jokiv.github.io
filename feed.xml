@@ -3,7 +3,7 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2025-10-12T14:00:02+03:00</updated>
+    <updated>2025-10-12T14:13:41+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -38,9 +38,10 @@
 <p>Pääasiallinen asennus vei muutaman minuutin ja siellä oli valinnainen mahdollisuus generoida paremmat tekstuurit. Tämä oli myös kysymyksenä asennusvaiheessa, haluaako kopioida generoinnin tiedostot. Nämä olivat yksinään viidennellä levyllä.</p>
 <p>Generointi itsenään vei noin 4 tuntia ja 45 minuuttia laskea. Peliä pääsee pelaamaan alle vartissa, mutta jos haluaa generoida paremmat tekstuurit, se vie aikaa.</p>
 <p>Kun miettii amigan käyttäneen vanhoja kiintolevyjä, sekä mahdollinen käyttöjärjestelmän, jossa emulaattori pyöri, todennäköisesti cachettaneen kaiken kirjoituksen ram muistiin. Voisi olettaa, että vanhalle levyn käytöllä voi aika lähelle tuplaantua. Jos ei enemmänkin. Huhu tuntuu pitäneen paikkaansa, vaikka peliä voisi pelata huonommilla grafiikoilla ilman tuotakin. Toki peli toimi suoraan korpuiltakin.</p>
-<p>Turbotetulla amigalla (parhaat asetukset emulaattorista) generointiin meni 2-5 min.</p>
+<p>Emulaattorilla parhaalla amigalla (parhaat asetukset emulaattorista) generointiin meni 2-5 min. Vastaavan tasoiseen oikeaan Amigaan ei monellakaan ollut todennäköisesti mahdollisuutta tuona aikana, kun peli julkaistiin. Silti myös käytössä olisi ollu vanha kiintolevy.</p>
+<p>Vaikka asia olisi nopeutunut ja näppärimmät voineet käyttää RAM levyä, Mahdollisuudet tämän pelin pelaamiseen olivat ilman generointia korpulta tai kiintolevyltä, generoida sen aikansa (pistää vaikka yöksi laskemaan) tai pelata CD32 versiota pelistä.</p>
 <p>Valitettavasti minulla ei ole kirjoitushetkellä kuvakaappauksia tallessa, mutta eron huomaa. </p>
-<p>No tästä sitten jonku aikaa kului. Tuli tilattua lisää.</p>
+<p>No tästä sitten jonku aikaa kului. Tuli tilattua lisää. </p>
 <figure class="post__image"><img loading="lazy"  src="https://jokiv.fi/media/posts/83/cd32.jpeg" alt="CD32 versio pelistä" width="640" height="360" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jokiv.fi/media/posts/83/responsive/cd32-xs.jpeg 640w ,https://jokiv.fi/media/posts/83/responsive/cd32-sm.jpeg 768w ,https://jokiv.fi/media/posts/83/responsive/cd32-md.jpeg 1024w ,https://jokiv.fi/media/posts/83/responsive/cd32-lg.jpeg 1366w ,https://jokiv.fi/media/posts/83/responsive/cd32-xl.jpeg 1600w ,https://jokiv.fi/media/posts/83/responsive/cd32-2xl.jpeg 1920w"></figure>
 <p>Nyt taidan omistaa kaikki versiot pelistä. Pitäisiköhän harkita <a href="https://fi.wikipedia.org/wiki/Amiga_CD32" target="_blank" rel="noopener noreferrer">Amiga CD32</a> hommaamista. <span class="s1">😄 </span></p>
 <p><span class="s1">Pelin tosin pitäisi toimia Amiga 1200, kunhan siihen hommaa tarvittavat osat. </span><span class="s1">Vähän vaihtelevia raportteja lukenut, kuinka toimiva CD32:n pelaaminen Amiga 1200 loppujenlopuksi oli, kun itse Amiga CD32 ei ollut suuremmassa suosiossa myynnissä.</span></p>
