@@ -3,12 +3,51 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2025-10-06T12:52:13+03:00</updated>
+    <updated>2025-10-12T14:00:02+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Amigan retroa</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/amigan-retroa/"/>
+        <id>https://jokiv.fi/amigan-retroa/</id>
+            <category term="retro"/>
+            <category term="pelit"/>
+            <category term="amiga"/>
+
+        <updated>2025-10-12T14:00:02+03:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Tuossa jonku aikaa aikaisemmin tuli tilanttua <a href="https://en.wikipedia.org/wiki/Liberation:_Captive_2" target="_blank" rel="noopener noreferrer">Liberation: Captive 2</a> Amigalle. En tarkemmin katsonut tilausta. Kohtuu edulliseen hintaan kuitenkin sai näin vanhaksi peliksi. Ohjekirja ja muut mukana.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tuossa jonku aikaa aikaisemmin tuli tilanttua <a href="https://en.wikipedia.org/wiki/Liberation:_Captive_2" target="_blank" rel="noopener noreferrer">Liberation: Captive 2</a> Amigalle. En tarkemmin katsonut tilausta. Kohtuu edulliseen hintaan kuitenkin sai näin vanhaksi peliksi. Ohjekirja ja muut mukana.</p>
+
+<p>Tilaus saapui ja näytti hyväkuntoiselta. Ohjekirja mukana. Paketin avattua muistin, että "ainiin korppuversioki on olemassa". </p>
+<figure class="post__image"><img loading="lazy"  src="https://jokiv.fi/media/posts/83/korput.jpeg" alt="Viisi pelin levykettä" width="640" height="360" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jokiv.fi/media/posts/83/responsive/korput-xs.jpeg 640w ,https://jokiv.fi/media/posts/83/responsive/korput-sm.jpeg 768w ,https://jokiv.fi/media/posts/83/responsive/korput-md.jpeg 1024w ,https://jokiv.fi/media/posts/83/responsive/korput-lg.jpeg 1366w ,https://jokiv.fi/media/posts/83/responsive/korput-xl.jpeg 1600w ,https://jokiv.fi/media/posts/83/responsive/korput-2xl.jpeg 1920w"></figure>
+<p>Ei tämä silti huono hankinta ollut. </p>
+<p>Joku aika myöhemmin mietin ajatusta, että aikanaan liikkui huhu, että tuota voi pelata levykkeiltä ja sen asentaminen oikealla laitteella kiintolevylle kestäisi "ainaki 10 tuntia". Koska oma Amiga 1200 on vielä vaiheessa saada valmiiksi (puuttuu muuntaja, tilailen paremman varallisuuden aikaan netistä) ajattelin testata asiaa emulaattorissa.</p>
+<p>Pääasiallinen asennus vei muutaman minuutin ja siellä oli valinnainen mahdollisuus generoida paremmat tekstuurit. Tämä oli myös kysymyksenä asennusvaiheessa, haluaako kopioida generoinnin tiedostot. Nämä olivat yksinään viidennellä levyllä.</p>
+<p>Generointi itsenään vei noin 4 tuntia ja 45 minuuttia laskea. Peliä pääsee pelaamaan alle vartissa, mutta jos haluaa generoida paremmat tekstuurit, se vie aikaa.</p>
+<p>Kun miettii amigan käyttäneen vanhoja kiintolevyjä, sekä mahdollinen käyttöjärjestelmän, jossa emulaattori pyöri, todennäköisesti cachettaneen kaiken kirjoituksen ram muistiin. Voisi olettaa, että vanhalle levyn käytöllä voi aika lähelle tuplaantua. Jos ei enemmänkin. Huhu tuntuu pitäneen paikkaansa, vaikka peliä voisi pelata huonommilla grafiikoilla ilman tuotakin. Toki peli toimi suoraan korpuiltakin.</p>
+<p>Turbotetulla amigalla (parhaat asetukset emulaattorista) generointiin meni 2-5 min.</p>
+<p>Valitettavasti minulla ei ole kirjoitushetkellä kuvakaappauksia tallessa, mutta eron huomaa. </p>
+<p>No tästä sitten jonku aikaa kului. Tuli tilattua lisää.</p>
+<figure class="post__image"><img loading="lazy"  src="https://jokiv.fi/media/posts/83/cd32.jpeg" alt="CD32 versio pelistä" width="640" height="360" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jokiv.fi/media/posts/83/responsive/cd32-xs.jpeg 640w ,https://jokiv.fi/media/posts/83/responsive/cd32-sm.jpeg 768w ,https://jokiv.fi/media/posts/83/responsive/cd32-md.jpeg 1024w ,https://jokiv.fi/media/posts/83/responsive/cd32-lg.jpeg 1366w ,https://jokiv.fi/media/posts/83/responsive/cd32-xl.jpeg 1600w ,https://jokiv.fi/media/posts/83/responsive/cd32-2xl.jpeg 1920w"></figure>
+<p>Nyt taidan omistaa kaikki versiot pelistä. Pitäisiköhän harkita <a href="https://fi.wikipedia.org/wiki/Amiga_CD32" target="_blank" rel="noopener noreferrer">Amiga CD32</a> hommaamista. <span class="s1">😄 </span></p>
+<p><span class="s1">Pelin tosin pitäisi toimia Amiga 1200, kunhan siihen hommaa tarvittavat osat. </span><span class="s1">Vähän vaihtelevia raportteja lukenut, kuinka toimiva CD32:n pelaaminen Amiga 1200 loppujenlopuksi oli, kun itse Amiga CD32 ei ollut suuremmassa suosiossa myynnissä.</span></p>
+<p>Ehkä odottelen TheA1200 ja katselen mitä se osaa. Valitettavasti se näyttää viivästyvän. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hitaita päivityksiä</title>
         <author>
@@ -246,36 +285,6 @@
                 <p>Pientä päivitystä maanantain striimin aikana sattuneesta kolauksesta.</p>
 
 <p>Kuten jotkut teistä ehkä muistavat, kolautin polven alapuolelle ulkoillessa. Vamma paranee hyvin. Uskon, että loppuviiikkoon mennessä ei tarvitse lisähoitoa.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Pieniä ja pidempiä taukoja</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/pieniae-ja-pidempiae-taukoja/"/>
-        <id>https://jokiv.fi/pieniae-ja-pidempiae-taukoja/</id>
-            <category term="youtube"/>
-            <category term="laitteet"/>
-
-        <updated>2024-04-28T16:39:44+03:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Striimeissä on ollu pidempiä ja lyhyempiä taukoja. Inspiraatio hieman tipahti useamman vastoinkäymisen kanssa. En mene tarkemmin siihen, mitkä olivat häiritsevät tekijät. </p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Striimeissä on ollu pidempiä ja lyhyempiä taukoja. Inspiraatio hieman tipahti useamman vastoinkäymisen kanssa. En mene tarkemmin siihen, mitkä olivat häiritsevät tekijät. </p>
-
-<p>Striimin suhteen ajatuksena on ollut pyrkiä inspiroimaan itseäni tai sitten odotella kesää ja striimata enemmän ulkona. Katsoa nyt kumpi tulee ensin. </p>
-<p>Discordissa on tullut striimattua ajoittain. Ehkä se siitä lähtee Twitchin ja YouTuben puolelle jossain välissä. Tiedän, että useampi kyselee välistä, että missä striimit viipyvät. Vaikka tällä hetkellä ns. kevyeen striimaamiseen (ei suuria efektejä ja ilman kameraa) minulla on mahdollisuudet varmaan vuoksi eteenpäin, taukoja joutuu joskus vaan pitämään. </p>
-<p>Suunnitelmissa muuttaa hieman setuppia ulkona striimaamisen suhteen. Varallisuutta vaatisi ja sitä ei oikein satu olemaan. Katsellaan saako setuppiin muutosta kesällä tai loppuvuodesta. </p>
-<p>Nykyisen puhelimen tehot eivät sovi striimaamiseen. Edullisuuteen vaikutti varallisuuden puute. Jotku saattavat muistaa, että minulla oli toinen puhelin, jolla striimasin enemmän. Sen puhelimen akku ei pidä virtaa striimaamiseen.</p>
-<p>Virtapankit ovat näyttäneet vanhuuden merkkejä jo pidemmän aikaa. Ovat olleet käytössä muuallakin, kuin striimaamisessa. Ostettu edellisen vuoden aikana, ennen ekaa assembly striimiä. Testailin silloin sitä ulkona striimaamista. Assemblyssä kävin 2018 ja 2019.</p>
-<p>Ei olla vanhainkodissa striimaamassa, joten ei voi vielä lopettaa 😄</p>
             ]]>
         </content>
     </entry>
