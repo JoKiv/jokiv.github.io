@@ -3,12 +3,39 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2025-10-12T15:27:24+03:00</updated>
+    <updated>2025-11-16T13:39:22+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Kirjoituksia</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/kirjoituksia/"/>
+        <id>https://jokiv.fi/kirjoituksia/</id>
+            <category term="yritä edes"/>
+            <category term="retro"/>
+            <category term="pelit"/>
+
+        <updated>2025-11-16T13:39:22+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>Tässä muutaman päivän tullut kirjoitetua tekstiä, josta saattaa joko tulla oma sähköinen julkaisu tai sitten kopioin siitä tähän blogiin tekstiä. Ellen tee molempia. </p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tässä muutaman päivän tullut kirjoitetua tekstiä, josta saattaa joko tulla oma sähköinen julkaisu tai sitten kopioin siitä tähän blogiin tekstiä. Ellen tee molempia. </p>
+
+<p>Ajatus omasta sähköisestä julkaisusta kiehtoo, vaikka alkuperäinen ajatus oli jo yli 25 vuotta sitten oman lehden tekemisestä. Silloin siihen ei ollut mahdollisuuksia. Toki jos tarkemmin olis voinu ajatella ja tajuta, että sähköiset julkaisut tekstitiedostojen muodossa olivat joissain piireissä todella yleisiä. Ei kaikkea tarvittu julkaista paperille.</p>
+<p>Katsellaan lähteekö tämä tästä vai jääkö vain yritykseksi. Pääasiallisena aiheena retroon liittyvät asiat ja laitteet, pelit, linux, yms. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Amigan retroa</title>
         <author>
@@ -21,7 +48,7 @@
             <category term="amiga"/>
 
         <updated>2025-10-12T14:00:02+03:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     <p>Tuossa jonku aikaa aikaisemmin tuli tilattua <a href="https://en.wikipedia.org/wiki/Liberation:_Captive_2" target="_blank" rel="noopener noreferrer">Liberation: Captive 2</a> Amigalle. En tarkemmin katsonut tilausta. Kohtuu edulliseen hintaan kuitenkin sai näin vanhaksi peliksi. Ohjekirja ja muut mukana.</p>
 
@@ -61,7 +88,7 @@
             <category term="laitteet"/>
 
         <updated>2025-10-05T16:04:41+03:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     <p>Tässä ollut elämän kanssa enemmän ja vähemmän kiireitä. Vaikka aikaa olisi ollut kirjoittaa päivityksiä, aina ei ole ollut aiheita, mistä voisi kirjoitella. Päivitetään nyt jotain.</p>
 
@@ -87,7 +114,7 @@
         <id>https://jokiv.fi/hyvaeae-uutta-vuotta/</id>
 
         <updated>2025-01-01T00:01:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Hyvää uutta vuotta kaikille! Uusi vuosi tuokoon mukanaan uusia mahdollisuuksia ja tavoitteita. Onnea, menestystä ja inspiraatiota tulevalle vuodelle.
                 ]]>
@@ -111,7 +138,7 @@
             <category term="flash"/>
 
         <updated>2024-12-15T13:57:44+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     <p>Otsikon mukainen sanonta on aika tunnettu. Tässä kuitenki voi joidenki mielestä olla joidenkin mielestä "mutta miksi..", varsinkin kun kyseessä on <a href="https://en.wikipedia.org/wiki/Adobe_Flash" target="_blank" rel="noopener noreferrer">flash</a>.</p>
 
@@ -141,7 +168,7 @@
         <id>https://jokiv.fi/kuukausi-toeitae-takana/</id>
 
         <updated>2024-09-30T08:57:12+03:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     <p>Nyt kun on ollu töissä kuukauden, huomaan miten pirteys ja jaksaminen ovat parantuneet.</p>
 
@@ -168,7 +195,7 @@
             <category term="steam"/>
 
         <updated>2024-08-01T14:00:00+03:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     <p>Kirjoitin <a>aikaisemmin</a> Steam Deck Docking Stationin hommaamisesta.</p>
 
@@ -195,7 +222,7 @@
             <category term="ko-fi"/>
 
         <updated>2024-06-04T10:49:46+03:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     <p><strong>Lyhyt versio</strong>: jotku maksutavat ovat väliaikaisesti (jos ei pysyvästi) pois ko-fi:n maksuista ja lahjoituksista.</p>
 
@@ -221,7 +248,7 @@
             <category term="guilded"/>
 
         <updated>2024-06-03T13:16:00+03:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     <p>Päätin poistaa Guilded tunnuksen. Siellä minulla ei ollut yhteyksiä keneenkään. Syyn voi lukea alla olevasta <a href="https://en.wikipedia.org/wiki/Guilded" target="_blank" rel="noopener noreferrer">wikipedian lainauksesta</a>.</p>
 
@@ -248,7 +275,7 @@
             <category term="video"/>
 
         <updated>2024-06-01T17:51:56+03:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     <p>Tänään oli striimissä testissä <a href="https://prismlive.com/" target="_blank" rel="noopener noreferrer">Prism Live Studio</a> kännykällä. </p>
 
@@ -262,30 +289,6 @@
 <p>Hyvä lisä oli myös, että lähetyksen sai tallennettua puhelimelle. Iso yllätys oli, että vaikka lähetys oli 720p, tallenne oli 1080p. Tätä Twitchin ja YouTuben sovellukset eivät osaa tehdä. Jos haluat kopion, sinun tulee ladata lähetetty video, joka ei ole alkuperäisen tasolla. Jos lähetys on mutetettu joko virheellisesti tai aiheesta, et saa haettua alkuperäistä ääntä.</p>
 <p>Huonoina puolina voisi sanoa, että ainakin oletuksena (en tiedä voiko asiaa muuttaa) chatin tekstin tyyli ja väri oli valittu sellaisiksi, että jos aurinko paistoi sopivasta suunnasta, siitä ei saanut mitään selvää. Tähän voivat myös vaikuttaa puhelimen näyttö ja himmennysasetukset, joten en suoraan leimaa sovelluksen syyksi.</p>
 <p>Neutraalina puolena voi sanoa, että akun kulutus oli suurempi kuin Twitchin oman sovelluksen. Tosin tässä kohtaa annan anteeksi, kun kuitenkin tallennetaan videota paremmalla laadulla puhelimelle. YouTuben omaan sovellukseen verrattuna kulutus on suunnilleen sama, vaikka YouTuben laatu jäi todella huonoksi.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Striimatessa sattuu</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/striimatessa-sattuu/"/>
-        <id>https://jokiv.fi/striimatessa-sattuu/</id>
-            <category term="youtube"/>
-
-        <updated>2024-05-22T18:15:17+03:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Pientä päivitystä maanantain striimin aikana sattuneesta kolauksesta.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Pientä päivitystä maanantain striimin aikana sattuneesta kolauksesta.</p>
-
-<p>Kuten jotkut teistä ehkä muistavat, kolautin polven alapuolelle ulkoillessa. Vamma paranee hyvin. Uskon, että loppuviiikkoon mennessä ei tarvitse lisähoitoa.</p>
             ]]>
         </content>
     </entry>

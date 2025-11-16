@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/kirjoituksia/",
+            "url": "https://jokiv.fi/kirjoituksia/",
+            "title": "Kirjoituksia",
+            "summary": "<p>Tässä muutaman päivän tullut kirjoitetua tekstiä, josta saattaa joko tulla oma sähköinen julkaisu tai sitten kopioin siitä tähän blogiin tekstiä. Ellen tee molempia. </p>\n",
+            "content_html": "<p>Tässä muutaman päivän tullut kirjoitetua tekstiä, josta saattaa joko tulla oma sähköinen julkaisu tai sitten kopioin siitä tähän blogiin tekstiä. Ellen tee molempia. </p>\n\n<p>Ajatus omasta sähköisestä julkaisusta kiehtoo, vaikka alkuperäinen ajatus oli jo yli 25 vuotta sitten oman lehden tekemisestä. Silloin siihen ei ollut mahdollisuuksia. Toki jos tarkemmin olis voinu ajatella ja tajuta, että sähköiset julkaisut tekstitiedostojen muodossa olivat joissain piireissä todella yleisiä. Ei kaikkea tarvittu julkaista paperille.</p>\n<p>Katsellaan lähteekö tämä tästä vai jääkö vain yritykseksi. Pääasiallisena aiheena retroon liittyvät asiat ja laitteet, pelit, linux, yms. </p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "yritä edes",
+                   "retro",
+                   "pelit"
+            ],
+            "date_published": "2025-11-16T13:39:22+02:00",
+            "date_modified": "2025-11-16T13:39:22+02:00"
+        },
+        {
             "id": "https://jokiv.fi/amigan-retroa/",
             "url": "https://jokiv.fi/amigan-retroa/",
             "title": "Amigan retroa",
@@ -150,21 +167,6 @@
             ],
             "date_published": "2024-06-01T17:51:56+03:00",
             "date_modified": "2024-06-01T17:56:34+03:00"
-        },
-        {
-            "id": "https://jokiv.fi/striimatessa-sattuu/",
-            "url": "https://jokiv.fi/striimatessa-sattuu/",
-            "title": "Striimatessa sattuu",
-            "summary": "<p>Pientä päivitystä maanantain striimin aikana sattuneesta kolauksesta.</p>\n",
-            "content_html": "<p>Pientä päivitystä maanantain striimin aikana sattuneesta kolauksesta.</p>\n\n<p>Kuten jotkut teistä ehkä muistavat, kolautin polven alapuolelle ulkoillessa. Vamma paranee hyvin. Uskon, että loppuviiikkoon mennessä ei tarvitse lisähoitoa.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "youtube"
-            ],
-            "date_published": "2024-05-22T18:15:17+03:00",
-            "date_modified": "2024-05-22T18:16:20+03:00"
         }
     ]
 }
