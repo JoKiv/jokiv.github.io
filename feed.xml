@@ -3,12 +3,39 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2025-11-16T13:39:22+02:00</updated>
+    <updated>2025-11-24T17:15:18+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Amigan retroa</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/amigan-retroa-2/"/>
+        <id>https://jokiv.fi/amigan-retroa-2/</id>
+            <category term="retro"/>
+            <category term="ohjelmointi"/>
+            <category term="amiga"/>
+
+        <updated>2025-11-24T17:15:18+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>Päätin katsella jälleenmyyjiä <a href="https://retrogames.biz/products/thea1200/">TheA1200</a> ja nähtävästi niitä on suomessakin ainakin pari kappaletta.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Päätin katsella jälleenmyyjiä <a href="https://retrogames.biz/products/thea1200/">TheA1200</a> ja nähtävästi niitä on suomessakin ainakin pari kappaletta.</p>
+
+<p>Saatan jopa ennakkotilata, vaikka aikaisemmin kommentoin katsovani lähempänä kesää. </p>
+<p>Koska kamppeessa on <a href="https://en.wikipedia.org/wiki/Workbench_(AmigaOS)">Workbench</a> (Amigan graafinen käyttöjärjestelmä) käytettävissä, saatan jopa palata siihen ajatukseen, että jos sillä voisi tehdä omia ohjelmia tai pelejä. Sen näkee sitten siinä vaiheessa.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Kirjoituksia</title>
         <author>
@@ -262,33 +289,6 @@
 <p>On May 31st, 2024, Guilded announced that all current and future accounts will be required to have a Roblox account linked before July 15th, 2024 in order to continue using their account with new accounts only having the option to sign up with Roblox.  -- Wikipedia</p>
 </blockquote>
 <p>Minulla oli näköjään myös vanha Roblox tunnus, jota he eivät olleet poistaneet käyttämättömyydestä huolimatta. Tein myös sille poistopyynnön.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Toista striimaus softaa</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/toista-striimaus-softaa/"/>
-        <id>https://jokiv.fi/toista-striimaus-softaa/</id>
-            <category term="video"/>
-
-        <updated>2024-06-01T17:51:56+03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p>Tänään oli striimissä testissä <a href="https://prismlive.com/" target="_blank" rel="noopener noreferrer">Prism Live Studio</a> kännykällä. </p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Tänään oli striimissä testissä <a href="https://prismlive.com/" target="_blank" rel="noopener noreferrer">Prism Live Studio</a> kännykällä. </p>
-
-<p>Hyvinä puolina voi sanoa, että ohjelma toimi ongelmitta ja striimaus sujui hyvin. Myöskään mitään ylimääräisiä logoja yms. ei näkynyt lähetyskuvassa. Lähetyksen loputtua tuli pieni lopetusanimaatio, joka mainitsi softasta, mutta tämä ei ollut mitenkään ongelma.</p>
-<p>Hyvä lisä oli myös, että lähetyksen sai tallennettua puhelimelle. Iso yllätys oli, että vaikka lähetys oli 720p, tallenne oli 1080p. Tätä Twitchin ja YouTuben sovellukset eivät osaa tehdä. Jos haluat kopion, sinun tulee ladata lähetetty video, joka ei ole alkuperäisen tasolla. Jos lähetys on mutetettu joko virheellisesti tai aiheesta, et saa haettua alkuperäistä ääntä.</p>
-<p>Huonoina puolina voisi sanoa, että ainakin oletuksena (en tiedä voiko asiaa muuttaa) chatin tekstin tyyli ja väri oli valittu sellaisiksi, että jos aurinko paistoi sopivasta suunnasta, siitä ei saanut mitään selvää. Tähän voivat myös vaikuttaa puhelimen näyttö ja himmennysasetukset, joten en suoraan leimaa sovelluksen syyksi.</p>
-<p>Neutraalina puolena voi sanoa, että akun kulutus oli suurempi kuin Twitchin oman sovelluksen. Tosin tässä kohtaa annan anteeksi, kun kuitenkin tallennetaan videota paremmalla laadulla puhelimelle. YouTuben omaan sovellukseen verrattuna kulutus on suunnilleen sama, vaikka YouTuben laatu jäi todella huonoksi.</p>
             ]]>
         </content>
     </entry>
