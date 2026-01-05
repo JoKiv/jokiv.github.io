@@ -3,12 +3,32 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2025-11-24T17:15:18+02:00</updated>
+    <updated>2026-01-05T14:30:14+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Hyvää uutta vuotta!</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/hyvaeae-uutta-vuotta-2/"/>
+        <id>https://jokiv.fi/hyvaeae-uutta-vuotta-2/</id>
+
+        <updated>2026-01-01T00:00:00+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Hyvää uutta vuotta 2026!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hyvää uutta vuotta 2026!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Amigan retroa</title>
         <author>
@@ -261,34 +281,6 @@
 
 <p>Otin osan maksutavoista käytöstä, kun niiden kolmannen osapuolen käsittelijä (Stripe) on nähtävästi vaihtanut ehtoja, millaisia maksuja he välittävät tänä vuonna. <em>Sisällöntuottaminen ja striimaaminen</em> on yksiä aiheita, joista ne eivät nähtävästi liikaa pidä. Ko-fi tunnetaan juuri näistä parhaiten, vaikka se ei pelkästään niihin keskity.</p>
 <p>Tämä ei estä palvelun käyttämistä lahjoituksiin, mutta jotku maksamisen vaihtoehdot voivat olla kadoksissa.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Guilded tunnuksen poistaminen</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/guilded-tunnuksen-poistaminen/"/>
-        <id>https://jokiv.fi/guilded-tunnuksen-poistaminen/</id>
-            <category term="roblox"/>
-            <category term="guilded"/>
-
-        <updated>2024-06-03T13:16:00+03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p>Päätin poistaa Guilded tunnuksen. Siellä minulla ei ollut yhteyksiä keneenkään. Syyn voi lukea alla olevasta <a href="https://en.wikipedia.org/wiki/Guilded" target="_blank" rel="noopener noreferrer">wikipedian lainauksesta</a>.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Päätin poistaa Guilded tunnuksen. Siellä minulla ei ollut yhteyksiä keneenkään. Syyn voi lukea alla olevasta <a href="https://en.wikipedia.org/wiki/Guilded" target="_blank" rel="noopener noreferrer">wikipedian lainauksesta</a>.</p>
-
-<blockquote>
-<p>On May 31st, 2024, Guilded announced that all current and future accounts will be required to have a Roblox account linked before July 15th, 2024 in order to continue using their account with new accounts only having the option to sign up with Roblox.  -- Wikipedia</p>
-</blockquote>
-<p>Minulla oli näköjään myös vanha Roblox tunnus, jota he eivät olleet poistaneet käyttämättömyydestä huolimatta. Tein myös sille poistopyynnön.</p>
             ]]>
         </content>
     </entry>

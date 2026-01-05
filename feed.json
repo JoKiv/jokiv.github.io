@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/hyvaeae-uutta-vuotta-2/",
+            "url": "https://jokiv.fi/hyvaeae-uutta-vuotta-2/",
+            "title": "Hyvää uutta vuotta!",
+            "summary": "Hyvää uutta vuotta 2026!",
+            "content_html": "<p>Hyvää uutta vuotta 2026!</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-01T00:00:00+02:00",
+            "date_modified": "2026-01-05T14:30:14+02:00"
+        },
+        {
             "id": "https://jokiv.fi/amigan-retroa-2/",
             "url": "https://jokiv.fi/amigan-retroa-2/",
             "title": "Amigan retroa",
@@ -153,22 +167,6 @@
             ],
             "date_published": "2024-06-04T10:49:46+03:00",
             "date_modified": "2024-06-04T10:52:22+03:00"
-        },
-        {
-            "id": "https://jokiv.fi/guilded-tunnuksen-poistaminen/",
-            "url": "https://jokiv.fi/guilded-tunnuksen-poistaminen/",
-            "title": "Guilded tunnuksen poistaminen",
-            "summary": "<p>Päätin poistaa Guilded tunnuksen. Siellä minulla ei ollut yhteyksiä keneenkään. Syyn voi lukea alla olevasta <a href=\"https://en.wikipedia.org/wiki/Guilded\" target=\"_blank\" rel=\"noopener noreferrer\">wikipedian lainauksesta</a>.</p>\n",
-            "content_html": "<p>Päätin poistaa Guilded tunnuksen. Siellä minulla ei ollut yhteyksiä keneenkään. Syyn voi lukea alla olevasta <a href=\"https://en.wikipedia.org/wiki/Guilded\" target=\"_blank\" rel=\"noopener noreferrer\">wikipedian lainauksesta</a>.</p>\n\n<blockquote>\n<p>On May 31st, 2024, Guilded announced that all current and future accounts will be required to have a Roblox account linked before July 15th, 2024 in order to continue using their account with new accounts only having the option to sign up with Roblox.  -- Wikipedia</p>\n</blockquote>\n<p>Minulla oli näköjään myös vanha Roblox tunnus, jota he eivät olleet poistaneet käyttämättömyydestä huolimatta. Tein myös sille poistopyynnön.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "roblox",
-                   "guilded"
-            ],
-            "date_published": "2024-06-03T13:16:00+03:00",
-            "date_modified": "2024-06-04T13:17:24+03:00"
         }
     ]
 }
