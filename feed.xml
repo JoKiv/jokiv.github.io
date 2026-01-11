@@ -3,12 +3,40 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2026-01-05T14:30:14+02:00</updated>
+    <updated>2026-01-11T11:10:02+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Vanhoja tilauksia (c64u)</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/vanhoja-tilauksia/"/>
+        <id>https://jokiv.fi/vanhoja-tilauksia/</id>
+            <category term="laitteet"/>
+            <category term="c64u"/>
+            <category term="c64"/>
+
+        <updated>2026-01-11T11:10:02+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>Tuli syyskuussa tilattua <a href="https://commodore.net" target="_blank" rel="nofollow noopener noreferrer">Commodore 64 Ultimate</a>.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tuli syyskuussa tilattua <a href="https://commodore.net" target="_blank" rel="nofollow noopener noreferrer">Commodore 64 Ultimate</a>.</p>
+
+<p>Muutamien toimitusviiveiden jälkeen sain sitten sähköpostia perjantaina (9. tammikuuta) paketin saaneen seurantanumeron. Netistä lukemisen perusteella: tarkempi seuranta näkyy vasta, kun paketti skannataan pohjoismaissa. Viikonloppu voi hidastaa asiaa ja netin mukaan lähtöpaikassa on huonot sääolosuhteet, jotka hidastavat lähetyksiä.</p>
+<p>On tätä yli 35 vuotta muutenkin odottanut, että olisi hyvä syy palata hyvien pelien pariin. Voi sitä hyvillä mielin ensiviikkooon vielä odotella.</p>
+<p>Mallina se vanhan näköinen "Basic Beige". Minua ei hurmannut ledivalot tai läpinäkyvä kotelo. Tosin jostain muistan lukeneeni (todennäköisesti reddit tai lemon64) että emolevy on ymmärtääkseni sama kaikissa, siellä on se led valojen liitäntä. Sekä optiot eivät ole rajattuja pois. Asetuksista pitäisi löytyä ledivalojen asetus, vaikka sellaisia ei mukana tule. Ehkä joskus siitä projekti.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hyvää uutta vuotta!</title>
         <author>
@@ -256,31 +284,6 @@
 <p>Laitoin tilauksen kyseisestä laitteesta. Tämä korvaa rikkoutuneen HDMI-adapterin ja helpottaa striimaamista.</p>
 <p>Toivotaan, että tulee ensiviikolla.</p>
 <p><em>Päivitys: Laite saapui 9.8.24</em></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Muutoksia ko-fi suhteen</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/muutoksia-ko-fi-suhteen/"/>
-        <id>https://jokiv.fi/muutoksia-ko-fi-suhteen/</id>
-            <category term="ko-fi"/>
-
-        <updated>2024-06-04T10:49:46+03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p><strong>Lyhyt versio</strong>: jotku maksutavat ovat väliaikaisesti (jos ei pysyvästi) pois ko-fi:n maksuista ja lahjoituksista.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><strong>Lyhyt versio</strong>: jotku maksutavat ovat väliaikaisesti (jos ei pysyvästi) pois ko-fi:n maksuista ja lahjoituksista.</p>
-
-<p>Otin osan maksutavoista käytöstä, kun niiden kolmannen osapuolen käsittelijä (Stripe) on nähtävästi vaihtanut ehtoja, millaisia maksuja he välittävät tänä vuonna. <em>Sisällöntuottaminen ja striimaaminen</em> on yksiä aiheita, joista ne eivät nähtävästi liikaa pidä. Ko-fi tunnetaan juuri näistä parhaiten, vaikka se ei pelkästään niihin keskity.</p>
-<p>Tämä ei estä palvelun käyttämistä lahjoituksiin, mutta jotku maksamisen vaihtoehdot voivat olla kadoksissa.</p>
             ]]>
         </content>
     </entry>

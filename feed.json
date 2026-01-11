@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/vanhoja-tilauksia/",
+            "url": "https://jokiv.fi/vanhoja-tilauksia/",
+            "title": "Vanhoja tilauksia (c64u)",
+            "summary": "<p>Tuli syyskuussa tilattua <a href=\"https://commodore.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Commodore 64 Ultimate</a>.</p>\n",
+            "content_html": "<p>Tuli syyskuussa tilattua <a href=\"https://commodore.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Commodore 64 Ultimate</a>.</p>\n\n<p>Muutamien toimitusviiveiden jälkeen sain sitten sähköpostia perjantaina (9. tammikuuta) paketin saaneen seurantanumeron. Netistä lukemisen perusteella: tarkempi seuranta näkyy vasta, kun paketti skannataan pohjoismaissa. Viikonloppu voi hidastaa asiaa ja netin mukaan lähtöpaikassa on huonot sääolosuhteet, jotka hidastavat lähetyksiä.</p>\n<p>On tätä yli 35 vuotta muutenkin odottanut, että olisi hyvä syy palata hyvien pelien pariin. Voi sitä hyvillä mielin ensiviikkooon vielä odotella.</p>\n<p>Mallina se vanhan näköinen \"Basic Beige\". Minua ei hurmannut ledivalot tai läpinäkyvä kotelo. Tosin jostain muistan lukeneeni (todennäköisesti reddit tai lemon64) että emolevy on ymmärtääkseni sama kaikissa, siellä on se led valojen liitäntä. Sekä optiot eivät ole rajattuja pois. Asetuksista pitäisi löytyä ledivalojen asetus, vaikka sellaisia ei mukana tule. Ehkä joskus siitä projekti.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "laitteet",
+                   "c64u",
+                   "c64"
+            ],
+            "date_published": "2026-01-11T11:10:02+02:00",
+            "date_modified": "2026-01-11T11:10:02+02:00"
+        },
+        {
             "id": "https://jokiv.fi/hyvaeae-uutta-vuotta-2/",
             "url": "https://jokiv.fi/hyvaeae-uutta-vuotta-2/",
             "title": "Hyvää uutta vuotta!",
@@ -152,21 +169,6 @@
             ],
             "date_published": "2024-08-01T14:00:00+03:00",
             "date_modified": "2024-08-17T19:11:10+03:00"
-        },
-        {
-            "id": "https://jokiv.fi/muutoksia-ko-fi-suhteen/",
-            "url": "https://jokiv.fi/muutoksia-ko-fi-suhteen/",
-            "title": "Muutoksia ko-fi suhteen",
-            "summary": "<p><strong>Lyhyt versio</strong>: jotku maksutavat ovat väliaikaisesti (jos ei pysyvästi) pois ko-fi:n maksuista ja lahjoituksista.</p>\n",
-            "content_html": "<p><strong>Lyhyt versio</strong>: jotku maksutavat ovat väliaikaisesti (jos ei pysyvästi) pois ko-fi:n maksuista ja lahjoituksista.</p>\n\n<p>Otin osan maksutavoista käytöstä, kun niiden kolmannen osapuolen käsittelijä (Stripe) on nähtävästi vaihtanut ehtoja, millaisia maksuja he välittävät tänä vuonna. <em>Sisällöntuottaminen ja striimaaminen</em> on yksiä aiheita, joista ne eivät nähtävästi liikaa pidä. Ko-fi tunnetaan juuri näistä parhaiten, vaikka se ei pelkästään niihin keskity.</p>\n<p>Tämä ei estä palvelun käyttämistä lahjoituksiin, mutta jotku maksamisen vaihtoehdot voivat olla kadoksissa.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "ko-fi"
-            ],
-            "date_published": "2024-06-04T10:49:46+03:00",
-            "date_modified": "2024-06-04T10:52:22+03:00"
         }
     ]
 }
