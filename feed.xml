@@ -3,12 +3,41 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2026-01-11T11:10:02+02:00</updated>
+    <updated>2026-01-30T12:51:24+02:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Kuusnepa on kotona</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/kuusnepa-on-kotona/"/>
+        <id>https://jokiv.fi/kuusnepa-on-kotona/</id>
+            <category term="retro"/>
+            <category term="laitteet"/>
+            <category term="c64u"/>
+
+        <updated>2026-01-20T14:00:00+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p><a href="https://jokiv.fi/vanhoja-tilauksia/" target="_blank" rel="noopener noreferrer">Kuusnepa</a> saapui.</p>
+<figure class="post__image"><img loading="lazy"  src="https://jokiv.fi/media/posts/88/c64u.jpeg" alt="C64U" width="1280" height="720" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jokiv.fi/media/posts/88/responsive/c64u-xs.jpeg 640w ,https://jokiv.fi/media/posts/88/responsive/c64u-sm.jpeg 768w ,https://jokiv.fi/media/posts/88/responsive/c64u-md.jpeg 1024w ,https://jokiv.fi/media/posts/88/responsive/c64u-lg.jpeg 1366w ,https://jokiv.fi/media/posts/88/responsive/c64u-xl.jpeg 1600w ,https://jokiv.fi/media/posts/88/responsive/c64u-2xl.jpeg 1920w"></figure>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://jokiv.fi/vanhoja-tilauksia/" target="_blank" rel="noopener noreferrer">Kuusnepa</a> saapui.</p>
+<figure class="post__image"><img loading="lazy"  src="https://jokiv.fi/media/posts/88/c64u.jpeg" alt="C64U" width="1280" height="720" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jokiv.fi/media/posts/88/responsive/c64u-xs.jpeg 640w ,https://jokiv.fi/media/posts/88/responsive/c64u-sm.jpeg 768w ,https://jokiv.fi/media/posts/88/responsive/c64u-md.jpeg 1024w ,https://jokiv.fi/media/posts/88/responsive/c64u-lg.jpeg 1366w ,https://jokiv.fi/media/posts/88/responsive/c64u-xl.jpeg 1600w ,https://jokiv.fi/media/posts/88/responsive/c64u-2xl.jpeg 1920w"></figure>
+
+<p>Laitteen käyttövalmiiksi saaminen ja käyttö sujui aika ongelmitta, kun youtubea oli tullut odotellessa selattua paljon aiheen ympäriltä 😄</p>
+<p>Paketoinnissa positiivisena yllätyksenä oli, että monilla youtubessa osa asioista oli liimattu tiukasti kiinni ja irrottaminen saattoi vahingoittaa tuotteita. Itsellä mikään ei ollut liimattu kiinni.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Vanhoja tilauksia (c64u)</title>
         <author>
@@ -256,34 +285,6 @@
 <p>Säännöllinen rytmi on tuonut lisää energiaa päiviin, ja herään useammin virkeänä. Vaikka en ole erityisesti kärsinyt uniongelmista, nukkumaan meno on nyt helpompaa kuin ennen. Työpäivät antavat juuri sopivasti haastetta ja rasitusta, joka auttaa rentoutumaan illalla. Säännöllisyys ja tasapaino vaikuttaa hyvinvointiin.</p>
 <p>Striimaaminen on taas käynnistynyt pitkän tauon jälkeen, ja nyt takana on muutama kerta. Pidempi tauko piti homman poissa hetken aikaa. Katsella tuleeko millä aikataululla ja useammin kuin pari kertaa kuukaudessa. Jatkon näkee sitten.</p>
 <p>Myös YouTube on jäänyt vähän vähemmälle, mutta katsellaan mitä sinne saisi aikaan.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Vielä Steam Deck Dockista</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/vielae-steam-deck-dockista/"/>
-        <id>https://jokiv.fi/vielae-steam-deck-dockista/</id>
-            <category term="steam deck"/>
-            <category term="steam"/>
-
-        <updated>2024-08-01T14:00:00+03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p>Kirjoitin <a>aikaisemmin</a> Steam Deck Docking Stationin hommaamisesta.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Kirjoitin <a>aikaisemmin</a> Steam Deck Docking Stationin hommaamisesta.</p>
-
-<p>Myin viime kuukausien aikana suurimman osan Steam-inventaarion tavaroista. Laskenut, että voin maksaa loput summasta.</p>
-<p>Laitoin tilauksen kyseisestä laitteesta. Tämä korvaa rikkoutuneen HDMI-adapterin ja helpottaa striimaamista.</p>
-<p>Toivotaan, että tulee ensiviikolla.</p>
-<p><em>Päivitys: Laite saapui 9.8.24</em></p>
             ]]>
         </content>
     </entry>

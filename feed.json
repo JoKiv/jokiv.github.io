@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/kuusnepa-on-kotona/",
+            "url": "https://jokiv.fi/kuusnepa-on-kotona/",
+            "title": "Kuusnepa on kotona",
+            "summary": "<p><a href=\"https://jokiv.fi/vanhoja-tilauksia/\" target=\"_blank\" rel=\"noopener noreferrer\">Kuusnepa</a> saapui.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jokiv.fi/media/posts/88/c64u.jpeg\" alt=\"C64U\" width=\"1280\" height=\"720\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://jokiv.fi/media/posts/88/responsive/c64u-xs.jpeg 640w ,https://jokiv.fi/media/posts/88/responsive/c64u-sm.jpeg 768w ,https://jokiv.fi/media/posts/88/responsive/c64u-md.jpeg 1024w ,https://jokiv.fi/media/posts/88/responsive/c64u-lg.jpeg 1366w ,https://jokiv.fi/media/posts/88/responsive/c64u-xl.jpeg 1600w ,https://jokiv.fi/media/posts/88/responsive/c64u-2xl.jpeg 1920w\"></figure>\n",
+            "content_html": "<p><a href=\"https://jokiv.fi/vanhoja-tilauksia/\" target=\"_blank\" rel=\"noopener noreferrer\">Kuusnepa</a> saapui.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jokiv.fi/media/posts/88/c64u.jpeg\" alt=\"C64U\" width=\"1280\" height=\"720\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://jokiv.fi/media/posts/88/responsive/c64u-xs.jpeg 640w ,https://jokiv.fi/media/posts/88/responsive/c64u-sm.jpeg 768w ,https://jokiv.fi/media/posts/88/responsive/c64u-md.jpeg 1024w ,https://jokiv.fi/media/posts/88/responsive/c64u-lg.jpeg 1366w ,https://jokiv.fi/media/posts/88/responsive/c64u-xl.jpeg 1600w ,https://jokiv.fi/media/posts/88/responsive/c64u-2xl.jpeg 1920w\"></figure>\n\n<p>Laitteen käyttövalmiiksi saaminen ja käyttö sujui aika ongelmitta, kun youtubea oli tullut odotellessa selattua paljon aiheen ympäriltä 😄</p>\n<p>Paketoinnissa positiivisena yllätyksenä oli, että monilla youtubessa osa asioista oli liimattu tiukasti kiinni ja irrottaminen saattoi vahingoittaa tuotteita. Itsellä mikään ei ollut liimattu kiinni.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+                   "retro",
+                   "laitteet",
+                   "c64u"
+            ],
+            "date_published": "2026-01-20T14:00:00+02:00",
+            "date_modified": "2026-01-30T12:51:24+02:00"
+        },
+        {
             "id": "https://jokiv.fi/vanhoja-tilauksia/",
             "url": "https://jokiv.fi/vanhoja-tilauksia/",
             "title": "Vanhoja tilauksia (c64u)",
@@ -153,22 +170,6 @@
             ],
             "date_published": "2024-09-30T08:57:12+03:00",
             "date_modified": "2024-09-30T08:57:12+03:00"
-        },
-        {
-            "id": "https://jokiv.fi/vielae-steam-deck-dockista/",
-            "url": "https://jokiv.fi/vielae-steam-deck-dockista/",
-            "title": "Vielä Steam Deck Dockista",
-            "summary": "<p>Kirjoitin <a>aikaisemmin</a> Steam Deck Docking Stationin hommaamisesta.</p>\n",
-            "content_html": "<p>Kirjoitin <a>aikaisemmin</a> Steam Deck Docking Stationin hommaamisesta.</p>\n\n<p>Myin viime kuukausien aikana suurimman osan Steam-inventaarion tavaroista. Laskenut, että voin maksaa loput summasta.</p>\n<p>Laitoin tilauksen kyseisestä laitteesta. Tämä korvaa rikkoutuneen HDMI-adapterin ja helpottaa striimaamista.</p>\n<p>Toivotaan, että tulee ensiviikolla.</p>\n<p><em>Päivitys: Laite saapui 9.8.24</em></p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-                   "steam deck",
-                   "steam"
-            ],
-            "date_published": "2024-08-01T14:00:00+03:00",
-            "date_modified": "2024-08-17T19:11:10+03:00"
         }
     ]
 }
