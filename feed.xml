@@ -3,7 +3,7 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2026-04-03T14:36:10+03:00</updated>
+    <updated>2026-04-03T14:36:51+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
@@ -16,6 +16,9 @@
         </author>
         <link href="https://jokiv.fi/lyhyesti-testattu-liberation-captive-2/"/>
         <id>https://jokiv.fi/lyhyesti-testattu-liberation-captive-2/</id>
+            <category term="retro"/>
+            <category term="pelit"/>
+            <category term="amiga"/>
 
         <updated>2026-03-23T14:33:00+02:00</updated>
             <summary type="html">
