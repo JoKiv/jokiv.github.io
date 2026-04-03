@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://jokiv.fi/lyhyesti-testattu-liberation-captive-2/",
+            "url": "https://jokiv.fi/lyhyesti-testattu-liberation-captive-2/",
+            "title": "Lyhyesti testattu Liberation: Captive 2",
+            "summary": "<p>Tuossa tuli testattua <a href=\"https://jokiv.fi/amigan-retroa/\" target=\"_blank\" rel=\"noopener noreferrer\">Liberation: Captive 2</a> pelin CD32 versiota.</p>\n",
+            "content_html": "<p>Tuossa tuli testattua <a href=\"https://jokiv.fi/amigan-retroa/\" target=\"_blank\" rel=\"noopener noreferrer\">Liberation: Captive 2</a> pelin CD32 versiota.</p>\n\n<p>Kopioin oman CD-levyn tietokoneelle ja pistin pyörimään emulaattorilla. Ongelmitta näyttää toimivan. Ainakaan levyn lukeminen ei antanut virheilmoituksia ja peli lähti käyntiin.</p>",
+            "author": {
+                "name": "JoKiv"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-23T14:33:00+02:00",
+            "date_modified": "2026-04-03T14:36:10+03:00"
+        },
+        {
             "id": "https://jokiv.fi/kuusnepa-on-kotona/",
             "url": "https://jokiv.fi/kuusnepa-on-kotona/",
             "title": "Kuusnepa on kotona",
@@ -60,9 +74,9 @@
         {
             "id": "https://jokiv.fi/amigan-retroa-2/",
             "url": "https://jokiv.fi/amigan-retroa-2/",
-            "title": "Amigan retroa",
+            "title": "Amigan tilausta",
             "summary": "<p>Päätin katsella jälleenmyyjiä <a href=\"https://retrogames.biz/products/thea1200/\">TheA1200</a> ja nähtävästi niitä on suomessakin ainakin pari kappaletta.</p>\n",
-            "content_html": "<p>Päätin katsella jälleenmyyjiä <a href=\"https://retrogames.biz/products/thea1200/\">TheA1200</a> ja nähtävästi niitä on suomessakin ainakin pari kappaletta.</p>\n\n<p>Saatan jopa ennakkotilata, vaikka aikaisemmin kommentoin katsovani lähempänä kesää. </p>\n<p>Koska kamppeessa on <a href=\"https://en.wikipedia.org/wiki/Workbench_(AmigaOS)\">Workbench</a> (Amigan graafinen käyttöjärjestelmä) käytettävissä, saatan jopa palata siihen ajatukseen, että jos sillä voisi tehdä omia ohjelmia tai pelejä. Sen näkee sitten siinä vaiheessa.</p>",
+            "content_html": "<p>Päätin katsella jälleenmyyjiä <a href=\"https://retrogames.biz/products/thea1200/\">TheA1200</a> ja nähtävästi niitä on suomessakin ainakin pari kappaletta.</p>\n\n<p>Saatoin jopa ennakkotilata, vaikka aikaisemmin kommentoin katsovani lähempänä kesää. </p>\n<p>Koska kamppeessa on <a href=\"https://en.wikipedia.org/wiki/Workbench_(AmigaOS)\">Workbench</a> (Amigan graafinen käyttöjärjestelmä) käytettävissä, saatan jopa palata siihen ajatukseen, että jos sillä voisi tehdä omia ohjelmia tai pelejä. Sen näkee sitten siinä vaiheessa.</p>",
             "author": {
                 "name": "JoKiv"
             },
@@ -72,7 +86,7 @@
                    "amiga"
             ],
             "date_published": "2025-11-24T17:15:18+02:00",
-            "date_modified": "2025-11-24T17:15:18+02:00"
+            "date_modified": "2026-04-03T14:31:44+03:00"
         },
         {
             "id": "https://jokiv.fi/kirjoituksia/",
@@ -156,20 +170,6 @@
             ],
             "date_published": "2024-12-15T13:57:44+02:00",
             "date_modified": "2025-01-29T01:56:30+02:00"
-        },
-        {
-            "id": "https://jokiv.fi/kuukausi-toeitae-takana/",
-            "url": "https://jokiv.fi/kuukausi-toeitae-takana/",
-            "title": "Kuukausi töitä takana",
-            "summary": "<p>Nyt kun on ollu töissä kuukauden, huomaan miten pirteys ja jaksaminen ovat parantuneet.</p>\n",
-            "content_html": "<p>Nyt kun on ollu töissä kuukauden, huomaan miten pirteys ja jaksaminen ovat parantuneet.</p>\n\n<p>Säännöllinen rytmi on tuonut lisää energiaa päiviin, ja herään useammin virkeänä. Vaikka en ole erityisesti kärsinyt uniongelmista, nukkumaan meno on nyt helpompaa kuin ennen. Työpäivät antavat juuri sopivasti haastetta ja rasitusta, joka auttaa rentoutumaan illalla. Säännöllisyys ja tasapaino vaikuttaa hyvinvointiin.</p>\n<p>Striimaaminen on taas käynnistynyt pitkän tauon jälkeen, ja nyt takana on muutama kerta. Pidempi tauko piti homman poissa hetken aikaa. Katsella tuleeko millä aikataululla ja useammin kuin pari kertaa kuukaudessa. Jatkon näkee sitten.</p>\n<p>Myös YouTube on jäänyt vähän vähemmälle, mutta katsellaan mitä sinne saisi aikaan.</p>",
-            "author": {
-                "name": "JoKiv"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-09-30T08:57:12+03:00",
-            "date_modified": "2024-09-30T08:57:12+03:00"
         }
     ]
 }

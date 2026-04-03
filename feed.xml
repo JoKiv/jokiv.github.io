@@ -3,12 +3,35 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2026-01-30T12:51:24+02:00</updated>
+    <updated>2026-04-03T14:36:10+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Lyhyesti testattu Liberation: Captive 2</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/lyhyesti-testattu-liberation-captive-2/"/>
+        <id>https://jokiv.fi/lyhyesti-testattu-liberation-captive-2/</id>
+
+        <updated>2026-03-23T14:33:00+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>Tuossa tuli testattua <a href="https://jokiv.fi/amigan-retroa/" target="_blank" rel="noopener noreferrer">Liberation: Captive 2</a> pelin CD32 versiota.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tuossa tuli testattua <a href="https://jokiv.fi/amigan-retroa/" target="_blank" rel="noopener noreferrer">Liberation: Captive 2</a> pelin CD32 versiota.</p>
+
+<p>Kopioin oman CD-levyn tietokoneelle ja pistin pyörimään emulaattorilla. Ongelmitta näyttää toimivan. Ainakaan levyn lukeminen ei antanut virheilmoituksia ja peli lähti käyntiin.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Kuusnepa on kotona</title>
         <author>
@@ -87,7 +110,7 @@
         </content>
     </entry>
     <entry>
-        <title>Amigan retroa</title>
+        <title>Amigan tilausta</title>
         <author>
             <name>JoKiv</name>
         </author>
@@ -108,7 +131,7 @@
             <![CDATA[
                 <p>Päätin katsella jälleenmyyjiä <a href="https://retrogames.biz/products/thea1200/">TheA1200</a> ja nähtävästi niitä on suomessakin ainakin pari kappaletta.</p>
 
-<p>Saatan jopa ennakkotilata, vaikka aikaisemmin kommentoin katsovani lähempänä kesää. </p>
+<p>Saatoin jopa ennakkotilata, vaikka aikaisemmin kommentoin katsovani lähempänä kesää. </p>
 <p>Koska kamppeessa on <a href="https://en.wikipedia.org/wiki/Workbench_(AmigaOS)">Workbench</a> (Amigan graafinen käyttöjärjestelmä) käytettävissä, saatan jopa palata siihen ajatukseen, että jos sillä voisi tehdä omia ohjelmia tai pelejä. Sen näkee sitten siinä vaiheessa.</p>
             ]]>
         </content>
@@ -260,31 +283,6 @@
 <p>Seuraavana ajatuksessa on mahdollisesti uudelleenkirjoittaa peli vaikka aloituksessa kommentoimallani Haxella. Mahdollisesti käyttäen <a href="https://haxeflixel.com/" target="_blank" rel="noopener noreferrer">HaxeFlixel</a> ja <a href="https://www.openfl.org/" target="_blank" rel="noopener noreferrer">OpenFL</a>. Tämä mahdollistaisi pelin pelaamisen ilman flashiä. Löysin myös keinoja muuntaa koodia kieleltä toiselle. Tästä kommentoin (ehkä) joskus toiste enemmän.</p>
 <p>Toki muitakin kieliä ja pelimoottoreita voisi käyttää. Onko kuitenkaan hyvä ajatus tehdä kymmenien tai satojen megojen kokoisen pelin alkuperäisestä puolen megan pelistä. Toki, jos remake tai remaster olisi mielessä. </p>
 <p>Katsotaan, mihin tämä (ehkä) johtaa. Nämä ovat näitä hitaasti eteneviä projekteja.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Kuukausi töitä takana</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/kuukausi-toeitae-takana/"/>
-        <id>https://jokiv.fi/kuukausi-toeitae-takana/</id>
-
-        <updated>2024-09-30T08:57:12+03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p>Nyt kun on ollu töissä kuukauden, huomaan miten pirteys ja jaksaminen ovat parantuneet.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Nyt kun on ollu töissä kuukauden, huomaan miten pirteys ja jaksaminen ovat parantuneet.</p>
-
-<p>Säännöllinen rytmi on tuonut lisää energiaa päiviin, ja herään useammin virkeänä. Vaikka en ole erityisesti kärsinyt uniongelmista, nukkumaan meno on nyt helpompaa kuin ennen. Työpäivät antavat juuri sopivasti haastetta ja rasitusta, joka auttaa rentoutumaan illalla. Säännöllisyys ja tasapaino vaikuttaa hyvinvointiin.</p>
-<p>Striimaaminen on taas käynnistynyt pitkän tauon jälkeen, ja nyt takana on muutama kerta. Pidempi tauko piti homman poissa hetken aikaa. Katsella tuleeko millä aikataululla ja useammin kuin pari kertaa kuukaudessa. Jatkon näkee sitten.</p>
-<p>Myös YouTube on jäänyt vähän vähemmälle, mutta katsellaan mitä sinne saisi aikaan.</p>
             ]]>
         </content>
     </entry>
