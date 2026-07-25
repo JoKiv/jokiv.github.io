@@ -3,12 +3,34 @@
     <title>JoKiv</title>
     <link href="https://jokiv.fi/feed.xml" rel="self" />
     <link href="https://jokiv.fi" />
-    <updated>2026-04-03T14:36:51+03:00</updated>
+    <updated>2026-07-25T15:10:17+03:00</updated>
     <author>
         <name>JoKiv</name>
     </author>
     <id>https://jokiv.fi</id>
 
+    <entry>
+        <title>Amigan tilauksesta</title>
+        <author>
+            <name>JoKiv</name>
+        </author>
+        <link href="https://jokiv.fi/amigan-tilauksesta/"/>
+        <id>https://jokiv.fi/amigan-tilauksesta/</id>
+            <category term="retro"/>
+            <category term="amiga"/>
+
+        <updated>2026-05-06T20:00:00+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Nähtävästi amigan julkaisu siirtyy siirtyy joulukuulle. Odotellaan lisätietoja.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Nähtävästi amigan julkaisu siirtyy siirtyy joulukuulle. Odotellaan lisätietoja.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lyhyesti testattu Liberation: Captive 2</title>
         <author>
@@ -252,40 +274,6 @@
         <content type="html">
             <![CDATA[
                 <p>Hyvää uutta vuotta kaikille! Uusi vuosi tuokoon mukanaan uusia mahdollisuuksia ja tavoitteita. Onnea, menestystä ja inspiraatiota tulevalle vuodelle.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Parempi myöhään, kuin ei milloinkaan</title>
-        <author>
-            <name>JoKiv</name>
-        </author>
-        <link href="https://jokiv.fi/parempi-myoehaeaen-kuin-ei-milloinkaan/"/>
-        <id>https://jokiv.fi/parempi-myoehaeaen-kuin-ei-milloinkaan/</id>
-            <category term="virtuaalikone"/>
-            <category term="retro"/>
-            <category term="ohjelmointi"/>
-            <category term="flash"/>
-
-        <updated>2024-12-15T13:57:44+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p>Otsikon mukainen sanonta on aika tunnettu. Tässä kuitenki voi joidenki mielestä olla joidenkin mielestä "mutta miksi..", varsinkin kun kyseessä on <a href="https://en.wikipedia.org/wiki/Adobe_Flash" target="_blank" rel="noopener noreferrer">flash</a>.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Otsikon mukainen sanonta on aika tunnettu. Tässä kuitenki voi joidenki mielestä olla joidenkin mielestä "mutta miksi..", varsinkin kun kyseessä on <a href="https://en.wikipedia.org/wiki/Adobe_Flash" target="_blank" rel="noopener noreferrer">flash</a>.</p>
-
-<p>Todellakin aloin tutkimaan, miten flash toimiii. Aihe lähti siitä, kun katselin youtubesta videoita pelimoottoreista ja jonkinverran ennestään tuttu <a href="https://haxe.org/" target="_blank" rel="noopener noreferrer">Haxe</a> tuli vastaan. Videossa myös mainittiin <a href="https://www.openfl.org/" target="_blank" rel="noopener noreferrer">OpenFL</a>. </p>
-<p>Haxella on flash pelejä tehty, mitä olen ymmärtänyt. Tästä tuli mieleen muutama vanha flash peli, jotka kiinnostaa minua, mutta niissä on jonkuverran ongelmia nykykoneilla. Joko ne eivät halua pyöriä ilman muutamaa nettipuolen asiaa tai sitten ne on kirjoitettu, etteivät ne pyörisi. Mahdollisesti pelaajien seuranta, jossa serverit eivät ole toiminnassa tai vain ettei niitä useampi kopioi. Toki tiedän, että <a href="https://archive.org" target="_blank" rel="noopener noreferrer">archive.org</a> sisältää useita kokoemia ja esimerkiksi <a href="https://flashpointarchive.org/" target="_blank" rel="noopener noreferrer">Flashpoint Archive</a> (aiemmin nimellä BlueMaxima Flashpoint), sekä muutama muu.</p>
-<p>Kuitenkin haluan itse tutkia. Pelien ja ohjelmien toiminta on kiinnostava aihe itselle. Latasin <a href="https://github.com/jindrapetrik/jpexs-decompiler" target="_blank" rel="noopener noreferrer">JPEXS Free Flash Decompiler</a> ja aloin tutkimaan swf tiedostojen sisältöä. Onneksi JPEXS osaa suoraan muokata koodia pelien sisällä. Osan sain toimimaan paremmin <a href="https://ruffle.rs/" target="_blank" rel="noopener noreferrer">Rufflella</a>. Aikaisemmin peli joko jumi, vilkkui toimimatta tai ei toiminut ollenkaan. Yleisimmät ongelmat tulivat tutuiksi.</p>
-<p>Asensin vanhemman Windowsin virtuaalikoneesen ja vanhan Macromedia Flashin testiversiolla avasin JPEXS puretun pelin, jos flashillä uudelleen muuttaisi uudempaan formaattiin. Onnistuin pakkaamaan uudemmalle flash versiolle ja korjata koodista virheitä. Flash ohjelma osaa paremmin kertoa, jos koodissa on häikkää. Uudelleenpakkaamisen vie sen verran aikaa, etten ajattele sitä niin tarpeelliseksi. Suurimman osan voin vain korjata suoraan JPEXSllä. No ainaki sai hieman kokemusta aiheesta.</p>
-<p>Loppujenlopuksi sain pelin toimimaan, Ruffle ei valita ongelmista ja pyörittää tasaisesti. Joskus riittää, että koodista korjaa rivin tai kaksi koodia.</p>
-<p>Seuraavana ajatuksessa on mahdollisesti uudelleenkirjoittaa peli vaikka aloituksessa kommentoimallani Haxella. Mahdollisesti käyttäen <a href="https://haxeflixel.com/" target="_blank" rel="noopener noreferrer">HaxeFlixel</a> ja <a href="https://www.openfl.org/" target="_blank" rel="noopener noreferrer">OpenFL</a>. Tämä mahdollistaisi pelin pelaamisen ilman flashiä. Löysin myös keinoja muuntaa koodia kieleltä toiselle. Tästä kommentoin (ehkä) joskus toiste enemmän.</p>
-<p>Toki muitakin kieliä ja pelimoottoreita voisi käyttää. Onko kuitenkaan hyvä ajatus tehdä kymmenien tai satojen megojen kokoisen pelin alkuperäisestä puolen megan pelistä. Toki, jos remake tai remaster olisi mielessä. </p>
-<p>Katsotaan, mihin tämä (ehkä) johtaa. Nämä ovat näitä hitaasti eteneviä projekteja.</p>
             ]]>
         </content>
     </entry>
